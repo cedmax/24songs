@@ -1,22 +1,42 @@
 .App {
-  text-align: center;
+  display: block;
+  overflow: auto;
+  padding: 3em;
+  min-height: 100%;
+  width: 100%;
+  font-size: 200%;
+  background: url('/knit1.png');
 }
 
-.App-logo {
-  height: 40vmin;
+.bk {
+  mix-blend-mode: overlay;
+  background-size: contain;
+  position: fixed;
+  width: calc(100% + 3em);
+  height: calc(100% + 3em);
+  left: -3em;
+  top: -3em;
+  background: url('/2.png');
+  min-height: 15rem;
+  pointer-events: none;
+}
+.bk:after {
+  content: '\A';
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background: rgba(0, 0, 0, 0.4);
+  opacity: 1;
+  transition: all 0.5s;
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #09d3ac;
+h1 {
+  /* font-size: 700%; */
+  padding: 0;
+  margin: 0;
+  color: #fff;
 }
