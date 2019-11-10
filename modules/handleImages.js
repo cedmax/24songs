@@ -5,7 +5,7 @@ const slugify = require('slugify');
 const slugConfig = { remove: /[*+~./?()'"!:@]/g };
 
 module.exports = async (year, arr) => {
-  const folder = `./src/data/${year}`;
+  const folder = `./public/images/${year}`;
   if (!fs.existsSync(folder)) {
     fs.mkdirSync(folder);
   }
