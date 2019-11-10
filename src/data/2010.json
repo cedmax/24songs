@@ -1,146 +1,146 @@
 [
-    {
-        "img": "65daysofstatic-Mountainhead.jpg",
-        "title": "Mountainhead",
-        "artist": "65daysofstatic",
-        "video": "https://youtube.com/watch?v=Adz32EMA_M8&list=RDAdz32EMA_M8&start_radio=1"
-    },
-    {
-        "img": "Why-A-Little-Titanic.jpg",
-        "title": "A Little Titanic",
-        "artist": "Why?",
-        "video": "https://youtube.com/watch?v=WBnAenouQ5s&list=RDWBnAenouQ5s&start_radio=1"
-    },
-    {
-        "img": "Unbelievable-Truth-Ciao-My-Shining-Star.jpg",
-        "title": "Ciao My Shining Star",
-        "artist": "Unbelievable Truth",
-        "video": "https://youtube.com/watch?v=N6aevCz-MRY&list=PL3W0aL-wAGsonSGfsmK_vBQ1P9GaJY-yW"
-    },
-    {
-        "img": "NOFX-Day-To-Daze.jpg",
-        "title": "Day To Daze",
-        "artist": "NOFX",
-        "video": "https://youtube.com/watch?v=kUnUXHDtUFU&list=RDkUnUXHDtUFU&start_radio=1"
-    },
-    {
-        "img": "Jonsi-Boy-Lilikoi.jpg",
-        "title": "Boy Lilikoi",
-        "artist": "Jónsi",
-        "video": "https://youtube.com/watch?v=oKs7NHAO4nI&list=RDoKs7NHAO4nI&start_radio=1"
-    },
-    {
-        "img": "Girls-In-The-Eighties-Yesterdays-Dont-Mean-Shit.jpg",
-        "title": "Yesterdays Don't Mean Shit",
-        "artist": "Girls In The Eighties",
-        "video": "https://youtube.com/watch?v=SuoTjYYqe4c&list=PL-TaL0bg-OcWJyHL7PePbr4KWANSadMNg"
-    },
-    {
-        "img": "Giardini-di-Miro-LA-CENERE-1.jpg",
-        "title": "LA CENERE 1",
-        "artist": "Giardini di Mirò",
-        "video": "https://youtube.com/watch?v=RzlYvPrGhVg&list=PLtyKn--QvKjP_L962xtnoOHO-vvlabMR_"
-    },
-    {
-        "img": "CarbonSilicon-Fresh-Start.jpg",
-        "title": "Fresh Start",
-        "artist": "Carbon/Silicon",
-        "video": "https://youtube.com/watch?v=q6IwFQAgV6c&list=PLIxMYwjp6Ai0LrItTA4bfLocjAjpPw7ea"
-    },
-    {
-        "img": "Calibro-35-Luomo-dagli-occhi-di-ghiaccio.jpg",
-        "title": "L'uomo dagli occhi di ghiaccio",
-        "artist": "Calibro 35",
-        "video": "https://youtube.com/watch?v=9XqiA7a5NMs&list=PLC-0qfVfF1JPl-CmMgHXyIqYJdqZpPKUG"
-    },
-    {
-        "img": "Bomb-the-Music-Industry-Everybody-That-You-Love.jpg",
-        "title": "Everybody That You Love",
-        "artist": "Bomb the Music Industry!",
-        "video": "https://youtube.com/watch?v=Ass-JUyWFfs&list=RDAss-JUyWFfs&start_radio=1"
-    },
-    {
-        "img": "Owen-Pallett-Lewis-Takes-Off-His-Shirt.jpg",
-        "title": "Lewis Takes Off His Shirt",
-        "artist": "Owen Pallett",
-        "video": "https://youtube.com/watch?v=7G-cqAehehA&list=RD7G-cqAehehA&start_radio=1"
-    },
-    {
-        "img": "Michael-Stipe-Everythings-Coming-Undone.jpg",
-        "title": "Everything's Coming Undone",
-        "artist": "Michael Stipe",
-        "video": "https://youtube.com/watch?v=Badw6kyDj8w&list=RDBadw6kyDj8w&start_radio=1"
-    },
-    {
-        "img": "Local-Natives-Cubism-Dream.jpg",
-        "title": "Cubism Dream",
-        "artist": "Local Natives",
-        "video": "https://youtube.com/watch?v=26DrYvoviPo&list=RD26DrYvoviPo&start_radio=1"
-    },
-    {
-        "img": "Ben-Kweller-Wake-Up-Whispering.jpg",
-        "title": "Wake Up Whispering",
-        "artist": "Ben Kweller",
-        "video": "https://youtube.com/watch?v=zCmQz3s1cLM&list=PLgQ09qP8GKiawHV4bLQwdjMzcDeS5vjG5"
-    },
-    {
-        "img": "The-Zen-Circus-Andate-tutti-affanculo.jpg",
-        "title": "Andate tutti affanculo",
-        "artist": "The Zen Circus",
-        "video": "https://youtube.com/watch?v=DtXqZAKpdnU&list=PLA0129E4DA4D0240C"
-    },
-    {
-        "img": "Rocket-From-The-Tombs-In-Pursuit-Of-Your-Happiness.jpg",
-        "title": "In Pursuit Of Your Happiness",
-        "artist": "Rocket From The Tombs",
-        "video": "https://youtube.com/watch?v=Al1R4YWipvM&list=PL7KAlPZuWndvc-67qgS5a90v-3-bIX2Om"
-    },
-    {
-        "img": "Portugal-The-Man-60-Years.jpg",
-        "title": "60 Years",
-        "artist": "Portugal. The Man",
-        "video": "https://youtube.com/watch?v=pBkHHoOIIn8&list=RDpBkHHoOIIn8&start_radio=1"
-    },
-    {
-        "img": "Enrico-Brizzi-and-Yuguerra-Rialzati-Bologna.jpg",
-        "title": "Rialzati Bologna",
-        "artist": "Enrico Brizzi & Yuguerra!",
-        "video": "https://youtube.com/watch?v=C7L1qwBwQqM&list=PLxpQz5ZH9hfMuYTApgwWvm80XgHbExFgi"
-    },
-    {
-        "img": "Assalti-Frontali-Enea-super-rap.jpg",
-        "title": "Enea super rap",
-        "artist": "Assalti Frontali",
-        "video": "https://youtube.com/watch?v=syvAW_9jJro&list=RDsyvAW_9jJro&start_radio=1"
-    },
-    {
-        "img": "Afterhours-Il-paese-e-reale.jpg",
-        "title": "Il paese è reale",
-        "artist": "Afterhours",
-        "video": "https://youtube.com/watch?v=m6_4eCBMFM8&list=RDm6_4eCBMFM8&start_radio=1"
-    },
-    {
-        "img": "Le-Luci-Della-Centrale-Elettrica-Cara-catastrofe.jpg",
-        "title": "Cara catastrofe",
-        "artist": "Le Luci Della Centrale Elettrica",
-        "video": "https://youtube.com/watch?v=2Dnkc_-7tHo&list=RD2Dnkc_-7tHo&start_radio=1"
-    },
-    {
-        "img": "Danger-Mouse-and-Sparklehorse-Revenge-Featuring-The-Flaming-Lips.jpg",
-        "title": "Revenge (Featuring The Flaming Lips)",
-        "artist": "Danger Mouse and Sparklehorse",
-        "video": "https://youtube.com/watch?v=E-86OH2JREQ&list=RDE-86OH2JREQ&start_radio=1"
-    },
-    {
-        "img": "Oh-No-Oh-My-You-Were-Right.jpg",
-        "title": "You Were Right",
-        "artist": "Oh No Oh My",
-        "video": "https://youtube.com/watch?v=yKtUv2QQavk&list=RDyKtUv2QQavk&start_radio=1"
-    },
-    {
-        "img": "Thom-Yorke-All-For-The-Best.jpg",
-        "title": "All For The Best",
-        "artist": "Thom Yorke",
-        "video": "https://youtube.com/watch?v=Yassj4iJK1k&list=RDYassj4iJK1k&start_radio=1"
-    }
+  {
+    "img": "65daysofstatic-Mountainhead.jpg",
+    "title": "Mountainhead",
+    "artist": "65daysofstatic",
+    "video": "https://youtube.com/watch?v=Adz32EMA_M8"
+  },
+  {
+    "img": "Why-A-Little-Titanic.jpg",
+    "title": "A Little Titanic",
+    "artist": "Why?",
+    "video": "https://youtube.com/watch?v=AjMlAOHwUCE"
+  },
+  {
+    "img": "Unbelievable-Truth-Ciao-My-Shining-Star.jpg",
+    "title": "Ciao My Shining Star",
+    "artist": "Unbelievable Truth",
+    "video": "https://markmulcahyhq.bandcamp.com/track/ciao-my-shining-star-2"
+  },
+  {
+    "img": "NOFX-Day-To-Daze.jpg",
+    "title": "Day To Daze",
+    "artist": "NOFX",
+    "video": "https://youtube.com/watch?v=kUnUXHDtUFU"
+  },
+  {
+    "img": "Jonsi-Boy-Lilikoi.jpg",
+    "title": "Boy Lilikoi",
+    "artist": "Jónsi",
+    "video": "https://youtube.com/watch?v=oKs7NHAO4nI"
+  },
+  {
+    "img": "Girls-In-The-Eighties-Yesterdays-Dont-Mean-Shit.jpg",
+    "title": "Yesterdays Don't Mean Shit",
+    "artist": "Girls In The Eighties",
+    "video": "https://youtube.com/watch?v=TJzyLxSzO4A"
+  },
+  {
+    "img": "Giardini-di-Miro-LA-CENERE-1.jpg",
+    "title": "LA CENERE 1",
+    "artist": "Giardini di Mirò",
+    "video": "https://youtube.com/watch?v=zrjR108hT04"
+  },
+  {
+    "img": "CarbonSilicon-Fresh-Start.jpg",
+    "title": "Fresh Start",
+    "artist": "Carbon/Silicon",
+    "video": "https://youtube.com/watch?v=coJgSXvmEFw"
+  },
+  {
+    "img": "Calibro-35-Luomo-dagli-occhi-di-ghiaccio.jpg",
+    "title": "L'uomo dagli occhi di ghiaccio",
+    "artist": "Calibro 35",
+    "video": "https://youtube.com/watch?v=ERWqORtWtjI"
+  },
+  {
+    "img": "Bomb-the-Music-Industry-Everybody-That-You-Love.jpg",
+    "title": "Everybody That You Love",
+    "artist": "Bomb the Music Industry!",
+    "video": "https://youtube.com/watch?v=Ass-JUyWFfs"
+  },
+  {
+    "img": "Owen-Pallett-Lewis-Takes-Off-His-Shirt.jpg",
+    "title": "Lewis Takes Off His Shirt",
+    "artist": "Owen Pallett",
+    "video": "https://youtube.com/watch?v=7G-cqAehehA"
+  },
+  {
+    "img": "Michael-Stipe-Everythings-Coming-Undone.jpg",
+    "title": "Everything's Coming Undone",
+    "artist": "Michael Stipe",
+    "video": "https://youtube.com/watch?v=Badw6kyDj8w"
+  },
+  {
+    "img": "Local-Natives-Cubism-Dream.jpg",
+    "title": "Cubism Dream",
+    "artist": "Local Natives",
+    "video": "https://youtube.com/watch?v=26DrYvoviPo"
+  },
+  {
+    "img": "Ben-Kweller-Wake-Up-Whispering.jpg",
+    "title": "Wake Up Whispering",
+    "artist": "Ben Kweller",
+    "video": "https://youtube.com/watch?v=R01CVFRMAH4"
+  },
+  {
+    "img": "The-Zen-Circus-Andate-tutti-affanculo.jpg",
+    "title": "Andate tutti affanculo",
+    "artist": "The Zen Circus",
+    "video": "https://youtube.com/watch?v=KPQFXPyALr8"
+  },
+  {
+    "img": "Rocket-From-The-Tombs-In-Pursuit-Of-Your-Happiness.jpg",
+    "title": "In Pursuit Of Your Happiness",
+    "artist": "Rocket From The Tombs",
+    "video": "https://youtube.com/watch?v=q4rWm2LE5Dc"
+  },
+  {
+    "img": "Portugal-The-Man-60-Years.jpg",
+    "title": "60 Years",
+    "artist": "Portugal. The Man",
+    "video": "https://youtube.com/watch?v=Tg6W1Bm50e4"
+  },
+  {
+    "img": "Enrico-Brizzi-and-Yuguerra-Rialzati-Bologna.jpg",
+    "title": "Rialzati Bologna",
+    "artist": "Enrico Brizzi & Yuguerra!",
+    "video": "https://youtube.com/watch?v=C7L1qwBwQqM"
+  },
+  {
+    "img": "Assalti-Frontali-Enea-super-rap.jpg",
+    "title": "Enea super rap",
+    "artist": "Assalti Frontali",
+    "video": "https://youtube.com/watch?v=syvAW_9jJro"
+  },
+  {
+    "img": "Afterhours-Il-paese-e-reale.jpg",
+    "title": "Il paese è reale",
+    "artist": "Afterhours",
+    "video": "https://youtube.com/watch?v=m6_4eCBMFM8"
+  },
+  {
+    "img": "Le-Luci-Della-Centrale-Elettrica-Cara-catastrofe.jpg",
+    "title": "Cara catastrofe",
+    "artist": "Le Luci Della Centrale Elettrica",
+    "video": "https://youtube.com/watch?v=2Dnkc_-7tHo"
+  },
+  {
+    "img": "Danger-Mouse-and-Sparklehorse-Revenge-Featuring-The-Flaming-Lips.jpg",
+    "title": "Revenge (Featuring The Flaming Lips)",
+    "artist": "Danger Mouse and Sparklehorse",
+    "video": "https://youtube.com/watch?v=E-86OH2JREQ"
+  },
+  {
+    "img": "Oh-No-Oh-My-You-Were-Right.jpg",
+    "title": "You Were Right",
+    "artist": "Oh No Oh My",
+    "video": "https://youtube.com/watch?v=WD0aeToz-fU"
+  },
+  {
+    "img": "Thom-Yorke-All-For-The-Best.jpg",
+    "title": "All For The Best",
+    "artist": "Thom Yorke",
+    "video": "https://youtube.com/watch?v=Yassj4iJK1k"
+  }
 ]
