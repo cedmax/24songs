@@ -42,7 +42,7 @@ async function fetch(arr, year, page = 1) {
     const dataToSave = await handleImages(year, filtered);
 
     fs.writeFileSync(
-      `./data/${year}.json`,
+      `./src/data/${year}.json`,
       JSON.stringify(dataToSave.reverse(), null, 4),
       'utf-8'
     );
