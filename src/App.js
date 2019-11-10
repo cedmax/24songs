@@ -5,6 +5,9 @@ import Calendar from './Calendar';
 import './App.css';
 
 const customStyles = {
+  overlay: {
+    zIndex: 1,
+  },
   content: {
     top: '50%',
     left: '50%',

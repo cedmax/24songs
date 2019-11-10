@@ -14,6 +14,7 @@ export default ({ year, data, setVideo }) => {
       <header className="title">
         <h1>
           <strong>24</strong> songs
+          <small>{year}</small>
         </h1>
       </header>
       {data.map(item => (

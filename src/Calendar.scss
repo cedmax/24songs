@@ -1,4 +1,5 @@
 .grid-container {
+  counter-reset: section;
   & > * {
     float: left;
     text-shadow: 1px 1px 1px #000;
@@ -36,17 +37,18 @@
       content: attr(data-content);
       display: block;
       position: absolute;
-      top: 100%;
+      bottom: 0;
       background: rgba(0, 0, 0, 0.6);
       color: white;
       width: 100%;
       padding: 1em;
-      transition: all 0.2s ease-in;
+      transition: all 0.3s ease-in;
       opacity: 0;
+      transform: translateY(100%);
     }
 
     &:hover span {
-      transform: translateY(-100%);
+      transform: translateY(0);
       opacity: 1;
     }
   }
@@ -59,6 +61,28 @@
     fill: rgba(255, 255, 255, 1);
     margin: 4rem;
   }
+  & > button {
+    &::before {
+      counter-increment: section;
+      content: counter(section) ' Dec';
+      display: block;
+      position: absolute;
+      color: white;
+      z-index: 1;
+      left: 0;
+      bottom: 0;
+      font-size: 120%;
+      padding: 3px 5px;
+      background: rgba(0, 0, 0, 0.6);
+      opacity: 1;
+      transition: all 0.3s ease-in;
+    }
+
+    &:hover::before {
+      opacity: 0;
+      transform: translateY(100%);
+    }
+  }
 }
 
 .title {
@@ -70,9 +94,20 @@
   overflow: visible;
   line-height: 0.7;
 
+  h1 {
+    padding: 0;
+    margin: 0;
+    color: #fff;
+    margin-right: 1rem;
+    margin-bottom: 2rem;
+  }
+  small {
+    font-size: 30%;
+    margin-left: 0.7rem;
+  }
   strong {
     font-size: 210%;
-    margin-right: -4rem;
+    margin-right: -0.4rem;
     display: block;
   }
 
