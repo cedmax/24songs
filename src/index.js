@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
-const year = 2009;
+const year = 2018;
 
 ReactDOM.render(
   <App year={year} data={require(`./data/${year}.json`)} />,

@@ -4,6 +4,19 @@ import Tuber from 'react-tuber';
 import Calendar from './Calendar';
 import './App.css';
 
+const customStyles = {
+  content: {
+    top: '50%',
+    left: '50%',
+    width: '90%',
+    bottom: 'auto',
+    maxWidth: 500,
+    padding: 0,
+    right: 0,
+    transform: 'translate(-50%, -50%)',
+  },
+};
+
 function App({ data, year }) {
   const [video, setVideo] = useState(null);
   const close = useCallback(() => {
@@ -14,8 +27,8 @@ function App({ data, year }) {
       <div className="bk" />
       <Calendar setVideo={setVideo} year={year} data={data} />
       {video && (
-        <Modal onRequestClose={close} isOpen={!!video}>
-          <Tuber src={video} />
+        <Modal style={customStyles} onRequestClose={close} isOpen={!!video}>
+          <Tuber aspect="16:9" autoplay={true} src={video} />
         </Modal>
       )}
     </div>

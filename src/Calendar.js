@@ -13,7 +13,7 @@ export default ({ year, data, setVideo }) => {
     <div className="grid-container">
       <header className="title">
         <h1>
-          <span>24</span> songs
+          <strong>24</strong> songs
         </h1>
       </header>
       {data.map(item => (
@@ -22,6 +22,10 @@ export default ({ year, data, setVideo }) => {
             alt={item.artist + ' ' + item.title}
             src={require(`./data/${year}/${item.img}`)}
           />
+          <span>
+            {item.title} <br />
+            <small>by</small> {item.artist}
+          </span>
         </button>
       ))}
     </div>
