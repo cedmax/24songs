@@ -1,7 +1,7 @@
 .App {
   display: block;
   overflow: auto;
-  padding: 3em;
+  padding: 1rem 3em 3rem;
   min-height: 100%;
   width: 100%;
   font-size: 200%;
@@ -20,6 +20,7 @@
   min-height: 15rem;
   pointer-events: none;
 }
+
 .bk:after {
   content: '\A';
   position: absolute;
@@ -35,8 +36,9 @@
 }
 
 h1 {
-  /* font-size: 700%; */
   padding: 0;
   margin: 0;
   color: #fff;
+  margin-right: 5rem;
+  margin-bottom: 2rem;
 }
