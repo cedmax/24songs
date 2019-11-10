@@ -3,8 +3,8 @@ const cheerio = require('cheerio');
 
 const getUrl = (artist, title) =>
   `https://www.youtube.com/results?search_query=${encodeURI(
-    `${artist} ${title}`
-  )}+official+video+-cover+-live`;
+    `${title} by ${artist} `
+  )}+official+video`;
 
 module.exports = async (artist, title) => {
   const { data } = await axios.get(getUrl(artist, title));
