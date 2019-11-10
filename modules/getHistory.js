@@ -1,5 +1,6 @@
 const axios = require('axios');
 const cheerio = require('cheerio');
+const getYoutubeData = require('./getYoutubeData');
 const fs = require('fs');
 const handleImages = require('./handleImages');
 const initialYear = 2006;
@@ -38,6 +39,11 @@ async function fetch(arr, year, page = 1) {
     return fetch(filtered, year, ++page);
   } else {
     filtered.length = 24;
+
+    for (let i = 0; i < filtered.length; i++) {
+      const { artist, title } = filtered[i];
+      filtered[i].video = await getYoutubeData(artist, title);
+    }
 
     const dataToSave = await handleImages(year, filtered);
 

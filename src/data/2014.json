@@ -1,122 +1,146 @@
 [
-    {
-        "img": "Pixies-Caribou.jpg",
-        "title": "Caribou",
-        "artist": "Pixies"
-    },
-    {
-        "img": "Beach-Fossils-Clash-The-Truth.jpg",
-        "title": "Clash The Truth",
-        "artist": "Beach Fossils"
-    },
-    {
-        "img": "Max-Richter-Journey-5.jpg",
-        "title": "Journey 5",
-        "artist": "Max Richter"
-    },
-    {
-        "img": "Le-Luci-Della-Centrale-Elettrica-Quando-tornerai-dallestero.jpg",
-        "title": "Quando tornerai dall'estero",
-        "artist": "Le Luci Della Centrale Elettrica"
-    },
-    {
-        "img": "Jeffrey-Lewis-Anxiety-Attack.jpg",
-        "title": "Anxiety Attack",
-        "artist": "Jeffrey Lewis"
-    },
-    {
-        "img": "And-You-Will-Know-Us-by-the-Trail-of-Dead-Far-Pavillions.jpg",
-        "title": "Far Pavillions",
-        "artist": "...And You Will Know Us by the Trail of Dead"
-    },
-    {
-        "img": "Teho-Teardo-Come-up-and-See-Me.jpg",
-        "title": "Come up and See Me",
-        "artist": "Teho Teardo"
-    },
-    {
-        "img": "Vampire-Weekend-Oxford-Comma.jpg",
-        "title": "Oxford Comma",
-        "artist": "Vampire Weekend"
-    },
-    {
-        "img": "Enrico-Brizzi-E-Yuguerra-Dio-Salvi-Bologna.jpg",
-        "title": "Dio Salvi Bologna",
-        "artist": "Enrico Brizzi E Yuguerra"
-    },
-    {
-        "img": "New-Century-Classics-Room-One.jpg",
-        "title": "Room One",
-        "artist": "New Century Classics"
-    },
-    {
-        "img": "Offlaga-Disco-Pax-Respinti-alluscio.jpg",
-        "title": "Respinti all'uscio",
-        "artist": "Offlaga Disco Pax"
-    },
-    {
-        "img": "Subsonica-Mammifero.jpg",
-        "title": "Mammifero",
-        "artist": "Subsonica"
-    },
-    {
-        "img": "Cloud-Nothings-Stay-Useless.jpg",
-        "title": "Stay Useless",
-        "artist": "Cloud Nothings"
-    },
-    {
-        "img": "Electric-Superfuzz-Silver-Yeah.jpg",
-        "title": "Silver Yeah",
-        "artist": "Electric Superfuzz"
-    },
-    {
-        "img": "oskar-ohlson-untitled-24.jpg",
-        "title": "untitled 24",
-        "artist": "oskar ohlson"
-    },
-    {
-        "img": "Little-Comets-Adultery.jpg",
-        "title": "Adultery",
-        "artist": "Little Comets"
-    },
-    {
-        "img": "Rancid-Indestructible.jpg",
-        "title": "Indestructible",
-        "artist": "Rancid"
-    },
-    {
-        "img": "Verlaine-ti-ho-gia-detto-il-mio-nome.jpg",
-        "title": "ti ho già detto il mio nome",
-        "artist": "Verlaine"
-    },
-    {
-        "img": "Future-Islands-Fall-from-Grace.jpg",
-        "title": "Fall from Grace",
-        "artist": "Future Islands"
-    },
-    {
-        "img": "Fine-Before-You-Came-Angoli.jpg",
-        "title": "Angoli",
-        "artist": "Fine Before You Came"
-    },
-    {
-        "img": "Future-of-the-Left-Goals-in-Slow-Motion.jpg",
-        "title": "Goals in Slow Motion",
-        "artist": "Future of the Left"
-    },
-    {
-        "img": "Lo-Stato-Sociale-Senza-macchine-che-vadano-a-fuoco.jpg",
-        "title": "Senza macchine che vadano a fuoco",
-        "artist": "Lo Stato Sociale"
-    },
-    {
-        "img": "Fast-Animals-and-slow-kids-A-Cosa-Ci-Serve.jpg",
-        "title": "A Cosa Ci Serve",
-        "artist": "Fast Animals and slow kids"
-    },
-    {
-        "img": "Mary-in-June-Olio,-benzina-e-cherosene.jpg",
-        "title": "Olio, benzina e cherosene",
-        "artist": "Mary in June"
-    }
+  {
+    "img": "Pixies-Caribou.jpg",
+    "title": "Caribou",
+    "artist": "Pixies",
+    "video": "https://youtube.com/watch?v=BLVEVmbL0bw&list=PL8PgBjAbTO5wuU0SqYoS-CN90ir3UaajX"
+  },
+  {
+    "img": "Beach-Fossils-Clash-The-Truth.jpg",
+    "title": "Clash The Truth",
+    "artist": "Beach Fossils",
+    "video": "https://youtube.com/watch?v=kG2rqQlZYQk&list=PL3ncw1PSmzIEWt0GDVz2TGk0WPYiYbb2h"
+  },
+  {
+    "img": "Max-Richter-Journey-5.jpg",
+    "title": "Journey 5",
+    "artist": "Max Richter",
+    "video": "https://youtube.com/watch?v=sRPGEbhvbIU&list=PLwlkYAVP_6w4i0Dm-Uzq0-X2d4NDDe-JJ"
+  },
+  {
+    "img": "Le-Luci-Della-Centrale-Elettrica-Quando-tornerai-dallestero.jpg",
+    "title": "Quando tornerai dall'estero",
+    "artist": "Le Luci Della Centrale Elettrica",
+    "video": "https://youtube.com/watch?v=4vv4HzusRmM&list=PLDE6884E4BC1E444D"
+  },
+  {
+    "img": "Jeffrey-Lewis-Anxiety-Attack.jpg",
+    "title": "Anxiety Attack",
+    "artist": "Jeffrey Lewis",
+    "video": "https://youtube.com/watch?v=3ArtxNt606U&list=PL30F98D5D50F85D72"
+  },
+  {
+    "img": "And-You-Will-Know-Us-by-the-Trail-of-Dead-Far-Pavillions.jpg",
+    "title": "Far Pavillions",
+    "artist": "...And You Will Know Us by the Trail of Dead",
+    "video": "https://youtube.com/watch?v=cGQkunuvQiI&list=OLAK5uy_kKyd5uoWjA_-BtsBMow_PYRAMyEUVbLlg"
+  },
+  {
+    "img": "Teho-Teardo-Come-up-and-See-Me.jpg",
+    "title": "Come up and See Me",
+    "artist": "Teho Teardo",
+    "video": "https://youtube.com/watch?v=OiPVgAhRE6E&list=PLU-XAw_eDfAtxDWPdyL1VnD0fvm_N82vr"
+  },
+  {
+    "img": "Vampire-Weekend-Oxford-Comma.jpg",
+    "title": "Oxford Comma",
+    "artist": "Vampire Weekend",
+    "video": "https://youtube.com/watch?v=f8LWcfa8No0&list=PLlqzGIkqDLAPH83ckl2zvWpvrYbZTGreZ"
+  },
+  {
+    "img": "Enrico-Brizzi-E-Yuguerra-Dio-Salvi-Bologna.jpg",
+    "title": "Dio Salvi Bologna",
+    "artist": "Enrico Brizzi E Yuguerra",
+    "video": "https://youtube.com/watch?v=C7L1qwBwQqM&list=PLKO0W_1bRL31p5sIxjIIsX37Aga2XZpwz"
+  },
+  {
+    "img": "New-Century-Classics-Room-One.jpg",
+    "title": "Room One",
+    "artist": "New Century Classics",
+    "video": "https://youtube.com/watch?v=wNGnCLod-qg&list=PLA4424F41531FA386"
+  },
+  {
+    "img": "Offlaga-Disco-Pax-Respinti-alluscio.jpg",
+    "title": "Respinti all'uscio",
+    "artist": "Offlaga Disco Pax",
+    "video": "https://youtube.com/watch?v=rCBHtER91yk&list=PLoheJS-C7vdkSGZKtRPpwMqnBxz6C3tLn"
+  },
+  {
+    "img": "Subsonica-Mammifero.jpg",
+    "title": "Mammifero",
+    "artist": "Subsonica",
+    "video": "https://youtube.com/watch?v=zsifuxFXpO8&list=PLRESbxBsaE6-QDHgJtu7N8mlA8sgVy78g"
+  },
+  {
+    "img": "Cloud-Nothings-Stay-Useless.jpg",
+    "title": "Stay Useless",
+    "artist": "Cloud Nothings",
+    "video": "https://youtube.com/watch?v=T_zRt_EmqoU&list=PLB7GY8KLhwO_YwZFGtd9TQJDkrjuy8lXd"
+  },
+  {
+    "img": "Electric-Superfuzz-Silver-Yeah.jpg",
+    "title": "Silver Yeah",
+    "artist": "Electric Superfuzz",
+    "video": "https://youtube.com/watch?v=1M02bAWDFkI&list=PL44ilhuKQlQwPk-daWhqtrMTJ6ykCBIH3"
+  },
+  {
+    "img": "oskar-ohlson-untitled-24.jpg",
+    "title": "untitled 24",
+    "artist": "oskar ohlson",
+    "video": ""
+  },
+  {
+    "img": "Little-Comets-Adultery.jpg",
+    "title": "Adultery",
+    "artist": "Little Comets",
+    "video": "https://youtube.com/watch?v=KHpILkfDYIs&list=PL91411CBAA70B96BD"
+  },
+  {
+    "img": "Rancid-Indestructible.jpg",
+    "title": "Indestructible",
+    "artist": "Rancid",
+    "video": "https://youtube.com/watch?v=I0Q37V8Hiew&list=PLkTEMG7d8880WXrKrbqSSYvDH0Xy2TggM"
+  },
+  {
+    "img": "Verlaine-ti-ho-gia-detto-il-mio-nome.jpg",
+    "title": "ti ho già detto il mio nome",
+    "artist": "Verlaine",
+    "video": "https://youtube.com/watch?v=SDVzJ9lmz3U&list=PL32E44EECDC3EC21F"
+  },
+  {
+    "img": "Future-Islands-Fall-from-Grace.jpg",
+    "title": "Fall from Grace",
+    "artist": "Future Islands",
+    "video": "https://youtube.com/watch?v=yE4SLcLXKV4&list=PL-yv5wrz-9obkU774euI2lWpoV2W3crjF"
+  },
+  {
+    "img": "Fine-Before-You-Came-Angoli.jpg",
+    "title": "Angoli",
+    "artist": "Fine Before You Came",
+    "video": ""
+  },
+  {
+    "img": "Future-of-the-Left-Goals-in-Slow-Motion.jpg",
+    "title": "Goals in Slow Motion",
+    "artist": "Future of the Left",
+    "video": "https://youtube.com/watch?v=HHwe-2WHVd4&list=PLd8PDSPm0lBaEAzfEveKEVzIitpkARVsg"
+  },
+  {
+    "img": "Lo-Stato-Sociale-Senza-macchine-che-vadano-a-fuoco.jpg",
+    "title": "Senza macchine che vadano a fuoco",
+    "artist": "Lo Stato Sociale",
+    "video": "https://youtube.com/watch?v=H8TezeQM_WQ&list=PLo2JE0myoCnltY4XZym0va8oACnXKbIKj"
+  },
+  {
+    "img": "Fast-Animals-and-slow-kids-A-Cosa-Ci-Serve.jpg",
+    "title": "A Cosa Ci Serve",
+    "artist": "Fast Animals and slow kids",
+    "video": "https://youtube.com/watch?v=7Lg5Y5wSmE4&list=PLNxDN0JpXaUCCzdUFiwKnUy_cdFYhuTPz"
+  },
+  {
+    "img": "Mary-in-June-Olio,-benzina-e-cherosene.jpg",
+    "title": "Olio, benzina e cherosene",
+    "artist": "Mary in June",
+    "video": "https://youtube.com/watch?v=G1ckCFkeL2o&list=PLv79wwcbHDmhUg0-3We0V8G9WsIt-8bjg"
+  }
 ]

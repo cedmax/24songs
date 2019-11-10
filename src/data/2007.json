@@ -1,122 +1,146 @@
 [
-    {
-        "img": "Peter-Bjorn-and-John-Objects-Of-My-Affection.jpg",
-        "title": "Objects Of My Affection",
-        "artist": "Peter Bjorn and John"
-    },
-    {
-        "img": "The-Whitest-Boy-Alive-Burning.jpg",
-        "title": "Burning",
-        "artist": "The Whitest Boy Alive"
-    },
-    {
-        "img": "Pavement-We-Dance.jpg",
-        "title": "We Dance",
-        "artist": "Pavement"
-    },
-    {
-        "img": "Im-from-Barcelona-The-Saddest-Lullaby-feat-Mathias-Alrikson.jpg",
-        "title": "The Saddest Lullaby (feat. Mathias Alrikson)",
-        "artist": "I'm from Barcelona"
-    },
-    {
-        "img": "Oh-No-Oh-My-A-Pirates-Anthem.jpg",
-        "title": "A Pirate's Anthem",
-        "artist": "Oh No Oh My"
-    },
-    {
-        "img": "of-Montreal-Bunny-Aint-No-Kind-Of-Rider.jpg",
-        "title": "Bunny Ain't No Kind Of Rider",
-        "artist": "of Montreal"
-    },
-    {
-        "img": "Chin-Up-Chin-Up-We-Should-Have-Never-Lived-Like-We-Were-Skyscrapers.jpg",
-        "title": "We Should Have Never Lived Like We Were Skyscrapers",
-        "artist": "Chin Up Chin Up"
-    },
-    {
-        "img": "We-All-Have-Hooks-For-Hands-Jumpin-Jean-Luc.jpg",
-        "title": "Jumpin Jean-Luc",
-        "artist": "We All Have Hooks For Hands"
-    },
-    {
-        "img": "Electric-President-Good-Morning,-Hypocrite.jpg",
-        "title": "Good Morning, Hypocrite",
-        "artist": "Electric President"
-    },
-    {
-        "img": "carpacho-Regole-per-un-cervello-difettoso.jpg",
-        "title": "Regole per un cervello difettoso",
-        "artist": "carpacho!"
-    },
-    {
-        "img": "Why-Rubber-Traits.jpg",
-        "title": "Rubber Traits",
-        "artist": "Why?"
-    },
-    {
-        "img": "Thee-More-Shallows-Night-At-the-Knight-School.jpg",
-        "title": "Night At the Knight School",
-        "artist": "Thee More Shallows"
-    },
-    {
-        "img": "Patrick-Wolf-The-Stars.jpg",
-        "title": "The Stars",
-        "artist": "Patrick Wolf"
-    },
-    {
-        "img": "Nuccini-Sick-Berth.jpg",
-        "title": "Sick Berth",
-        "artist": "Nuccini!"
-    },
-    {
-        "img": "Islands-Rough-Gem.jpg",
-        "title": "Rough Gem",
-        "artist": "Islands"
-    },
-    {
-        "img": "Hymies-Basement-21st-Century-Pop-Song.jpg",
-        "title": "21st Century Pop Song",
-        "artist": "Hymie's Basement"
-    },
-    {
-        "img": "The-Hours-Ali-In-The-Jungle.jpg",
-        "title": "Ali In The Jungle",
-        "artist": "The Hours"
-    },
-    {
-        "img": "Amari-Il-raffreddore-delle-donne.jpg",
-        "title": "Il raffreddore delle donne",
-        "artist": "Amari"
-    },
-    {
-        "img": "Wolf-Parade-Ill-Believe-in-Anything.jpg",
-        "title": "I'll Believe in Anything",
-        "artist": "Wolf Parade"
-    },
-    {
-        "img": "Arcade-Fire-Black-Mirror.jpg",
-        "title": "Black Mirror",
-        "artist": "Arcade Fire"
-    },
-    {
-        "img": "Clap-Your-Hands-Say-Yeah-Mama,-Wont-You-Keep-Those-Castles-In-The-Air-and-Burning.jpg",
-        "title": "Mama, Won't You Keep Those Castles In The Air & Burning?",
-        "artist": "Clap Your Hands Say Yeah"
-    },
-    {
-        "img": "Cloud-Cult-Chain-Reaction.jpg",
-        "title": "Chain Reaction",
-        "artist": "Cloud Cult"
-    },
-    {
-        "img": "Modena-Vox-Hard-Pressed.jpg",
-        "title": "Hard Pressed",
-        "artist": "Modena Vox"
-    },
-    {
-        "img": "Menomena-Wet-And-Rusting.jpg",
-        "title": "Wet And Rusting",
-        "artist": "Menomena"
-    }
+  {
+    "img": "Peter-Bjorn-and-John-Objects-Of-My-Affection.jpg",
+    "title": "Objects Of My Affection",
+    "artist": "Peter Bjorn and John",
+    "video": "https://youtube.com/watch?v=B7GU3msz72I&list=PL8F19C99E1A932A84"
+  },
+  {
+    "img": "The-Whitest-Boy-Alive-Burning.jpg",
+    "title": "Burning",
+    "artist": "The Whitest Boy Alive",
+    "video": "https://youtube.com/watch?v=-C9JSQUrYys&list=PLDFLh1pbVJGD0OHQtsH7YnR-ltMrfO6Bc"
+  },
+  {
+    "img": "Pavement-We-Dance.jpg",
+    "title": "We Dance",
+    "artist": "Pavement",
+    "video": "https://youtube.com/watch?v=sVhsO-Nbl5M&list=PLEEE8ACBBFC8BE137"
+  },
+  {
+    "img": "Im-from-Barcelona-The-Saddest-Lullaby-feat-Mathias-Alrikson.jpg",
+    "title": "The Saddest Lullaby (feat. Mathias Alrikson)",
+    "artist": "I'm from Barcelona",
+    "video": ""
+  },
+  {
+    "img": "Oh-No-Oh-My-A-Pirates-Anthem.jpg",
+    "title": "A Pirate's Anthem",
+    "artist": "Oh No Oh My",
+    "video": "https://youtube.com/watch?v=-NwtD3cfkrA&list=PLjbjv8JtZTRvzYVVi_3DcnaLC7coC2yTm"
+  },
+  {
+    "img": "of-Montreal-Bunny-Aint-No-Kind-Of-Rider.jpg",
+    "title": "Bunny Ain't No Kind Of Rider",
+    "artist": "of Montreal",
+    "video": "https://youtube.com/watch?v=dq1Y7uDUKwA&list=PLyV7FCW4fD842fi-BoNovgTrealdSyp_M"
+  },
+  {
+    "img": "Chin-Up-Chin-Up-We-Should-Have-Never-Lived-Like-We-Were-Skyscrapers.jpg",
+    "title": "We Should Have Never Lived Like We Were Skyscrapers",
+    "artist": "Chin Up Chin Up",
+    "video": "https://youtube.com/watch?v=j5eV98i58mk&list=OLAK5uy_k_wOfR9W1Ch6ar9J0jClt1pRclG8hMGMY"
+  },
+  {
+    "img": "We-All-Have-Hooks-For-Hands-Jumpin-Jean-Luc.jpg",
+    "title": "Jumpin Jean-Luc",
+    "artist": "We All Have Hooks For Hands",
+    "video": "https://youtube.com/watch?v=1_zSTfUqNqc&list=OLAK5uy_mJte3fZBYzoxUjPg-gMOEmbe0SB7c-wmw"
+  },
+  {
+    "img": "Electric-President-Good-Morning,-Hypocrite.jpg",
+    "title": "Good Morning, Hypocrite",
+    "artist": "Electric President",
+    "video": "https://youtube.com/watch?v=OWz00tNb2IU&list=PL966135FB87DDDDFD"
+  },
+  {
+    "img": "carpacho-Regole-per-un-cervello-difettoso.jpg",
+    "title": "Regole per un cervello difettoso",
+    "artist": "carpacho!",
+    "video": "https://youtube.com/watch?v=i9BQa-p6Pz0&list=PL968A2511141E5620"
+  },
+  {
+    "img": "Why-Rubber-Traits.jpg",
+    "title": "Rubber Traits",
+    "artist": "Why?",
+    "video": "https://youtube.com/watch?v=N7v9psZWwSs&list=PLobtZvPzu_TJ11CUQzvh7qcNX7Hj54x-N"
+  },
+  {
+    "img": "Thee-More-Shallows-Night-At-the-Knight-School.jpg",
+    "title": "Night At the Knight School",
+    "artist": "Thee More Shallows",
+    "video": "https://youtube.com/watch?v=X6gWE7wGCmY&list=PLmzoi9GavK_zPm4XPZjnxELri4ve3tVu3"
+  },
+  {
+    "img": "Patrick-Wolf-The-Stars.jpg",
+    "title": "The Stars",
+    "artist": "Patrick Wolf",
+    "video": "https://youtube.com/watch?v=_ZBrLowK4dM&list=PLEE5B8B220939CC09"
+  },
+  {
+    "img": "Nuccini-Sick-Berth.jpg",
+    "title": "Sick Berth",
+    "artist": "Nuccini!",
+    "video": "https://youtube.com/watch?v=AdJ5ldbSUU4&list=OLAK5uy_lXay4YcGiHqL3os-Uv0jbFWJJYLGw9eaQ"
+  },
+  {
+    "img": "Islands-Rough-Gem.jpg",
+    "title": "Rough Gem",
+    "artist": "Islands",
+    "video": "https://youtube.com/watch?v=zi6uaoTeGzw&list=PLUOwOyyrpLxELNPcX80HknyPZBwS9mP7s"
+  },
+  {
+    "img": "Hymies-Basement-21st-Century-Pop-Song.jpg",
+    "title": "21st Century Pop Song",
+    "artist": "Hymie's Basement",
+    "video": "https://youtube.com/watch?v=cpTz8r5OMdg&list=PL3-U8lLeC7Dh7xL6SASz-mgUxXql9YUo2"
+  },
+  {
+    "img": "The-Hours-Ali-In-The-Jungle.jpg",
+    "title": "Ali In The Jungle",
+    "artist": "The Hours",
+    "video": "https://youtube.com/watch?v=VmT4hco22bo&list=RDVmT4hco22bo&start_radio=1"
+  },
+  {
+    "img": "Amari-Il-raffreddore-delle-donne.jpg",
+    "title": "Il raffreddore delle donne",
+    "artist": "Amari",
+    "video": "https://youtube.com/watch?v=6okxuiiHx2w&list=PL8UqwEafADn2Hl5-qCT61V5JSdwMFtg_D"
+  },
+  {
+    "img": "Wolf-Parade-Ill-Believe-in-Anything.jpg",
+    "title": "I'll Believe in Anything",
+    "artist": "Wolf Parade",
+    "video": "https://youtube.com/watch?v=7G1eLTV89dM&list=PLYDjeQicPojjMxPwjUphun5hgZig8UOQd"
+  },
+  {
+    "img": "Arcade-Fire-Black-Mirror.jpg",
+    "title": "Black Mirror",
+    "artist": "Arcade Fire",
+    "video": "https://youtube.com/watch?v=aXuymDSGCko&list=PLD4BD6FE3B71EE5DE"
+  },
+  {
+    "img": "Clap-Your-Hands-Say-Yeah-Mama,-Wont-You-Keep-Those-Castles-In-The-Air-and-Burning.jpg",
+    "title": "Mama, Won't You Keep Those Castles In The Air & Burning?",
+    "artist": "Clap Your Hands Say Yeah",
+    "video": "https://youtube.com/watch?v=JTu__jcpNTs&list=RDJTu__jcpNTs&start_radio=1"
+  },
+  {
+    "img": "Cloud-Cult-Chain-Reaction.jpg",
+    "title": "Chain Reaction",
+    "artist": "Cloud Cult",
+    "video": "https://youtube.com/watch?v=rNA9wlcroas&list=PLUDMijHBSJ5xN5YcdV26V_Q9bHdXdjl3E"
+  },
+  {
+    "img": "Modena-Vox-Hard-Pressed.jpg",
+    "title": "Hard Pressed",
+    "artist": "Modena Vox",
+    "video": "https://youtube.com/watch?v=zLtW9V_lL2k&list=PL6716E02B96424B2A"
+  },
+  {
+    "img": "Menomena-Wet-And-Rusting.jpg",
+    "title": "Wet And Rusting",
+    "artist": "Menomena",
+    "video": "https://youtube.com/watch?v=HYU47cfNayA&list=PLD4EA99EB1C732BD0"
+  }
 ]

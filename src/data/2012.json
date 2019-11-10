@@ -2,121 +2,145 @@
     {
         "img": "Awolnation-All-I-Need.jpg",
         "title": "All I Need",
-        "artist": "Awolnation"
+        "artist": "Awolnation",
+        "video": "https://youtube.com/watch?v=XFOmTolEXLU&list=PL4OmkHFtXILgx40CuejHEJwxpmydi5qTU"
     },
     {
         "img": "The-Beatles-Revival-Band-I-Am-the-Walrus-Live.jpg",
         "title": "I Am the Walrus - Live",
-        "artist": "The Beatles Revival Band"
+        "artist": "The Beatles Revival Band",
+        "video": "https://youtube.com/watch?v=qju3FEcKTrw&list=PLiFiRTFdx2dz-hTMt8Bbt6TkPfeLtdc2J"
     },
     {
         "img": "Mumford-and-Sons-I-Will-Wait.jpg",
         "title": "I Will Wait",
-        "artist": "Mumford & Sons"
+        "artist": "Mumford & Sons",
+        "video": "https://youtube.com/watch?v=rGKfrgqWcv0&list=RDrGKfrgqWcv0&start_radio=1"
     },
     {
         "img": "George-Harrison-Here-Comes-the-Sun.jpg",
         "title": "Here Comes the Sun",
-        "artist": "George Harrison"
+        "artist": "George Harrison",
+        "video": "https://youtube.com/watch?v=fiH9edd25Bc&list=PLrVCEgmxRoij2jwIM8AkKnWKB6omEfAsi"
     },
     {
         "img": "College-A-Real-Hero-feat-Electric-Youth.jpg",
         "title": "A Real Hero (feat. Electric Youth)",
-        "artist": "College"
+        "artist": "College",
+        "video": "https://youtube.com/watch?v=-DSVDcw6iW8&list=PL0C77CDCA29B238E1"
     },
     {
         "img": "The-Japanese-Popstars-Let-Go.jpg",
         "title": "Let Go",
-        "artist": "The Japanese Popstars"
+        "artist": "The Japanese Popstars",
+        "video": "https://youtube.com/watch?v=bxlO0Anxd0U&list=PLFB9E93E66B08155F"
     },
     {
         "img": "Massive-Attack-Paradise-Circus.jpg",
         "title": "Paradise Circus",
-        "artist": "Massive Attack"
+        "artist": "Massive Attack",
+        "video": "https://youtube.com/watch?v=__HQGvSqZ5I&list=PL617C227A5C4AB60E"
     },
     {
         "img": "Florence-the-Machine-What-The-Water-Gave-Me-Jamie-Jones-Edit.jpg",
         "title": "What The Water Gave Me - Jamie Jones Edit",
-        "artist": "Florence + the Machine"
+        "artist": "Florence + the Machine",
+        "video": "https://youtube.com/watch?v=WePFy-9eBUk&list=PLDlhi5Zl7gF31EsL1XHxF9ISIC4FIQP2Q"
     },
     {
         "img": "ACDC-Overdose.jpg",
         "title": "Overdose",
-        "artist": "AC/DC"
+        "artist": "AC/DC",
+        "video": "https://youtube.com/watch?v=pAgnJDJN4VA&list=PLeoSkX8qqLkuLKEK4aTLQPxFx6oe3_u1X"
     },
     {
         "img": "Radical-Face-Always-Gold-Short-Attention-Span-Mix.jpg",
         "title": "Always Gold - Short Attention Span Mix",
-        "artist": "Radical Face"
+        "artist": "Radical Face",
+        "video": "https://youtube.com/watch?v=eu3ngobMr2c&list=PLz0NgKsarCsSeXI8NnQAQdWQD_4MXaaUm"
     },
     {
         "img": "Paul-Simon-You-Can-Call-Me-Al.jpg",
         "title": "You Can Call Me Al",
-        "artist": "Paul Simon"
+        "artist": "Paul Simon",
+        "video": "https://youtube.com/watch?v=uq-gYOrU8bA&list=PLCfak1-t6BirPE9nIM3GET4Q7GStb2V1V"
     },
     {
         "img": "I-Cani-Aspeger.jpg",
         "title": "Aspeger",
-        "artist": "I Cani"
+        "artist": "I Cani",
+        "video": "https://youtube.com/watch?v=NJpgGF9p1TA&list=PLRtR6Fx-UmBaywEzaMEC2dKGX1I-31KvS"
     },
     {
         "img": "Gazebo-Penguins-Wes-Anderson.jpg",
         "title": "Wes Anderson",
-        "artist": "Gazebo Penguins"
+        "artist": "Gazebo Penguins",
+        "video": "https://youtube.com/watch?v=a0XCQhZfGVo&list=PLMqMLhgEE4mCNvk_V5VN7xtxFKU423_YH"
     },
     {
         "img": "Lo-Stato-Sociale-Abbiamo-vinto-la-guerra.jpg",
         "title": "Abbiamo vinto la guerra",
-        "artist": "Lo Stato Sociale"
+        "artist": "Lo Stato Sociale",
+        "video": "https://youtube.com/watch?v=RHWk4YBsmz0&list=PLc_nb1nnhFYK8HU2yxJEvTZfEGMK1O7_C"
     },
     {
         "img": "The-Duke-Spirit-The-Step-And-The-Walk.jpg",
         "title": "The Step And The Walk",
-        "artist": "The Duke Spirit"
+        "artist": "The Duke Spirit",
+        "video": "https://youtube.com/watch?v=fuTS1BaKHDM&list=PLe1OKDXKlO2_ZGmFm0Icj30fN0cl8OUrq"
     },
     {
         "img": "Gotye-Eyes-Wide-Open.jpg",
         "title": "Eyes Wide Open",
-        "artist": "Gotye"
+        "artist": "Gotye",
+        "video": "https://youtube.com/watch?v=8UVNT4wvIGY&list=PL12A5798C4F686708"
     },
     {
         "img": "TV-on-the-Radio-DLZ.jpg",
         "title": "DLZ",
-        "artist": "TV on the Radio"
+        "artist": "TV on the Radio",
+        "video": "https://youtube.com/watch?v=OaKVy-FlaUA&list=PLxtsqS_MJ-sNMX8gCRCox5yl9NIM9OKyb"
     },
     {
         "img": "Crystal-Fighters-Follow.jpg",
         "title": "Follow",
-        "artist": "Crystal Fighters"
+        "artist": "Crystal Fighters",
+        "video": "https://youtube.com/watch?v=IVzyErnSnFI&list=PLuELexbda_3xXWf9OCn9-AZRT-MQhx0sI"
     },
     {
         "img": "Afterhours-Terra-di-nessuno.jpg",
         "title": "Terra di nessuno",
-        "artist": "Afterhours"
+        "artist": "Afterhours",
+        "video": "https://youtube.com/watch?v=OHGR6UOK_6Y&list=PLVGPNHkVQH2JJBkLSjAIpkyYWXVMN3bLS"
     },
     {
         "img": "The-xx-VCR.jpg",
         "title": "VCR",
-        "artist": "The xx"
+        "artist": "The xx",
+        "video": "https://youtube.com/watch?v=gI2eO_mNM88&list=PLurbpClA5IFoi0xZxUkONOLIonpZGPZvt"
     },
     {
         "img": "The-Lumineers-Ho-Hey.jpg",
         "title": "Ho Hey",
-        "artist": "The Lumineers"
+        "artist": "The Lumineers",
+        "video": "https://youtube.com/watch?v=zvCBSSwgtg4&list=PL6l_sRf_A-DsfXhS0oFqS_7OanLlXPDEM"
     },
     {
         "img": "Everything-Hooch.jpg",
         "title": "Hooch",
-        "artist": "Everything"
+        "artist": "Everything",
+        "video": "https://youtube.com/watch?v=3cqU1pFRqYE&list=PLRraI0jFj7T-lAJmWcx7NsV6iAfDQrHXa"
     },
     {
         "img": "Ultimo-Attuale-Corpo-Sonoro-Empirismo-Eretico.jpg",
         "title": "Empirismo Eretico",
-        "artist": "Ultimo Attuale Corpo Sonoro"
+        "artist": "Ultimo Attuale Corpo Sonoro",
+        "video": "https://youtube.com/watch?v=irfCWQJhEbo&list=OLAK5uy_moAgf-8UHBFIYP0RuQhbeD_gLZipPpd6k"
     },
     {
         "img": "Menomena-Musclen-Flo.jpg",
         "title": "Muscle'n Flo",
-        "artist": "Menomena"
+        "artist": "Menomena",
+        "video": "https://youtube.com/watch?v=HYU47cfNayA&list=PL28r6zUwe8H5Mut4dUdxZrupK0OiWphcK"
     }
 ]

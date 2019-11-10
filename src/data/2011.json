@@ -1,122 +1,146 @@
 [
-    {
-        "img": "Radiohead-Bloom.jpg",
-        "title": "Bloom",
-        "artist": "Radiohead"
-    },
-    {
-        "img": "Numero-6-Il-Regno-Dei-No.jpg",
-        "title": "Il Regno Dei No",
-        "artist": "Numero 6"
-    },
-    {
-        "img": "lofficina-della-camomilla-EE-Londra-e-Londra.jpg",
-        "title": "EE Londra e Londra",
-        "artist": "l'officina della camomilla"
-    },
-    {
-        "img": "Ettore-Giuradei-Il-vicino.jpg",
-        "title": "Il vicino",
-        "artist": "Ettore Giuradei"
-    },
-    {
-        "img": "Easy-Star-All-Stars-Airbag-feat-Horace-Andy.jpg",
-        "title": "Airbag (feat. Horace Andy)",
-        "artist": "Easy Star All-Stars"
-    },
-    {
-        "img": "Dessa-Childrens-Work.jpg",
-        "title": "Children's Work",
-        "artist": "Dessa"
-    },
-    {
-        "img": "Das-Racist-Rainbow-in-the-Dark.jpg",
-        "title": "Rainbow in the Dark",
-        "artist": "Das Racist"
-    },
-    {
-        "img": "Buck-65-Superstars-Dont-Love.jpg",
-        "title": "Superstars Don't Love",
-        "artist": "Buck 65"
-    },
-    {
-        "img": "Bomb-the-Music-Industry-You-Still-Believe-in-Me.jpg",
-        "title": "You Still Believe in Me?",
-        "artist": "Bomb the Music Industry!"
-    },
-    {
-        "img": "Arcade-Fire-The-Suburbs.jpg",
-        "title": "The Suburbs",
-        "artist": "Arcade Fire"
-    },
-    {
-        "img": "J-Mascis-Listen-To-Me.jpg",
-        "title": "Listen To Me",
-        "artist": "J Mascis"
-    },
-    {
-        "img": "Fabrizio-De-Andre-La-Canzone-DellAmore-Perduto.jpg",
-        "title": "La Canzone Dell'Amore Perduto",
-        "artist": "Fabrizio De André"
-    },
-    {
-        "img": "Daniele-Silvestri-Le-Navi.jpg",
-        "title": "Le Navi",
-        "artist": "Daniele Silvestri"
-    },
-    {
-        "img": "Brunori-Sas-Bruno-mio-dove-sei.jpg",
-        "title": "Bruno mio dove sei",
-        "artist": "Brunori Sas"
-    },
-    {
-        "img": "Zona-Mc-In-principio-furon-verbi.jpg",
-        "title": "In principio furon verbi",
-        "artist": "Zona Mc"
-    },
-    {
-        "img": "Verlaine-dipendente-pubblico.jpg",
-        "title": "dipendente pubblico",
-        "artist": "Verlaine"
-    },
-    {
-        "img": "The-Zen-Circus-Lamorale.jpg",
-        "title": "L'amorale",
-        "artist": "The Zen Circus"
-    },
-    {
-        "img": "Crash-Of-Rhinos-Big-Sea.jpg",
-        "title": "Big Sea",
-        "artist": "Crash Of Rhinos"
-    },
-    {
-        "img": "Serengeti-Flutes.jpg",
-        "title": "Flutes",
-        "artist": "Serengeti"
-    },
-    {
-        "img": "The-Drums-Book-Of-Revelation.jpg",
-        "title": "Book Of Revelation",
-        "artist": "The Drums"
-    },
-    {
-        "img": "Clap-Your-Hands-Say-Yeah-Hysterical.jpg",
-        "title": "Hysterical",
-        "artist": "Clap Your Hands Say Yeah"
-    },
-    {
-        "img": "Primus-Eternal-Consumption-Engine.jpg",
-        "title": "Eternal Consumption Engine",
-        "artist": "Primus"
-    },
-    {
-        "img": "I-Cani-Le-coppie.jpg",
-        "title": "Le coppie",
-        "artist": "I Cani"
-    },
-    {
-        "img": "Astronautalis-Measure-the-Globe.jpg",
-        "title": "Measure the Globe",
-        "artist": "Astronautalis"
-    }
+  {
+    "img": "Radiohead-Bloom.jpg",
+    "title": "Bloom",
+    "artist": "Radiohead",
+    "video": "https://youtube.com/watch?v=TzwJI0WYLVk&list=PLR9sJ2FoXVIdFZYKzjnakVDSv0-C_kdqS"
+  },
+  {
+    "img": "Numero-6-Il-Regno-Dei-No.jpg",
+    "title": "Il Regno Dei No",
+    "artist": "Numero 6",
+    "video": "https://youtube.com/watch?v=2CoVxOVuQAo&list=PLaRW7A5MIB2XhtmxI6mE81znXag2qKpOQ"
+  },
+  {
+    "img": "lofficina-della-camomilla-EE-Londra-e-Londra.jpg",
+    "title": "EE Londra e Londra",
+    "artist": "l'officina della camomilla",
+    "video": ""
+  },
+  {
+    "img": "Ettore-Giuradei-Il-vicino.jpg",
+    "title": "Il vicino",
+    "artist": "Ettore Giuradei",
+    "video": "https://youtube.com/watch?v=wgGzFXYAuZY&list=PLnVrCPSHxwDZ9Eu_visJPUhgQibjW4g4W"
+  },
+  {
+    "img": "Easy-Star-All-Stars-Airbag-feat-Horace-Andy.jpg",
+    "title": "Airbag (feat. Horace Andy)",
+    "artist": "Easy Star All-Stars",
+    "video": "https://youtube.com/watch?v=D1UurK4VGK8&list=PLUEkklAymroJcQbvYdb9CVMJzgGcdf7XU"
+  },
+  {
+    "img": "Dessa-Childrens-Work.jpg",
+    "title": "Children's Work",
+    "artist": "Dessa",
+    "video": "https://youtube.com/watch?v=B6A8T6qWPBo&list=PLcxGqOBKGCtAWD6Rf5JfcqfVbo1sGkuGp"
+  },
+  {
+    "img": "Das-Racist-Rainbow-in-the-Dark.jpg",
+    "title": "Rainbow in the Dark",
+    "artist": "Das Racist",
+    "video": "https://youtube.com/watch?v=nZgBYnSD2T0&list=PLIcekicfsM033xq70wcWy0owyzRySs262"
+  },
+  {
+    "img": "Buck-65-Superstars-Dont-Love.jpg",
+    "title": "Superstars Don't Love",
+    "artist": "Buck 65",
+    "video": "https://youtube.com/watch?v=NCUdRUjeM-c&list=PLC38AF1971A0A5E6A"
+  },
+  {
+    "img": "Bomb-the-Music-Industry-You-Still-Believe-in-Me.jpg",
+    "title": "You Still Believe in Me?",
+    "artist": "Bomb the Music Industry!",
+    "video": "https://youtube.com/watch?v=3qVMwRel9eg&list=PLBrv8fww0RxpRZr5n-S12C0rcYR5ngTsL"
+  },
+  {
+    "img": "Arcade-Fire-The-Suburbs.jpg",
+    "title": "The Suburbs",
+    "artist": "Arcade Fire",
+    "video": "https://youtube.com/watch?v=cH_M4ZPpZuM&list=PLC409ACF7EE98B78F"
+  },
+  {
+    "img": "J-Mascis-Listen-To-Me.jpg",
+    "title": "Listen To Me",
+    "artist": "J Mascis",
+    "video": "https://youtube.com/watch?v=7HHgedNNQco&list=PLA72DDEDAE5697B06"
+  },
+  {
+    "img": "Fabrizio-De-Andre-La-Canzone-DellAmore-Perduto.jpg",
+    "title": "La Canzone Dell'Amore Perduto",
+    "artist": "Fabrizio De André",
+    "video": "https://youtube.com/watch?v=Sl-1bZP5uVs&list=RDSl-1bZP5uVs&start_radio=1"
+  },
+  {
+    "img": "Daniele-Silvestri-Le-Navi.jpg",
+    "title": "Le Navi",
+    "artist": "Daniele Silvestri",
+    "video": "https://youtube.com/watch?v=UacHzLP51dY&list=PLelz5PzYqJJOg0TwrFoQ6v-YQVyEute7R"
+  },
+  {
+    "img": "Brunori-Sas-Bruno-mio-dove-sei.jpg",
+    "title": "Bruno mio dove sei",
+    "artist": "Brunori Sas",
+    "video": "https://youtube.com/watch?v=9ta3xIz4VJc&list=PLfPG0D9NIOYvyvYwwf3b3kAOPEfdCLmK1"
+  },
+  {
+    "img": "Zona-Mc-In-principio-furon-verbi.jpg",
+    "title": "In principio furon verbi",
+    "artist": "Zona Mc",
+    "video": "https://youtube.com/watch?v=lN_MSyrq6-U&list=PL2CC2724784899EB7"
+  },
+  {
+    "img": "Verlaine-dipendente-pubblico.jpg",
+    "title": "dipendente pubblico",
+    "artist": "Verlaine",
+    "video": "https://youtube.com/watch?v=cz-duc0uyG4&list=PLB2CA278C62EBFB0A"
+  },
+  {
+    "img": "The-Zen-Circus-Lamorale.jpg",
+    "title": "L'amorale",
+    "artist": "The Zen Circus",
+    "video": "https://youtube.com/watch?v=CUOlc_j4rMA&list=PL9Mh5mZTsNEZ5NFcFjrDJQBRfqBoceKsu"
+  },
+  {
+    "img": "Crash-Of-Rhinos-Big-Sea.jpg",
+    "title": "Big Sea",
+    "artist": "Crash Of Rhinos",
+    "video": "https://youtube.com/watch?v=rRpuxlJi-3Q&list=PLtb9HIXovwp2vTl90W3kKBlpFhibO0PxQ"
+  },
+  {
+    "img": "Serengeti-Flutes.jpg",
+    "title": "Flutes",
+    "artist": "Serengeti",
+    "video": "https://youtube.com/watch?v=JRHqbTAcnuk&list=PL0CF7386A063A1875"
+  },
+  {
+    "img": "The-Drums-Book-Of-Revelation.jpg",
+    "title": "Book Of Revelation",
+    "artist": "The Drums",
+    "video": "https://youtube.com/watch?v=b9sBOjuMUeA&list=PLFFwrnj7K6V-ygHdo_A4C6YCMVXqfxmOk"
+  },
+  {
+    "img": "Clap-Your-Hands-Say-Yeah-Hysterical.jpg",
+    "title": "Hysterical",
+    "artist": "Clap Your Hands Say Yeah",
+    "video": "https://youtube.com/watch?v=8VMkoTApcD8&list=PLDoWAPue9HGJvamy8osE3T9bKNCt5cc1T"
+  },
+  {
+    "img": "Primus-Eternal-Consumption-Engine.jpg",
+    "title": "Eternal Consumption Engine",
+    "artist": "Primus",
+    "video": ""
+  },
+  {
+    "img": "I-Cani-Le-coppie.jpg",
+    "title": "Le coppie",
+    "artist": "I Cani",
+    "video": "https://youtube.com/watch?v=JyEyHOvNq_c&list=PL9069D00A54508550"
+  },
+  {
+    "img": "Astronautalis-Measure-the-Globe.jpg",
+    "title": "Measure the Globe",
+    "artist": "Astronautalis",
+    "video": "https://youtube.com/watch?v=Ju3MgkwzZsI&list=PLyjc98jDaWB0xBct3U1JblKvbP-QVNNjo"
+  }
 ]
