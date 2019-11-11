@@ -4,7 +4,7 @@ let finalYear =
   now.getMonth() === 11 ? now.getFullYear() : now.getFullYear() - 1;
 
 export default () => {
-  const years = new Array(finalYear - initialYear)
+  const years = new Array(finalYear + 1 - initialYear)
     .fill(null)
     .map(() => finalYear--);
 
