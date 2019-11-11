@@ -9,7 +9,7 @@ const style = {
   },
   content: {
     pointerEvents: 'all',
-    width: 300,
+    width: 340,
     background: 'none',
     border: 0,
     padding: 0,
