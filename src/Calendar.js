@@ -25,7 +25,7 @@ export default ({ year, data, setVideo }) => {
         </h1>
       </header>
       {data.map((item, i) => (
-        <Entry item={item} select={select} />
+        <Entry key={item.artist} item={item} select={select} />
       ))}
       {filler.map((n, i) => (
         <div key={i} className="filler" />
