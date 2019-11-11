@@ -9,6 +9,12 @@ export default ({ year, data, setVideo }) => {
     [setVideo]
   );
 
+  let filler = [];
+  if (data.length < 24) {
+    filler = new Array(24 - data.length).fill(null);
+  }
+  console.log(filler);
+
   return (
     <div className="grid-container">
       <header className="title">
@@ -17,7 +23,7 @@ export default ({ year, data, setVideo }) => {
           <small>{year}</small>
         </h1>
       </header>
-      {data.map(item => (
+      {data.map((item, i) => (
         <button key={item.artist} data-url={item.video} onClick={select}>
           <img
             alt={item.artist + ' ' + item.title}
@@ -28,6 +34,9 @@ export default ({ year, data, setVideo }) => {
             <small>by</small> {item.artist}
           </span>
         </button>
+      ))}
+      {filler.map((n, i) => (
+        <div key={i} className="filler" />
       ))}
     </div>
   );
