@@ -1,6 +1,7 @@
 const initialYear = 2006;
 const now = new Date();
-let finalYear = now.getMonth === 11 ? now.getFullYear() : now.getFullYear() - 1;
+let finalYear =
+  now.getMonth() === 11 ? now.getFullYear() : now.getFullYear() - 1;
 
 export default () => {
   const years = new Array(finalYear - initialYear)
