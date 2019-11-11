@@ -16,6 +16,8 @@ const customStyles = {
     maxWidth: 720,
     padding: 0,
     right: 0,
+    background: 'none',
+    border: 0,
     transform: 'translate(-50%, -50%)',
   },
 };
@@ -33,7 +35,11 @@ function App({ data, year }) {
       ))}
       {video && (
         <Modal style={customStyles} onRequestClose={close} isOpen={!!video}>
-          <Tuber aspect="16:9" autoplay={true} src={video} />
+          {!video.includes('youtube.com') ? (
+            <iframe title="embed" src={video} seamless />
+          ) : (
+            <Tuber aspect="16:9" autoplay={true} src={video} />
+          )}
         </Modal>
       )}
     </div>
