@@ -28,7 +28,9 @@ function App({ data, year }) {
   return (
     <div className="App">
       <div className="bk" />
-      <Calendar setVideo={setVideo} year={year} data={data} />
+      {data.map((d, i) => (
+        <Calendar key={year[i]} setVideo={setVideo} year={year[i]} data={d} />
+      ))}
       {video && (
         <Modal style={customStyles} onRequestClose={close} isOpen={!!video}>
           <Tuber aspect="16:9" autoplay={true} src={video} />

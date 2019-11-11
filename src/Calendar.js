@@ -13,7 +13,6 @@ export default ({ year, data, setVideo }) => {
   if (data.length < 24) {
     filler = new Array(24 - data.length).fill(null);
   }
-  console.log(filler);
 
   return (
     <div className="grid-container">

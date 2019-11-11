@@ -2,11 +2,13 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
+import getYears from './getYears';
 import * as serviceWorker from './serviceWorker';
-const year = 2018;
+
+const [years, data] = getYears();
 
 ReactDOM.render(
-  <App year={year} data={require(`./data/${year}.json`)} />,
+  <App year={years} data={data} />,
   document.getElementById('root')
 );
 
