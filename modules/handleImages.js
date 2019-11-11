@@ -5,16 +5,11 @@ const slugify = require('slugify');
 const slugConfig = { remove: /[*+~./?()'"!:@]/g };
 
 module.exports = async (year, arr) => {
-  const folder = `./public/images/${year}`;
-  if (!fs.existsSync(folder)) {
-    fs.mkdirSync(folder);
-  }
-
   await Promise.all(
     arr.map(item =>
       download({
         url: item.img.replace('/64s/', '/128s/'),
-        dest: `${folder}/${slugify(item.artist, slugConfig)}-${slugify(
+        dest: `./public/images/${slugify(item.artist, slugConfig)}-${slugify(
           item.title,
           slugConfig
         )}.jpg`,

@@ -21,7 +21,7 @@ export default ({ year, data, setVideo }) => {
         <button key={item.artist} data-url={item.video} onClick={select}>
           <img
             alt={item.artist + ' ' + item.title}
-            src={`/images/${year}/${item.img}`}
+            src={`/images/${item.img}`}
           />
           <span>
             {item.title} <br />
