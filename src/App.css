@@ -10,13 +10,13 @@
 
 .bk {
   mix-blend-mode: overlay;
-  background-size: contain;
+  /* background-size: contain; */
   position: fixed;
   width: calc(100% + 3em);
   height: calc(100% + 3em);
   left: -3em;
   top: -3em;
-  background: url('/2.png');
+  background-image: url('/1.png');
   min-height: 15rem;
   pointer-events: none;
 }
@@ -69,4 +69,11 @@ button.close span {
 button.close::before {
   content: '✕';
   display: block;
+}
+
+footer {
+  font-size: 60%;
+}
+footer a {
+  color: white;
 }
