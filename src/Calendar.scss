@@ -61,7 +61,7 @@
       transform: translateZ(0);
     }
 
-    span {
+    .song-info {
       display: block;
       position: absolute;
       bottom: 0;
@@ -86,7 +86,7 @@
       }
     }
 
-    &:hover span {
+    &:hover .song-info {
       transform: translateY(0);
 
       &::before {
