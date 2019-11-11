@@ -1,6 +1,7 @@
 import React, { useCallback } from 'react';
-import { LazyLoadImage } from 'react-lazy-load-image-component';
+import Entry from './CalendarEntry';
 import './Calendar.scss';
+
 export default ({ year, data, setVideo }) => {
   const select = useCallback(
     e => {
@@ -24,17 +25,7 @@ export default ({ year, data, setVideo }) => {
         </h1>
       </header>
       {data.map((item, i) => (
-        <button key={item.artist} data-url={item.video} onClick={select}>
-          <LazyLoadImage
-            alt={item.artist + ' ' + item.title}
-            src={`/images/${item.img}`}
-            threshold={500}
-          />
-          <span className="song-info">
-            {item.title} <br />
-            <small>by</small> {item.artist}
-          </span>
-        </button>
+        <Entry item={item} select={select} />
       ))}
       {filler.map((n, i) => (
         <div key={i} className="filler" />
