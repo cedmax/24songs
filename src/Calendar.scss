@@ -1,6 +1,9 @@
 .grid-container {
-  margin-top: 3em;
   counter-reset: section;
+
+  @media (min-width: 600px) {
+    margin-top: 3em;
+  }
 
   & > button,
   & > div {
@@ -35,7 +38,15 @@
     position: relative;
     overflow: hidden;
 
+    @media (min-width: 450px) {
+      width: calc(50% - 6px);
+    }
+
     @media (min-width: 600px) {
+      width: calc(33.3% - 6px);
+    }
+
+    @media (min-width: 890px) {
       width: calc(25% - 6px);
     }
 
@@ -136,7 +147,15 @@
     background: none;
   }
 
+  @media (min-width: 450px) {
+    width: 100%;
+  }
+
   @media (min-width: 600px) {
+    width: calc(66% - 6px);
+  }
+
+  @media (min-width: 890px) {
     width: calc(50% - 6px);
   }
 
@@ -148,10 +167,10 @@
     font-size: 130%;
   }
   @media (min-width: 600px) {
-    font-size: 80%;
+    font-size: 100%;
   }
   @media (min-width: 750px) {
-    font-size: 100%;
+    font-size: 115%;
   }
   @media (min-width: 920px) {
     font-size: 130%;
