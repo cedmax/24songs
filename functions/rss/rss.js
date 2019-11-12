@@ -18,14 +18,14 @@ const rss = data => `<?xml version="1.0" encoding="UTF-8"?>
       <atom:link href="https://24songs.dsgn.it/rss" rel="self" type="application/rss+xml" />
       <ttl>60</ttl>
       ${data.map(
-        ({ title, artist, image, video }, i) => `<item>
+        ({ title, artist, img, video }, i) => `<item>
           <title><![CDATA[${title} by ${artist}]]></title>
           <description></description>
           <link>https://24songs.dsgn.it/${year}/12/${++i}</link>
           <guid isPermaLink="false">${artist}</guid>
           <dc:creator><![CDATA[cedmax]]></dc:creator>
           <pubDate>${new Date(year, 11, i).toUTCString()}</pubDate>
-          <media:content url="https://24songs.dsgn.it/images/${image}" medium="image" />
+          <media:content url="https://24songs.dsgn.it/images/${img}" medium="image" />
           <content:encoded><![CDATA[<iframe width="480" height="270" src="${video}?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></content:encoded>
       </item>`
       )}
