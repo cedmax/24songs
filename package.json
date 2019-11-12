@@ -17,7 +17,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "postbuild": "react-snap"
+    "postbuild": "react-snap && node modules/prepareDataForFunction.js"
   },
   "eslintConfig": {
     "extends": "react-app"
