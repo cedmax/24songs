@@ -1,11 +1,11 @@
-import React, { useCallback, memo } from 'react';
-import Entry from './CalendarEntry';
-import './Calendar.scss';
+import React, { useCallback, memo } from "react";
+import Entry from "./CalendarEntry";
+import "./Calendar.scss";
 
 export default memo(({ year, data, setVideo }) => {
   const select = useCallback(
     e => {
-      const video = e.currentTarget.getAttribute('data-url');
+      const video = e.currentTarget.getAttribute("data-url");
       setVideo(video);
     },
     [setVideo]

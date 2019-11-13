@@ -1,5 +1,5 @@
-const axios = require('axios');
-const cheerio = require('cheerio');
+const axios = require("axios");
+const cheerio = require("cheerio");
 
 const getUrl = (artist, title) =>
   `https://www.youtube.com/results?search_query=${encodeURI(
@@ -9,11 +9,11 @@ const getUrl = (artist, title) =>
 module.exports = async (artist, title) => {
   const { data } = await axios.get(getUrl(artist, title));
   const $ = cheerio.load(data);
-  const link = $('.yt-pl-thumb-link').attr('href');
+  const link = $(".yt-pl-thumb-link").attr("href");
 
   if (!link) {
-    console.log('video not found for', artist, title);
-    return '';
+    console.log("video not found for", artist, title);
+    return "";
   }
 
   return `https://youtube.com${link}`;

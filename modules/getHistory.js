@@ -1,8 +1,8 @@
-const axios = require('axios');
-const cheerio = require('cheerio');
-const getYoutubeData = require('./getYoutubeData');
-const fs = require('fs');
-const handleImages = require('./handleImages');
+const axios = require("axios");
+const cheerio = require("cheerio");
+const getYoutubeData = require("./getYoutubeData");
+const fs = require("fs");
+const handleImages = require("./handleImages");
 const initialYear = 2006;
 
 const getText = ($, selector) =>
@@ -28,14 +28,14 @@ async function fetch(all, arr, year, page = 1) {
     );
 
     const $ = cheerio.load(data);
-    const songs = $('.chartlist-row--with-artist')
+    const songs = $(".chartlist-row--with-artist")
       .toArray()
       .map(songDOM => {
         const $song = $(songDOM);
         return {
-          img: $song.find('.chartlist-image img').attr('src'),
-          title: getText($song, '.chartlist-name'),
-          artist: getText($song, '.chartlist-artist'),
+          img: $song.find(".chartlist-image img").attr("src"),
+          title: getText($song, ".chartlist-name"),
+          artist: getText($song, ".chartlist-artist")
         };
       });
 
@@ -56,7 +56,7 @@ async function fetch(all, arr, year, page = 1) {
       fs.writeFileSync(
         fileName,
         JSON.stringify(dataToSave.reverse(), null, 4),
-        'utf-8'
+        "utf-8"
       );
     }
   } else {
