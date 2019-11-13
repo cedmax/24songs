@@ -33,7 +33,7 @@ const getPreselected = (year, data, tokens) => {
 
   const yearIndex = year.findIndex(item => item === tokens[0]);
 
-  if (!yearIndex) {
+  if (isNaN(yearIndex)) {
     return resetUrl();
   }
 
