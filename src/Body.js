@@ -15,19 +15,27 @@ const isDateNotEnabledYet = tokens =>
   date.getMonth() === 11 &&
   tokens[2] > date.getDate();
 
+const resetUrl = () => {
+  window.location.replace("/");
+  return null;
+};
+
 const getPreselected = (year, data, tokens) => {
   if (!tokens.length) return null;
   if (isWrongDate(tokens)) {
-    window.location.replace("/");
-    return null;
+    return resetUrl();
   }
 
   if (isDateNotEnabledYet(tokens)) {
-    window.location.replace("/");
-    return null;
+    return resetUrl();
   }
 
   const yearIndex = year.findIndex(item => item === tokens[0]);
+
+  if (!yearIndex) {
+    return resetUrl();
+  }
+
   return data[yearIndex][tokens[2] - 1].video;
 };
 
