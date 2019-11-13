@@ -6,12 +6,9 @@ export default memo(({ year, data, setVideo }) => {
   const select = useCallback(
     e => {
       const video = e.currentTarget.getAttribute("data-url");
-      const day = e.currentTarget.getAttribute("data-day");
-
-      const id = `${year}/12/${day}`;
-      setVideo(video, id);
+      setVideo(video);
     },
-    [setVideo, year]
+    [setVideo]
   );
 
   let filler = [];
@@ -27,8 +24,8 @@ export default memo(({ year, data, setVideo }) => {
           <small>{year}</small>
         </h1>
       </header>
-      {data.map((item, i) => (
-        <Entry key={item.artist} day={i + 1} item={item} select={select} />
+      {data.map(item => (
+        <Entry key={item.artist} item={item} select={select} />
       ))}
       {filler.map((n, i) => (
         <div key={i} className="filler" />
