@@ -11,13 +11,13 @@
   }
 
   & > div::after {
-    content: counter(section) ' Dic';
+    content: counter(section) " Dic";
     display: block;
   }
 
   &::after {
     clear: both;
-    content: '';
+    content: "";
     height: 3em;
     width: 1px;
     display: block;
@@ -62,7 +62,7 @@
     }
 
     &::before {
-      content: '';
+      content: "";
       display: inline-block;
       width: 1px;
       height: 0;
@@ -92,7 +92,7 @@
         transform: translateY(-100%);
         left: 0;
         padding: 10px;
-        content: counter(section) ' Dic';
+        content: counter(section) " Dic";
         display: block;
         transition: all 0.3s ease-in;
         opacity: 1;

@@ -1,24 +1,26 @@
-import React, { memo } from 'react';
-import Modal from 'react-modal';
+import React, { memo } from "react";
+import Modal from "react-modal";
+
+Modal.setAppElement("#root");
 
 const style = {
   overlay: {
     zIndex: 1000,
-    background: 'transparent',
-    pointerEvents: 'none',
+    background: "transparent",
+    pointerEvents: "none"
   },
   content: {
-    pointerEvents: 'all',
+    pointerEvents: "all",
     width: 340,
-    background: 'none',
+    background: "none",
     border: 0,
     padding: 0,
     right: 20,
-    top: 'auto',
-    left: 'auto',
+    top: "auto",
+    left: "auto",
     bottom: 20,
-    overflow: 'visible',
-  },
+    overflow: "visible"
+  }
 };
 
 export default memo(({ children, close, isOpen }) => (

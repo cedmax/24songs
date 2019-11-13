@@ -1,6 +1,5 @@
-const fs = require('fs');
-const download = require('image-downloader');
-const slugify = require('slugify');
+const download = require("image-downloader");
+const slugify = require("slugify");
 
 const slugConfig = { remove: /[*+~./?()'"!:@]/g };
 
@@ -8,11 +7,11 @@ module.exports = async (year, arr) => {
   await Promise.all(
     arr.map(item =>
       download({
-        url: item.img.replace('/64s/', '/128s/'),
+        url: item.img.replace("/64s/", "/128s/"),
         dest: `./public/images/${slugify(item.artist, slugConfig)}-${slugify(
           item.title,
           slugConfig
-        )}.jpg`,
+        )}.jpg`
       })
     )
   );
@@ -22,6 +21,6 @@ module.exports = async (year, arr) => {
     img: `${slugify(item.artist, slugConfig)}-${slugify(
       item.title,
       slugConfig
-    )}.jpg`,
+    )}.jpg`
   }));
 };
