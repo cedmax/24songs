@@ -43,10 +43,18 @@ const getPreselected = (year, data, tokens) => {
 export default memo(({ data, year }) => {
   const [video, setVideo] = useState(getPreselected(year, data, urlTokens));
   const close = useCallback(() => setVideo(null), [setVideo]);
+  const pickVideo = useCallback(
+    (video, date) => {
+      window.history.replaceState({}, "", "/" + date);
+
+      setVideo(video);
+    },
+    [setVideo]
+  );
   return (
     <>
       {data.map((d, i) => (
-        <Calendar key={year[i]} setVideo={setVideo} year={year[i]} data={d} />
+        <Calendar key={year[i]} setVideo={pickVideo} year={year[i]} data={d} />
       ))}
       <Modal close={close} isOpen={!!video}>
         <Embed video={video} />
