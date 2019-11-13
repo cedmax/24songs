@@ -10,6 +10,7 @@ const urlTokens = window.location.pathname
   .map(item => parseInt(item, 10));
 
 const isWrongDate = tokens => !tokens[1] || tokens[1] !== 12;
+
 const isDateNotEnabledYet = tokens =>
   tokens[0] === date.getFullYear() &&
   date.getMonth() === 11 &&
