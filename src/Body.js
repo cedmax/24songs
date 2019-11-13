@@ -36,7 +36,7 @@ const getPreselected = (year, data, tokens) => {
   if (isNaN(yearIndex)) {
     return resetUrl();
   }
-
+  window.history.replaceState({}, "", "/");
   return data[yearIndex][tokens[2] - 1].video;
 };
 
@@ -45,8 +45,6 @@ export default memo(({ data, year }) => {
   const close = useCallback(() => setVideo(null), [setVideo]);
   const pickVideo = useCallback(
     (video, date) => {
-      window.history.replaceState({}, "", "/" + date);
-
       setVideo(video);
     },
     [setVideo]
