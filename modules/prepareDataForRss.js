@@ -1,7 +1,20 @@
 const fs = require("fs");
 const now = new Date();
-const year = now.getMonth() === 11 ? now.getFullYear() : now.getFullYear() - 1;
+let year = now.getFullYear();
 
-const data = require(`../src/data/${year}.json`);
+let data;
+let extraData;
+try {
+  data = require(`../src/data/${year}.json`);
+  extraData = require(`../src/data/${year - 1}.json`);
+} catch (e) {
+  year = year - 1;
+  data = require(`../src/data/${year}.json`);
+  extraData = require(`../src/data/${year - 1}.json`);
+}
 
-fs.writeFileSync("./functions/rss/data.json", JSON.stringify(data), "utf-8");
+fs.writeFileSync(
+  "./functions/rss/data.json",
+  JSON.stringify({ [year]: data, [year - 1]: extraData }),
+  "utf-8"
+);
