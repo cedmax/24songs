@@ -1,11 +1,5 @@
 [
   {
-    "img": "Fabri-Fibra-Insensibile-con-Dargen-DAmico.jpg",
-    "title": "Insensibile con Dargen D'Amico",
-    "artist": "Fabri Fibra",
-    "video": "https://youtube.com/watch?v=vPRcRhnUCEE"
-  },
-  {
     "img": "Pixies-Caribou.jpg",
     "title": "Caribou",
     "artist": "Pixies",
@@ -46,6 +40,12 @@
     "title": "Come up and See Me",
     "artist": "Teho Teardo",
     "video": "https://youtube.com/watch?v=NQb_Pzss7I0"
+  },
+  {
+    "img": "Vampire-Weekend-Oxford-Comma.jpg",
+    "title": "Oxford Comma",
+    "artist": "Vampire Weekend",
+    "video": "https://youtube.com/watch?v=P_i1xk07o4g"
   },
   {
     "img": "Enrico-Brizzi-E-Yuguerra-Dio-Salvi-Bologna.jpg",
