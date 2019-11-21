@@ -1,35 +1,9 @@
-.App {
+#root {
   display: block;
   overflow: auto;
   padding: 1rem 3em 3rem;
-  min-height: 100%;
-  width: 100%;
   font-size: 200%;
-  background: url("/knit.png");
-}
-
-.bk {
-  mix-blend-mode: overlay;
-  /* background-size: contain; */
-  position: fixed;
-  width: calc(100% + 3em);
-  height: calc(100% + 3em);
-  left: -3em;
-  top: -3em;
-  background-image: url("/1.png");
-  min-height: 15rem;
-  pointer-events: none;
-}
-
-.bk:after {
-  content: "";
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  top: 0;
-  left: 0;
-  background: rgba(0, 0, 0, 0.2);
-  opacity: 1;
+  background: url("/1b.png");
 }
 
 iframe {
