@@ -23,8 +23,9 @@ const rss = (data, total, year) => `<?xml version="1.0" encoding="UTF-8"?>
       <lastBuildDate>${new Date().toUTCString()}</lastBuildDate>
       <atom:link href="https://24songs.dsgn.it/rss" rel="self" type="application/rss+xml" />
       <ttl>60</ttl>
-      ${data.map(
-        ({ title, artist, img, video }, i) => `<item>
+      ${data
+        .map(
+          ({ title, artist, img, video }, i) => `<item>
           <title><![CDATA[${title} by ${artist}]]></title>
           <description></description>
           <link>https://24songs.dsgn.it/${year}/12/${total - i}</link>
@@ -35,11 +36,12 @@ const rss = (data, total, year) => `<?xml version="1.0" encoding="UTF-8"?>
           <content:encoded><![CDATA[<iframe width="${
             embedSize(video).x
           }" height="${embedSize(video).y}" src="${video.replace(
-          "/watch?v=",
-          "/embed/"
-        )}?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></content:encoded>
+            "/watch?v=",
+            "/embed/"
+          )}?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></content:encoded>
       </item>`
-      )}
+        )
+        .join("")}
   </channel>
 </rss>
 `;
@@ -50,7 +52,6 @@ exports.handler = async (event, context) => {
   let year = now.getFullYear();
   const month = now.getMonth();
   const day = now.getDate();
-
   const cloneData = { ...data };
 
   // current year available and current month Dec
@@ -61,6 +62,8 @@ exports.handler = async (event, context) => {
     year = year - 1;
     list = cloneData[year];
   }
+
+  list = list.filter(a => !!a);
 
   try {
     return {
