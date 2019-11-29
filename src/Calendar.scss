@@ -56,7 +56,6 @@
 
     &:empty {
       cursor: default;
-      mix-blend-mode: none;
       background: rgba(255, 255, 255, 0.3);
       border: 2px dashed rgba(255, 255, 255, 1);
     }
