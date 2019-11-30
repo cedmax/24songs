@@ -47,7 +47,13 @@ export default memo(({ data, year }) => {
   return (
     <>
       {data.map((d, i) => (
-        <Calendar key={year[i]} setVideo={setVideo} year={year[i]} data={d} />
+        <Calendar
+          video={video}
+          key={year[i]}
+          setVideo={setVideo}
+          year={year[i]}
+          data={d}
+        />
       ))}
       <Modal close={close} isOpen={!!video}>
         <Embed video={video} />
