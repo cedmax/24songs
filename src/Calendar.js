@@ -4,7 +4,7 @@ import Entry from "./CalendarEntry";
 import "./Calendar.scss";
 import playlists from "./data/playlists.json";
 
-export default memo(({ year, data, setVideo }) => {
+export default memo(({ year, data, setVideo, video }) => {
   const select = useCallback(
     e => {
       const video = e.currentTarget.getAttribute("data-url");
@@ -30,14 +30,21 @@ export default memo(({ year, data, setVideo }) => {
         </h1>
       </header>
       {data.map(item => (
-        <Entry key={item.artist} item={item} select={select} />
+        <Entry
+          isActive={video === item.video}
+          key={item.artist}
+          item={item}
+          select={select}
+        />
       ))}
       {!!spotify && (
         <a href={spotify} target="_blank" rel="noopener noreferrer">
           <LazyLoadImage
             alt="Spotify playlist"
             src="/spotify.png"
-            threshold={500}
+            threshold={800}
+            placeholderSrc="/preload.gif"
+            wrapperClassName="lazyload"
           />
         </a>
       )}

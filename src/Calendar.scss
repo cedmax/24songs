@@ -1,3 +1,37 @@
+@keyframes play {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+@mixin create-vinyl($color) {
+  /**Size**/
+  width: 55%;
+  height: 55%;
+
+  /**Animation**/
+  animation: play 7s 0s infinite;
+  transform: rotate(0deg);
+  animation-timing-function: linear;
+
+  /**Vinyl**/
+  box-shadow: 0 0 0 5px $color, 0 0 0 6px darken($color, 10), 0 0 0 7px $color,
+    0 0 0 8px darken($color, 10), 0 0 0 9px $color,
+    0 0 0 10px darken($color, 10), 0 0 0 11px $color,
+    0 0 0 12px darken($color, 10), 0 0 0 13px $color,
+    0 0 0 14px darken($color, 10), 0 0 0 15px $color,
+    0 0 0 16px darken($color, 10), 0 0 0 17px $color,
+    0 0 0 18px darken($color, 10), 0 0 0 19px $color,
+    0 0 0 20px darken($color, 10), 0 0 0 21px $color,
+    0 0 0 22px darken($color, 10), 0 0 0 23px $color,
+    0 0 0 24px darken($color, 5), 0 0 0 25px $color,
+    0 0 0 30px darken($color, 10);
+  border-radius: 50%;
+}
+
 .grid-container {
   counter-reset: section;
 
@@ -13,6 +47,22 @@
   & > div::after {
     content: counter(section) " Dic";
     display: block;
+  }
+
+  & > button:not(.active),
+  & > a {
+    &::after {
+      content: "";
+      display: block;
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: url("/sheen.png") no-repeat;
+      z-index: 100;
+      background-size: contain;
+    }
   }
 
   &::after {
@@ -70,32 +120,46 @@
 
     img {
       width: 100%;
-      transform: translateZ(0);
+      // transform: translateZ(0);
     }
 
-    .song-info {
-      font-size: 140%;
-      display: block;
-      position: absolute;
-      bottom: 0;
-      background: rgba(0, 0, 0, 0.6);
-      color: white;
-      width: 100%;
-      padding: 1em;
-      transition: all 0.3s ease-in;
-      transform: translateY(100%);
-      text-align: left;
-      &::before {
-        position: absolute;
-        top: 0;
-        transform: translateY(-100%);
-        left: 0;
-        padding: 10px;
-        content: counter(section) " Dic";
+    &.active {
+      outline: 0;
+    }
+
+    &.active img {
+      @include create-vinyl(#333);
+    }
+
+    &.active .song-info {
+      display: none;
+    }
+
+    &:not(.active) {
+      .song-info {
+        font-size: 140%;
         display: block;
-        transition: all 0.3s ease-in;
-        opacity: 1;
+        position: absolute;
+        bottom: 0;
         background: rgba(0, 0, 0, 0.6);
+        color: white;
+        width: 100%;
+        padding: 1em;
+        transition: all 0.3s ease-in;
+        transform: translateY(100%);
+        text-align: left;
+        &::before {
+          position: absolute;
+          top: 0;
+          transform: translateY(-100%);
+          left: 0;
+          padding: 10px;
+          content: counter(section) " Dic";
+          display: block;
+          transition: all 0.3s ease-in;
+          opacity: 1;
+          background: rgba(0, 0, 0, 0.6);
+        }
       }
     }
 
@@ -185,4 +249,21 @@
   @media (min-width: 1170px) {
     font-size: 130%;
   }
+}
+
+button:not(.active) .lazyload,
+a .lazyload {
+  color: transparent;
+  width: 100%;
+  height: 100%;
+  display: inline-block;
+  position: absolute;
+  background-size: 25px 25px !important;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-color: #ccc;
+}
+
+.lazyload:not(.lazy-load-image-loaded) {
+  opacity: 0.8;
 }
