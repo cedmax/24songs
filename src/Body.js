@@ -46,9 +46,11 @@ export default memo(({ data, year }) => {
 
   useEffect(() => {
     const item = document.querySelector(".active");
-    setTimeout(() => {
-      item && item.scrollIntoView({ block: "center" });
-    }, 500);
+    if (item && item.scrollIntoView) {
+      setTimeout(() => {
+        item.scrollIntoView({ block: "center" });
+      }, 500);
+    }
   }, []);
 
   return (
