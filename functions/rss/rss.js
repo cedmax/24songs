@@ -38,12 +38,12 @@ const rss = (data, total, year) =>
           <dc:creator><![CDATA[cedmax]]></dc:creator>
           <pubDate>${new Date(year, 11, total - i).toUTCString()}</pubDate>
           <media:content url="https://24songs.dsgn.it/images/${img}" medium="image" />
-          <content:encoded><![CDATA[<embed width="${
+          <content:encoded><![CDATA[<iframe width="${
             embedSize(video).x
           }" height="${embedSize(video).y}" src="${video.replace(
         "/watch?v=",
         "/embed/"
-      )}?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></embed>]]></content:encoded>
+      )}?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></content:encoded>
       </item>`
     )
     .join("");
