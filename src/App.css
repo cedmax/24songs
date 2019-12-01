@@ -1,10 +1,7 @@
 #root {
   display: block;
-  overflow: auto;
   padding: 1rem 3em 3rem;
   font-size: 200%;
-  height: 100%;
-  background: url("/1b.png");
 }
 
 iframe {
