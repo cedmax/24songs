@@ -1,4 +1,4 @@
-import React, { memo, useState, useCallback } from "react";
+import React, { memo, useState, useCallback, useEffect } from "react";
 import Calendar from "./Calendar";
 import Embed from "./Embed";
 import Modal from "./Modal";
@@ -43,6 +43,13 @@ const getPreselected = (year, data, tokens) => {
 export default memo(({ data, year }) => {
   const [video, setVideo] = useState(getPreselected(year, data, urlTokens));
   const close = useCallback(() => setVideo(null), [setVideo]);
+
+  useEffect(() => {
+    const item = document.querySelector(".active");
+    setTimeout(() => {
+      item && item.scrollIntoView({ block: "center" });
+    }, 500);
+  }, []);
 
   return (
     <>
