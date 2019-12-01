@@ -8,24 +8,29 @@ function encode(r) {
   return r.replace(/[\x26\x0A<>'"\s?()]/g, "");
 }
 
-const rss = (data, total, year) => `<?xml version="1.0" encoding="UTF-8"?>
+const xml = body => `<?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
-      <title><![CDATA[24 Songs]]></title>
-      <description><![CDATA[an advent calendar]]></description>
+    <title><![CDATA[24 Songs]]></title>
+    <description><![CDATA[an advent calendar]]></description>
+    <link>https://24songs.dsgn.it/</link>
+    <image>
+      <url>https://24songs.dsgn.it/logo96.png</url>
+      <title>24 Songs</title>
       <link>https://24songs.dsgn.it/</link>
-      <image>
-        <url>https://24songs.dsgn.it/logo96.png</url>
-        <title>24 Songs</title>
-        <link>https://24songs.dsgn.it/</link>
-      </image>
-      <generator>none</generator>
-      <lastBuildDate>${new Date().toUTCString()}</lastBuildDate>
-      <atom:link href="https://24songs.dsgn.it/rss" rel="self" type="application/rss+xml" />
-      <ttl>60</ttl>
-      ${data
-        .map(
-          ({ title, artist, img, video }, i) => `<item>
+    </image>
+    <generator>none</generator>
+    <lastBuildDate>${new Date().toUTCString()}</lastBuildDate>
+    <atom:link href="https://24songs.dsgn.it/rss" rel="self" type="application/rss+xml" />
+    <ttl>60</ttl>
+    ${body}
+  </channel>
+</rss>`;
+
+const rss = (data, total, year) =>
+  data
+    .map(
+      ({ title, artist, img, video }, i) => `<item>
           <title><![CDATA[${title} by ${artist}]]></title>
           <description></description>
           <link>https://24songs.dsgn.it/${year}/12/${total - i}</link>
@@ -33,18 +38,15 @@ const rss = (data, total, year) => `<?xml version="1.0" encoding="UTF-8"?>
           <dc:creator><![CDATA[cedmax]]></dc:creator>
           <pubDate>${new Date(year, 11, total - i).toUTCString()}</pubDate>
           <media:content url="https://24songs.dsgn.it/images/${img}" medium="image" />
-          <content:encoded><![CDATA[<iframe width="${
+          <content:encoded><![CDATA[<embed width="${
             embedSize(video).x
           }" height="${embedSize(video).y}" src="${video.replace(
-            "/watch?v=",
-            "/embed/"
-          )}?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></content:encoded>
+        "/watch?v=",
+        "/embed/"
+      )}?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></embed>]]></content:encoded>
       </item>`
-        )
-        .join("")}
-  </channel>
-</rss>
-`;
+    )
+    .join("");
 
 exports.handler = async (event, context) => {
   let list;
@@ -64,11 +66,19 @@ exports.handler = async (event, context) => {
   }
 
   list = list.filter(a => !!a);
+  let body = rss(list.reverse(), list.length, year);
+  if (list.length < 24) {
+    const newY = year - 1;
+    cloneData[newY] = cloneData[newY].reverse();
+    cloneData[newY].length = 24 - day;
+    const fillerList = cloneData[newY];
+    body += rss(fillerList, 24, newY);
+  }
 
   try {
     return {
       statusCode: 200,
-      body: rss(list.reverse(), list.length, year)
+      body: xml(body)
     };
   } catch (err) {
     return { statusCode: 500, body: err.toString() };
