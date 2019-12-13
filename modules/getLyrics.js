@@ -21,9 +21,10 @@ const fetch = async data => {
 
         fs.writeFileSync(
           filePath,
-          JSON.stringify({ songs: full_title, lyrics, url })
+          JSON.stringify({ title: full_title, lyrics, url })
         );
       } catch (e) {
+        fs.writeFileSync(filePath, JSON.stringify({ reason: "MISSING" }));
         console.log(`${item.title} by ${item.artist} failed`);
       }
     }

@@ -6,11 +6,15 @@ const getDomainFromUrl = url => {
   return a.hostname;
 };
 
+const getCredits = url =>
+  url
+    ? `via <a target="_blank" rel="noopener noreferrer" href="${url}">${getDomainFromUrl(
+        url
+      )}</a><br/><br/>`
+    : "";
+
 const text2html = data =>
-  data.lyrics.replace(/\n/g, "<br />") +
-  `<br/><br/>via <a target="_blank" rel="noopener noreferrer" href="${
-    data.url
-  }">${getDomainFromUrl(data.url)}</a><br/><br/>`;
+  data.lyrics.replace(/\n/g, "<br />") + `<br/><br/>` + getCredits(data.url);
 
 export default memo(({ data }) => {
   const [isOpen, setIsOpen] = useState(false);
@@ -33,6 +37,7 @@ export default memo(({ data }) => {
   return (
     data.lyrics && (
       <div onClick={toggleOpen} className={`lyrics${isOpen ? " open" : ""}`}>
+        <h3>{data.title}</h3>
         <p
           onClick={dontPropagate}
           ref={ref}
