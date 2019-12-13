@@ -8,15 +8,7 @@ function encode(r) {
   return r.replace(/[\x26\x0A<>'"\s?()]/g, "");
 }
 
-function getLyrics(id) {
-  try {
-    return text2html(require(`./${id}.json`).lyrics);
-  } catch (e) {
-    return "";
-  }
-}
-
-const text2html = data => data.replace(/\n/g, "<br />");
+const text2html = data => (data ? data.replace(/\n/g, "<br />") : "");
 
 const xml = body => `<?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
@@ -40,7 +32,7 @@ const xml = body => `<?xml version="1.0" encoding="UTF-8"?>
 const rss = (data, total, year) =>
   data
     .map(
-      ({ title, artist, video, id }, i) => `<item>
+      ({ title, artist, video, id, lyrics }, i) => `<item>
           <title><![CDATA[${title} by ${artist}]]></title>
           <description></description>
           <link>https://24songs.dsgn.it/${year}/12/${total - i}</link>
@@ -54,7 +46,7 @@ const rss = (data, total, year) =>
         "/watch?v=",
         "/embed/"
       )}?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><a href="https://24songs.dsgn.it/${year}/12/${total -
-        i}">permalink</a><br/><br/>${getLyrics(id)}]]></content:encoded>
+        i}">permalink</a><br/><br/>${text2html(lyrics)}]]></content:encoded>
       </item>`
     )
     .join("");
