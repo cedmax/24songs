@@ -10,11 +10,13 @@ function encode(r) {
 
 function getLyrics(id) {
   try {
-    return require(`./${id}.json`).lyrics;
+    return text2html(require(`./${id}.json`).lyrics);
   } catch (e) {
     return "";
   }
 }
+
+const text2html = data => data.replace(/\n/g, "<br />");
 
 const xml = body => `<?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
@@ -51,9 +53,8 @@ const rss = (data, total, year) =>
           }" height="${embedSize(video).y}" src="${video.replace(
         "/watch?v=",
         "/embed/"
-      )}?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><br/>${getLyrics(
-        id
-      )}]]></content:encoded>
+      )}?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><a href="https://24songs.dsgn.it/${year}/12/${total -
+        i}">permalink</a><br/><br/>${getLyrics(id)}]]></content:encoded>
       </item>`
     )
     .join("");
