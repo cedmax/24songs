@@ -37,7 +37,6 @@ export default memo(({ data }) => {
   return (
     data.lyrics && (
       <div onClick={toggleOpen} className={`lyrics${isOpen ? " open" : ""}`}>
-        <h3>{data.title}</h3>
         <p
           onClick={dontPropagate}
           ref={ref}
