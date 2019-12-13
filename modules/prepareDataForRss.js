@@ -18,3 +18,11 @@ fs.writeFileSync(
   JSON.stringify({ [year]: data, [year - 1]: extraData }),
   "utf-8"
 );
+
+const allSongs = [...data, ...extraData];
+for (let i = 0; i < allSongs.length; i++) {
+  const { id } = allSongs[i];
+  try {
+    fs.copyFileSync(`./public/lyrics/${id}.json`, `./functions/rss/${id}.json`);
+  } catch (e) {}
+}
