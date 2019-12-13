@@ -4,12 +4,12 @@ import { LazyLoadImage } from "react-lazy-load-image-component";
 export default ({ item, select, isActive }) => (
   <button
     className={isActive ? "active" : ""}
-    data-url={item.video}
+    data-id={item.id}
     onClick={select}
   >
     <LazyLoadImage
       alt={item.artist + " " + item.title}
-      src={`/images/${item.img}`}
+      src={`/images/${item.id}.jpg`}
       threshold={800}
       placeholderSrc="/preload.gif"
       wrapperClassName="lazyload"

@@ -4,13 +4,14 @@ import Entry from "./CalendarEntry";
 import "./Calendar.scss";
 import playlists from "./data/playlists.json";
 
-export default memo(({ year, data, setVideo, video }) => {
+export default memo(({ year, data, selected, setSelected }) => {
   const select = useCallback(
     e => {
-      const video = e.currentTarget.getAttribute("data-url");
-      setVideo(video);
+      const selectedId = e.currentTarget.getAttribute("data-id");
+      const selected = data.find(item => item.id === selectedId);
+      setSelected(selected);
     },
-    [setVideo]
+    [data, setSelected]
   );
 
   let filler = [];
@@ -31,7 +32,7 @@ export default memo(({ year, data, setVideo, video }) => {
       </header>
       {data.map(item => (
         <Entry
-          isActive={video === item.video}
+          isActive={selected.id === item.id}
           key={item.artist}
           item={item}
           select={select}
