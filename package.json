@@ -16,7 +16,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test",
+    "test": "node modules/testVideos",
     "eject": "react-scripts eject",
     "postbuild": "react-snap && node modules/prepareDataForRss.js"
   },
@@ -38,6 +38,7 @@
   "devDependencies": {
     "axios": "^0.19.0",
     "cheerio": "^1.0.0-rc.3",
+    "colors": "^1.4.0",
     "dotenv": "^8.2.0",
     "image-downloader": "^3.5.0",
     "image-size": "^0.8.3",
