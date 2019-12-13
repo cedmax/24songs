@@ -1,146 +1,146 @@
 [
-  {
-    "img": "Kevin-Morby-I-Have-Been-To-the-Mountain.jpg",
-    "title": "I Have Been To the Mountain",
-    "artist": "Kevin Morby",
-    "video": "https://youtube.com/watch?v=5hpZqvrYFXI"
-  },
-  {
-    "img": "GAZZELLE-Quella-te.jpg",
-    "title": "Quella te",
-    "artist": "GAZZELLE",
-    "video": "https://youtube.com/watch?v=sJ_1cTrX3qc"
-  },
-  {
-    "img": "Sick-Tamburo-UN-GIORNO-NUOVO.jpg",
-    "title": "UN GIORNO NUOVO",
-    "artist": "Sick Tamburo",
-    "video": "https://youtube.com/watch?v=ffU-Pbx-imA"
-  },
-  {
-    "img": "LNDFK-Tell-Me-Why.jpg",
-    "title": "Tell Me Why",
-    "artist": "LNDFK",
-    "video": "https://youtube.com/watch?v=qCf2vbk_DNc"
-  },
-  {
-    "img": "Cairobi-Saint.jpg",
-    "title": "Saint",
-    "artist": "Cairobi",
-    "video": "https://youtube.com/watch?v=6_MmX8wv-hY"
-  },
-  {
-    "img": "Ucronic-La-grana.jpg",
-    "title": "La grana",
-    "artist": "Ucronic",
-    "video": "https://youtube.com/watch?v=rMiINcP4GFo"
-  },
-  {
-    "img": "Meilyr-Jones-How-To-Recognise-A-Work-Of-Art.jpg",
-    "title": "How To Recognise A Work Of Art",
-    "artist": "Meilyr Jones",
-    "video": "https://youtube.com/watch?v=QlGwQYCw-5E"
-  },
-  {
-    "img": "Afghan-Whigs-Regret.jpg",
-    "title": "Regret",
-    "artist": "Afghan Whigs",
-    "video": "https://youtube.com/watch?v=m6hX3CbWOl8"
-  },
-  {
-    "img": "Surfer-Blood-Six-Flags-in-F-or-G.jpg",
-    "title": "Six Flags in F or G",
-    "artist": "Surfer Blood",
-    "video": "https://youtube.com/watch?v=jEs1TfpRG8Y"
-  },
-  {
-    "img": "Minutemen-Viet-Nam.jpg",
-    "title": "Viet Nam",
-    "artist": "Minutemen",
-    "video": "https://youtube.com/watch?v=UHq454x-xoQ"
-  },
-  {
-    "img": "British-Sea-Power-Bad-Bohemian.jpg",
-    "title": "Bad Bohemian",
-    "artist": "British Sea Power",
-    "video": "https://youtube.com/watch?v=ueYkok5Oph0"
-  },
-  {
-    "img": "Why-This-Ole-King.jpg",
-    "title": "This Ole King",
-    "artist": "Why?",
-    "video": "https://youtube.com/watch?v=D1tlT7-m_oc"
-  },
-  {
-    "img": "The-Damned-Life-Goes-On.jpg",
-    "title": "Life Goes On",
-    "artist": "The Damned",
-    "video": "https://youtube.com/watch?v=TaDbMZlN2Pg"
-  },
-  {
-    "img": "Killing-Joke-Youll-Never-Get-to-Me.jpg",
-    "title": "You'll Never Get to Me",
-    "artist": "Killing Joke",
-    "video": "https://youtube.com/watch?v=oh2qUADNZCU"
-  },
-  {
-    "img": "Hot-Snakes-Plenty-For-All.jpg",
-    "title": "Plenty For All",
-    "artist": "Hot Snakes",
-    "video": "https://youtube.com/watch?v=WRRCUb4IOmo"
-  },
-  {
-    "img": "The-Sadies-Its-Easy-Like-Walking.jpg",
-    "title": "It's Easy (Like Walking)",
-    "artist": "The Sadies",
-    "video": "https://youtube.com/watch?v=4qWhFmZfTb0"
-  },
-  {
-    "img": "Sebadoh-Flame.jpg",
-    "title": "Flame",
-    "artist": "Sebadoh",
-    "video": "https://youtube.com/watch?v=expcmtqTyC4"
-  },
-  {
-    "img": "The-Zen-Circus-Non-voglio-ballare.jpg",
-    "title": "Non voglio ballare",
-    "artist": "The Zen Circus",
-    "video": "https://youtube.com/watch?v=42IHeo2oOkA"
-  },
-  {
-    "img": "The-Dead-Pirates-UGO.jpg",
-    "title": "UGO",
-    "artist": "The Dead Pirates",
-    "video": "https://youtube.com/watch?v=Oc4RrZZiOfc"
-  },
-  {
-    "img": "Field-Mouse-Half-Life.jpg",
-    "title": "Half-Life",
-    "artist": "Field Mouse",
-    "video": "https://youtube.com/watch?v=AIXOp9IIIJM"
-  },
-  {
-    "img": "Goat-Djorolen-Union-of-Sun-and-Moon.jpg",
-    "title": "Djorolen / Union of Sun and Moon",
-    "artist": "Goat",
-    "video": "https://youtube.com/watch?v=KcSWEN-ZF5A"
-  },
-  {
-    "img": "Eyelids-Slow-It-Goes.jpg",
-    "title": "Slow It Goes",
-    "artist": "Eyelids",
-    "video": "https://youtube.com/watch?v=eklFSRY0_5w"
-  },
-  {
-    "img": "Jacuzzi-Boys-Boys-Like-Blood.jpg",
-    "title": "Boys Like Blood",
-    "artist": "Jacuzzi Boys",
-    "video": "https://youtube.com/watch?v=CKmqf9dRHcE"
-  },
-  {
-    "img": "Black-Honey-Hello-Today.jpg",
-    "title": "Hello Today",
-    "artist": "Black Honey",
-    "video": "https://youtube.com/watch?v=1kyfzabjXf4"
-  }
+    {
+        "id": "Kevin-Morby-I-Have-Been-To-the-Mountain",
+        "title": "I Have Been To the Mountain",
+        "artist": "Kevin Morby",
+        "video": "https://youtube.com/watch?v=5hpZqvrYFXI"
+    },
+    {
+        "id": "GAZZELLE-Quella-te",
+        "title": "Quella te",
+        "artist": "GAZZELLE",
+        "video": "https://youtube.com/watch?v=sJ_1cTrX3qc"
+    },
+    {
+        "id": "Sick-Tamburo-UN-GIORNO-NUOVO",
+        "title": "UN GIORNO NUOVO",
+        "artist": "Sick Tamburo",
+        "video": "https://youtube.com/watch?v=ffU-Pbx-imA"
+    },
+    {
+        "id": "LNDFK-Tell-Me-Why",
+        "title": "Tell Me Why",
+        "artist": "LNDFK",
+        "video": "https://youtube.com/watch?v=qCf2vbk_DNc"
+    },
+    {
+        "id": "Cairobi-Saint",
+        "title": "Saint",
+        "artist": "Cairobi",
+        "video": "https://youtube.com/watch?v=6_MmX8wv-hY"
+    },
+    {
+        "id": "Ucronic-La-grana",
+        "title": "La grana",
+        "artist": "Ucronic",
+        "video": "https://youtube.com/watch?v=rMiINcP4GFo"
+    },
+    {
+        "id": "Meilyr-Jones-How-To-Recognise-A-Work-Of-Art",
+        "title": "How To Recognise A Work Of Art",
+        "artist": "Meilyr Jones",
+        "video": "https://youtube.com/watch?v=QlGwQYCw-5E"
+    },
+    {
+        "id": "Afghan-Whigs-Regret",
+        "title": "Regret",
+        "artist": "Afghan Whigs",
+        "video": "https://youtube.com/watch?v=m6hX3CbWOl8"
+    },
+    {
+        "id": "Surfer-Blood-Six-Flags-in-F-or-G",
+        "title": "Six Flags in F or G",
+        "artist": "Surfer Blood",
+        "video": "https://youtube.com/watch?v=jEs1TfpRG8Y"
+    },
+    {
+        "id": "Minutemen-Viet-Nam",
+        "title": "Viet Nam",
+        "artist": "Minutemen",
+        "video": "https://youtube.com/watch?v=UHq454x-xoQ"
+    },
+    {
+        "id": "British-Sea-Power-Bad-Bohemian",
+        "title": "Bad Bohemian",
+        "artist": "British Sea Power",
+        "video": "https://youtube.com/watch?v=ueYkok5Oph0"
+    },
+    {
+        "id": "Why-This-Ole-King",
+        "title": "This Ole King",
+        "artist": "Why?",
+        "video": "https://youtube.com/watch?v=D1tlT7-m_oc"
+    },
+    {
+        "id": "The-Damned-Life-Goes-On",
+        "title": "Life Goes On",
+        "artist": "The Damned",
+        "video": "https://youtube.com/watch?v=TaDbMZlN2Pg"
+    },
+    {
+        "id": "Killing-Joke-Youll-Never-Get-to-Me",
+        "title": "You'll Never Get to Me",
+        "artist": "Killing Joke",
+        "video": "https://youtube.com/watch?v=oh2qUADNZCU"
+    },
+    {
+        "id": "Hot-Snakes-Plenty-For-All",
+        "title": "Plenty For All",
+        "artist": "Hot Snakes",
+        "video": "https://youtube.com/watch?v=WRRCUb4IOmo"
+    },
+    {
+        "id": "The-Sadies-Its-Easy-Like-Walking",
+        "title": "It's Easy (Like Walking)",
+        "artist": "The Sadies",
+        "video": "https://youtube.com/watch?v=4qWhFmZfTb0"
+    },
+    {
+        "id": "Sebadoh-Flame",
+        "title": "Flame",
+        "artist": "Sebadoh",
+        "video": "https://youtube.com/watch?v=expcmtqTyC4"
+    },
+    {
+        "id": "The-Zen-Circus-Non-voglio-ballare",
+        "title": "Non voglio ballare",
+        "artist": "The Zen Circus",
+        "video": "https://youtube.com/watch?v=42IHeo2oOkA"
+    },
+    {
+        "id": "The-Dead-Pirates-UGO",
+        "title": "UGO",
+        "artist": "The Dead Pirates",
+        "video": "https://youtube.com/watch?v=Oc4RrZZiOfc"
+    },
+    {
+        "id": "Field-Mouse-Half-Life",
+        "title": "Half-Life",
+        "artist": "Field Mouse",
+        "video": "https://youtube.com/watch?v=AIXOp9IIIJM"
+    },
+    {
+        "id": "Goat-Djorolen-Union-of-Sun-and-Moon",
+        "title": "Djorolen / Union of Sun and Moon",
+        "artist": "Goat",
+        "video": "https://youtube.com/watch?v=KcSWEN-ZF5A"
+    },
+    {
+        "id": "Eyelids-Slow-It-Goes",
+        "title": "Slow It Goes",
+        "artist": "Eyelids",
+        "video": "https://youtube.com/watch?v=eklFSRY0_5w"
+    },
+    {
+        "id": "Jacuzzi-Boys-Boys-Like-Blood",
+        "title": "Boys Like Blood",
+        "artist": "Jacuzzi Boys",
+        "video": "https://youtube.com/watch?v=CKmqf9dRHcE"
+    },
+    {
+        "id": "Black-Honey-Hello-Today",
+        "title": "Hello Today",
+        "artist": "Black Honey",
+        "video": "https://youtube.com/watch?v=1kyfzabjXf4"
+    }
 ]

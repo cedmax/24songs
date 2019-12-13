@@ -1,146 +1,146 @@
 [
-  {
-    "img": "Zola-Jesus-Run-Me-Out.jpg",
-    "title": "Run Me Out",
-    "artist": "Zola Jesus",
-    "video": "https://youtube.com/watch?v=WTHUhRA8wcE"
-  },
-  {
-    "img": "Two-Gallants-Halcyon-Days.jpg",
-    "title": "Halcyon Days",
-    "artist": "Two Gallants",
-    "video": "https://youtube.com/watch?v=ZUFIbAG1ePI"
-  },
-  {
-    "img": "The-Drones-Shark-Fin-Blues.jpg",
-    "title": "Shark Fin Blues",
-    "artist": "The Drones",
-    "video": "https://youtube.com/watch?v=lvFKQrlaIfg"
-  },
-  {
-    "img": "Pixies-Greens-and-Blues.jpg",
-    "title": "Greens and Blues",
-    "artist": "Pixies",
-    "video": "https://youtube.com/watch?v=w1vdYTzPtKQ"
-  },
-  {
-    "img": "Archers-of-Loaf-White-Trash-Heroes.jpg",
-    "title": "White Trash Heroes",
-    "artist": "Archers of Loaf",
-    "video": "https://youtube.com/watch?v=0QrDOGcZDow"
-  },
-  {
-    "img": "Albert-Hammond,-Jr-St-Justice.jpg",
-    "title": "St. Justice",
-    "artist": "Albert Hammond, Jr.",
-    "video": "https://youtube.com/watch?v=W3L_TvZHfQw"
-  },
-  {
-    "img": "The-Sun-Days-Dont-need-to-be-them.jpg",
-    "title": "Don't need to be them",
-    "artist": "The Sun Days",
-    "video": "https://youtube.com/watch?v=Kw7IKPkqfcg"
-  },
-  {
-    "img": "King-Dude-Be-Free.jpg",
-    "title": "Be Free",
-    "artist": "King Dude",
-    "video": "https://youtube.com/watch?v=mw3fTBd0R0g"
-  },
-  {
-    "img": "Doomriders-Come-Alive.jpg",
-    "title": "Come Alive",
-    "artist": "Doomriders",
-    "video": "https://youtube.com/watch?v=UNVptkIol1o"
-  },
-  {
-    "img": "White-Denim-At-Night-in-Dreams.jpg",
-    "title": "At Night in Dreams",
-    "artist": "White Denim",
-    "video": "https://youtube.com/watch?v=Uj38xY5n3no"
-  },
-  {
-    "img": "John-Frusciante-Going-Inside.jpg",
-    "title": "Going Inside",
-    "artist": "John Frusciante",
-    "video": "https://youtube.com/watch?v=A8MZUSsCZZw"
-  },
-  {
-    "img": "Gazebo-Penguins-Difetto.jpg",
-    "title": "Difetto",
-    "artist": "Gazebo Penguins",
-    "video": "https://youtube.com/watch?v=ceFSnY9u8CI"
-  },
-  {
-    "img": "Racing-Glaciers-Moths.jpg",
-    "title": "Moths",
-    "artist": "Racing Glaciers",
-    "video": "https://youtube.com/watch?v=gCzDFvoQq1Q"
-  },
-  {
-    "img": "DIIV-Under-The-Sun.jpg",
-    "title": "Under The Sun",
-    "artist": "DIIV",
-    "video": "https://youtube.com/watch?v=zKbqyuaXolg"
-  },
-  {
-    "img": "Astronautalis-Sike.jpg",
-    "title": "Sike!",
-    "artist": "Astronautalis",
-    "video": "https://youtube.com/watch?v=1529E7TY0c0"
-  },
-  {
-    "img": "Radical-Face-Sisters.jpg",
-    "title": "Sisters",
-    "artist": "Radical Face",
-    "video": "https://youtube.com/watch?v=JHUXkHgXz1o"
-  },
-  {
-    "img": "Antemasque-4AM.jpg",
-    "title": "4AM",
-    "artist": "Antemasque",
-    "video": "https://youtube.com/watch?v=rE8Qe40PLPM"
-  },
-  {
-    "img": "Fleet-Foxes-Mykonos.jpg",
-    "title": "Mykonos",
-    "artist": "Fleet Foxes",
-    "video": "https://youtube.com/watch?v=DT-dxG4WWf4"
-  },
-  {
-    "img": "Motta-La-fine-dei-ventanni.jpg",
-    "title": "La fine dei vent'anni",
-    "artist": "Motta",
-    "video": "https://youtube.com/watch?v=CYIgLu2Ga_s"
-  },
-  {
-    "img": "Calcutta-Gaetano.jpg",
-    "title": "Gaetano",
-    "artist": "Calcutta",
-    "video": "https://youtube.com/watch?v=hzfz82wyPFs"
-  },
-  {
-    "img": "Johnny-Foreigner-Our-Bipolar-Friends.jpg",
-    "title": "Our Bipolar Friends",
-    "artist": "Johnny Foreigner",
-    "video": "https://youtube.com/watch?v=Fb9-FNsxqho"
-  },
-  {
-    "img": "NOFX-The-Decline.jpg",
-    "title": "The Decline",
-    "artist": "NOFX",
-    "video": "https://youtube.com/watch?v=qnFVMkTWaBw"
-  },
-  {
-    "img": "Wolf-Parade-Cest-La-Vie-Way.jpg",
-    "title": "C'est La Vie Way",
-    "artist": "Wolf Parade",
-    "video": "https://youtube.com/watch?v=yWFOEcnh_kE"
-  },
-  {
-    "img": "Mary-in-June-Perfetto.jpg",
-    "title": "Perfetto",
-    "artist": "Mary in June",
-    "video": "https://youtube.com/watch?v=nw00IU46ScI"
-  }
+    {
+        "id": "Zola-Jesus-Run-Me-Out",
+        "title": "Run Me Out",
+        "artist": "Zola Jesus",
+        "video": "https://youtube.com/watch?v=WTHUhRA8wcE"
+    },
+    {
+        "id": "Two-Gallants-Halcyon-Days",
+        "title": "Halcyon Days",
+        "artist": "Two Gallants",
+        "video": "https://youtube.com/watch?v=ZUFIbAG1ePI"
+    },
+    {
+        "id": "The-Drones-Shark-Fin-Blues",
+        "title": "Shark Fin Blues",
+        "artist": "The Drones",
+        "video": "https://youtube.com/watch?v=lvFKQrlaIfg"
+    },
+    {
+        "id": "Pixies-Greens-and-Blues",
+        "title": "Greens and Blues",
+        "artist": "Pixies",
+        "video": "https://youtube.com/watch?v=w1vdYTzPtKQ"
+    },
+    {
+        "id": "Archers-of-Loaf-White-Trash-Heroes",
+        "title": "White Trash Heroes",
+        "artist": "Archers of Loaf",
+        "video": "https://youtube.com/watch?v=0QrDOGcZDow"
+    },
+    {
+        "id": "Albert-Hammond,-Jr-St-Justice",
+        "title": "St. Justice",
+        "artist": "Albert Hammond, Jr.",
+        "video": "https://youtube.com/watch?v=W3L_TvZHfQw"
+    },
+    {
+        "id": "The-Sun-Days-Dont-need-to-be-them",
+        "title": "Don't need to be them",
+        "artist": "The Sun Days",
+        "video": "https://youtube.com/watch?v=Kw7IKPkqfcg"
+    },
+    {
+        "id": "King-Dude-Be-Free",
+        "title": "Be Free",
+        "artist": "King Dude",
+        "video": "https://youtube.com/watch?v=mw3fTBd0R0g"
+    },
+    {
+        "id": "Doomriders-Come-Alive",
+        "title": "Come Alive",
+        "artist": "Doomriders",
+        "video": "https://youtube.com/watch?v=UNVptkIol1o"
+    },
+    {
+        "id": "White-Denim-At-Night-in-Dreams",
+        "title": "At Night in Dreams",
+        "artist": "White Denim",
+        "video": "https://youtube.com/watch?v=Uj38xY5n3no"
+    },
+    {
+        "id": "John-Frusciante-Going-Inside",
+        "title": "Going Inside",
+        "artist": "John Frusciante",
+        "video": "https://youtube.com/watch?v=A8MZUSsCZZw"
+    },
+    {
+        "id": "Gazebo-Penguins-Difetto",
+        "title": "Difetto",
+        "artist": "Gazebo Penguins",
+        "video": "https://youtube.com/watch?v=ceFSnY9u8CI"
+    },
+    {
+        "id": "Racing-Glaciers-Moths",
+        "title": "Moths",
+        "artist": "Racing Glaciers",
+        "video": "https://youtube.com/watch?v=gCzDFvoQq1Q"
+    },
+    {
+        "id": "DIIV-Under-The-Sun",
+        "title": "Under The Sun",
+        "artist": "DIIV",
+        "video": "https://youtube.com/watch?v=zKbqyuaXolg"
+    },
+    {
+        "id": "Astronautalis-Sike",
+        "title": "Sike!",
+        "artist": "Astronautalis",
+        "video": "https://youtube.com/watch?v=1529E7TY0c0"
+    },
+    {
+        "id": "Radical-Face-Sisters",
+        "title": "Sisters",
+        "artist": "Radical Face",
+        "video": "https://youtube.com/watch?v=JHUXkHgXz1o"
+    },
+    {
+        "id": "Antemasque-4AM",
+        "title": "4AM",
+        "artist": "Antemasque",
+        "video": "https://youtube.com/watch?v=rE8Qe40PLPM"
+    },
+    {
+        "id": "Fleet-Foxes-Mykonos",
+        "title": "Mykonos",
+        "artist": "Fleet Foxes",
+        "video": "https://youtube.com/watch?v=DT-dxG4WWf4"
+    },
+    {
+        "id": "Motta-La-fine-dei-ventanni",
+        "title": "La fine dei vent'anni",
+        "artist": "Motta",
+        "video": "https://youtube.com/watch?v=CYIgLu2Ga_s"
+    },
+    {
+        "id": "Calcutta-Gaetano",
+        "title": "Gaetano",
+        "artist": "Calcutta",
+        "video": "https://youtube.com/watch?v=hzfz82wyPFs"
+    },
+    {
+        "id": "Johnny-Foreigner-Our-Bipolar-Friends",
+        "title": "Our Bipolar Friends",
+        "artist": "Johnny Foreigner",
+        "video": "https://youtube.com/watch?v=Fb9-FNsxqho"
+    },
+    {
+        "id": "NOFX-The-Decline",
+        "title": "The Decline",
+        "artist": "NOFX",
+        "video": "https://youtube.com/watch?v=qnFVMkTWaBw"
+    },
+    {
+        "id": "Wolf-Parade-Cest-La-Vie-Way",
+        "title": "C'est La Vie Way",
+        "artist": "Wolf Parade",
+        "video": "https://youtube.com/watch?v=yWFOEcnh_kE"
+    },
+    {
+        "id": "Mary-in-June-Perfetto",
+        "title": "Perfetto",
+        "artist": "Mary in June",
+        "video": "https://youtube.com/watch?v=nw00IU46ScI"
+    }
 ]

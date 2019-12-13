@@ -16,11 +16,15 @@ module.exports = async (year, arr) => {
     )
   );
 
-  return arr.map(item => ({
-    ...item,
-    img: `${slugify(item.artist, slugConfig)}-${slugify(
-      item.title,
-      slugConfig
-    )}.jpg`
-  }));
+  return arr.map(item => {
+    const { img, ...rest } = item;
+
+    return {
+      ...rest,
+      id: `${slugify(item.artist, slugConfig)}-${slugify(
+        item.title,
+        slugConfig
+      )}`
+    };
+  });
 };
