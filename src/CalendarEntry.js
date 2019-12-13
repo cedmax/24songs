@@ -4,7 +4,7 @@ import { LazyLoadImage } from "react-lazy-load-image-component";
 export default ({ item, select, isActive }) => (
   <button
     className={isActive ? "active" : ""}
-    data-url={item.video}
+    data-id={item.id}
     onClick={select}
   >
     <LazyLoadImage

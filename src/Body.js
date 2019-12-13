@@ -22,7 +22,7 @@ const resetUrl = () => {
 };
 
 const getPreselected = (year, data, tokens) => {
-  if (!tokens.length) return null;
+  if (!tokens.length) return {};
   if (isWrongDate(tokens)) {
     return resetUrl();
   }
@@ -37,12 +37,14 @@ const getPreselected = (year, data, tokens) => {
     return resetUrl();
   }
   window.history.replaceState({}, "", "/");
-  return data[yearIndex][tokens[2] - 1].video;
+  return data[yearIndex][tokens[2] - 1];
 };
 
 export default memo(({ data, year }) => {
-  const [video, setVideo] = useState(getPreselected(year, data, urlTokens));
-  const close = useCallback(() => setVideo(null), [setVideo]);
+  const [selected, setSelected] = useState(
+    getPreselected(year, data, urlTokens)
+  );
+  const close = useCallback(() => setSelected({}), [setSelected]);
 
   useEffect(() => {
     const item = document.querySelector(".active");
@@ -57,15 +59,15 @@ export default memo(({ data, year }) => {
     <>
       {data.map((d, i) => (
         <Calendar
-          video={video}
+          selected={selected}
           key={year[i]}
-          setVideo={setVideo}
+          setSelected={setSelected}
           year={year[i]}
           data={d}
         />
       ))}
-      <Modal close={close} isOpen={!!video}>
-        <Embed video={video} />
+      <Modal close={close} isOpen={!!selected.video}>
+        <Embed video={selected.video} />
       </Modal>
     </>
   );
