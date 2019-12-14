@@ -20,11 +20,11 @@ module.exports = async (year, arr) => {
     const { img, ...rest } = item;
 
     return {
-      ...rest,
       id: `${slugify(item.artist, slugConfig)}-${slugify(
         item.title,
         slugConfig
-      )}`
+      )}`,
+      ...rest
     };
   });
 };
