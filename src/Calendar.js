@@ -42,7 +42,7 @@ export default memo(({ year, data, selected, setSelected }) => {
         <a href={spotify} target="_blank" rel="noopener noreferrer">
           <LazyLoadImage
             alt="Spotify playlist"
-            src="/spotify.png"
+            src="/spotify.jpg"
             threshold={800}
             placeholderSrc="/preload.gif"
             wrapperClassName="lazyload"
