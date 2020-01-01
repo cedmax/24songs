@@ -8,7 +8,9 @@ let songs = [];
 const failures = [];
 
 for (let year = initialYear; year <= new Date().getFullYear(); year++) {
-  songs = [...songs, ...require(`../src/data/${year}`)];
+  try {
+    songs = [...songs, ...require(`../src/data/${year}`)];
+  } catch (e) {}
 }
 
 const validateVideos = async (song, songs) => {
