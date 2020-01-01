@@ -1,6 +1,5 @@
 import React, { memo, useState, useCallback, useEffect } from "react";
 import axios from "axios";
-import Calendar from "./Calendar";
 import Embed from "./Embed";
 import Lyrics from "./Lyrics";
 import Modal from "./Modal";
@@ -42,7 +41,7 @@ const getPreselected = (year, data, tokens) => {
   return data[yearIndex][tokens[2] - 1];
 };
 
-export default memo(({ data, year }) => {
+export default memo(({ data, year, children }) => {
   const [selected, setSelected] = useState(
     getPreselected(year, data, urlTokens)
   );
@@ -76,15 +75,7 @@ export default memo(({ data, year }) => {
 
   return (
     <>
-      {data.map((d, i) => (
-        <Calendar
-          selected={selected}
-          key={year[i]}
-          setSelected={setSelected}
-          year={year[i]}
-          data={d}
-        />
-      ))}
+      {children({ setSelected, selected })}
       <Modal close={close} isOpen={!!selected.video}>
         <Lyrics data={lyrics} />
         <Embed video={selected.video} />

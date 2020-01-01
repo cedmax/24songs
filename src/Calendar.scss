@@ -32,7 +32,8 @@
   border-radius: 50%;
 }
 
-.grid-container {
+.grid-container,
+.grid-container-extra {
   counter-reset: section;
 
   @media (min-width: 600px) {
@@ -42,11 +43,6 @@
   & > button,
   & > div {
     counter-increment: section;
-  }
-
-  & > div::after {
-    content: counter(section) " Dic";
-    display: block;
   }
 
   & > button:not(.active),
@@ -154,7 +150,7 @@
           transform: translateY(-100%);
           left: 0;
           padding: 10px;
-          content: counter(section) " Dic";
+          content: attr(data-date);
           display: block;
           transition: all 0.3s ease-in;
           opacity: 1;
@@ -177,6 +173,24 @@
 
   small {
     font-size: 80%;
+  }
+}
+
+.grid-container-extra {
+  &:not(:first-of-type) {
+    margin-top: 0;
+  }
+
+  h1 {
+    width: 100%;
+    display: block;
+    text-align: left;
+    cursor: default;
+    flex-direction: flex-start;
+    &::before {
+      padding-bottom: 0;
+      display: none;
+    }
   }
 }
 
@@ -266,4 +280,33 @@ a .lazyload {
 
 .lazyload:not(.lazy-load-image-loaded) {
   opacity: 0.8;
+}
+
+.ribbon {
+  background: #830c18;
+  color: white;
+  height: 8rem;
+  left: -4rem;
+  position: fixed;
+  top: -4rem;
+  width: 8rem;
+  border: 0;
+  transform: rotate(-45deg);
+  opacity: 0.7;
+  cursor: pointer;
+}
+
+.ribbon:hover,
+.ribbon:focus {
+  opacity: 0.9;
+}
+
+.ribbon span {
+  color: white;
+  font-size: 120%;
+  font-weight: bold;
+  bottom: 0.5em;
+  left: 50%;
+  transform: translateX(-50%);
+  position: absolute;
 }

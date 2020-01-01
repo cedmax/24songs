@@ -30,10 +30,11 @@ export default memo(({ year, data, selected, setSelected }) => {
           <small>{year}</small>
         </h1>
       </header>
-      {data.map(item => (
+      {data.map((item, i) => (
         <Entry
           isActive={selected.id === item.id}
           key={item.artist}
+          day={i + 1}
           item={item}
           select={select}
         />
