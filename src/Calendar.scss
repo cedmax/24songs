@@ -183,10 +183,11 @@
 
   h1 {
     width: 100%;
-    display: block;
-    text-align: left;
+    overflow: visible;
+    font-size: 150%;
     cursor: default;
-    flex-direction: flex-start;
+    margin-bottom: 0.3em;
+    justify-content: flex-start;
     &::before {
       padding-bottom: 0;
       display: none;
