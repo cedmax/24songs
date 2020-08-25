@@ -16,14 +16,23 @@ const fetch = async data => {
 
     if (!fs.existsSync(filePath)) {
       try {
-        const search = await Genius.findTrack(`${item.title} ${item.artist}`);
-        const { full_title, lyrics, url } = await Genius.getAll(search);
+        const searchResult = await Genius.tracks.search(
+          `${item.title} ${item.artist}`
+        );
+
+        const song = await Genius.tracks.get(searchResult[0].id);
+        const {
+          titles: { full: full_title },
+          url,
+        } = song;
+        const lyrics = await song.lyrics();
 
         fs.writeFileSync(
           filePath,
           JSON.stringify({ title: full_title, lyrics, url })
         );
       } catch (e) {
+        console.log(e);
         fs.writeFileSync(filePath, JSON.stringify({ reason: "MISSING" }));
         console.log(`${item.title} by ${item.artist} failed`);
       }

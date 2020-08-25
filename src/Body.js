@@ -41,6 +41,14 @@ const getPreselected = (year, data, tokens) => {
   return data[yearIndex][tokens[2] - 1];
 };
 
+const selectNext = (data, selected) => {
+  const flattenData = data.reduce((a, b) => a.concat(b), []);
+  const songIdx = flattenData.findIndex(({ id }) => id === selected.id);
+  const nextSong = flattenData[songIdx + 1];
+
+  return nextSong || {};
+};
+
 export default memo(({ data, year, children }) => {
   const [selected, setSelected] = useState(
     getPreselected(year, data, urlTokens)
@@ -73,12 +81,19 @@ export default memo(({ data, year, children }) => {
     }
   }, []);
 
+  const playNext = useCallback(() => {
+    const next = selectNext(data, selected);
+    if (next) {
+      setSelected(next);
+    }
+  }, [data, selected]);
+
   return (
     <>
       {children({ setSelected, selected })}
       <Modal close={close} isOpen={!!selected.video}>
         <Lyrics data={lyrics} />
-        <Embed video={selected.video} />
+        <Embed video={selected.video} playNext={playNext} />
       </Modal>
     </>
   );
