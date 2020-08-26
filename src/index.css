@@ -1,3 +1,11 @@
+:root {
+  --background: rgb(0, 74, 30);
+  --main: rgb(200, 20, 36);
+  --accent: rgb(0, 95, 28);
+  --secondary: rgb(0, 129, 45);
+  --transparent: rgba(0, 0, 0, 0);
+}
+
 html,
 body {
   margin: 0;
@@ -9,6 +17,17 @@ body {
 body {
   background: url("/1b.png");
   background-attachment: fixed;
+}
+
+@supports (background: paint(background)) {
+  body {
+    background: url("/knit.png"), paint(background);
+    background-blend-mode: hard-light;
+    background-attachment: fixed;
+  }
+  .updated {
+    transform: translateZ(0);
+  }
 }
 
 *,

@@ -1,8 +1,21 @@
+/* eslint-disable no-unused-expressions */
 import React, { memo, useState, useCallback, useEffect } from "react";
 import axios from "axios";
 import Embed from "./Embed";
 import Lyrics from "./Lyrics";
 import Modal from "./Modal";
+import { props } from "./CSSCustomProperties";
+
+const repaint = () => {
+  const scroll =
+    window.pageYOffset ||
+    (document.documentElement || document.body.parentNode || document.body)
+      .scrollTop;
+  document.body.style.display = "none";
+  document.body.offsetHeight;
+  document.body.style.display = "block";
+  window.scrollTo(0, scroll);
+};
 
 const date = new Date();
 const urlTokens = window.location.pathname
@@ -60,17 +73,33 @@ export default memo(({ data, year, children }) => {
   }, [setSelected, setLyrics]);
 
   useEffect(() => {
-    (async () => {
-      if (selected.id) {
+    if (selected.id) {
+      (async () => {
         try {
           const { data } = await axios.get(`/lyrics/${selected.id}.json`);
           setLyrics(data);
         } catch (e) {
           setLyrics({});
         }
-      }
-    })();
+      })();
+    }
   }, [selected.id]);
+
+  useEffect(() => {
+    if (selected.palette) {
+      selected.palette.forEach((colorCode, i) => {
+        document.documentElement.style.setProperty(
+          Object.keys(props)[i],
+          `rgb(${colorCode.join(",")})`
+        );
+      });
+    } else {
+      Object.keys(props).forEach(propKey => {
+        document.documentElement.style.setProperty(propKey, props[propKey]);
+      });
+    }
+    repaint();
+  }, [selected.palette]);
 
   useEffect(() => {
     const item = document.querySelector(".active");

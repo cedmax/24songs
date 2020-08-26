@@ -3,144 +3,288 @@
         "id": "Lo-Stato-Sociale-Amore-ai-tempi-dellIkea",
         "title": "Amore ai tempi dell'Ikea",
         "artist": "Lo Stato Sociale",
-        "video": "https://youtube.com/watch?v=65c-3csPpp0"
+        "video": "https://youtube.com/watch?v=65c-3csPpp0",
+        "palette": [
+            [81, 65, 53],
+            [162, 49, 41],
+            [136, 109, 93],
+            [208, 192, 167]
+        ]
     },
     {
         "id": "Le-Tigre-Viz",
         "title": "Viz",
         "artist": "Le Tigre",
-        "video": "https://youtube.com/watch?v=27dHm_EeBjw"
+        "video": "https://youtube.com/watch?v=27dHm_EeBjw",
+        "palette": [
+            [88, 54, 49],
+            [172, 56, 73],
+            [169, 93, 97],
+            [188, 204, 220]
+        ]
     },
     {
         "id": "Jonsi-and-Alex-B",
         "title": "B",
         "artist": "Jónsi & Alex",
-        "video": "https://youtube.com/watch?v=zH_Zcyf4dTQ"
+        "video": "https://youtube.com/watch?v=zH_Zcyf4dTQ",
+        "palette": [
+            [94, 84, 66],
+            [204, 188, 148],
+            [164, 148, 122],
+            [205, 194, 179]
+        ]
     },
     {
         "id": "Dazzled-Kid-If-I-Did-Nothing-But-Train-For-Two-Years,-I-Bet-I-Could-Be-in-the-Olympics",
         "title": "If I Did Nothing But Train For Two Years, I Bet I Could Be in the Olympics",
         "artist": "Dazzled Kid",
-        "video": "https://youtube.com/watch?v=tvYg9iI6d1Q"
+        "video": "https://youtube.com/watch?v=tvYg9iI6d1Q",
+        "palette": [
+            [94, 84, 66],
+            [204, 188, 148],
+            [164, 148, 122],
+            [205, 194, 179]
+        ]
     },
     {
         "id": "Joan-as-Police-Woman-Flash",
         "title": "Flash",
         "artist": "Joan as Police Woman",
-        "video": "https://youtube.com/watch?v=Y1ZhAlA3UmE"
+        "video": "https://youtube.com/watch?v=Y1ZhAlA3UmE",
+        "palette": [
+            [60, 76, 69],
+            [224, 34, 7],
+            [156, 156, 84],
+            [173, 196, 209]
+        ]
     },
     {
         "id": "Why-Sod-in-the-Seed",
         "title": "Sod in the Seed",
         "artist": "Why?",
-        "video": "https://youtube.com/watch?v=mxoe91ZamIU"
+        "video": "https://youtube.com/watch?v=mxoe91ZamIU",
+        "palette": [
+            [49, 60, 93],
+            [186, 47, 50],
+            [162, 89, 110],
+            [197, 192, 181]
+        ]
     },
     {
         "id": "The-Shins-Simple-Song",
         "title": "Simple Song",
         "artist": "The Shins",
-        "video": "https://youtube.com/watch?v=RoLTPcD1S4Q"
+        "video": "https://youtube.com/watch?v=RoLTPcD1S4Q",
+        "palette": [
+            [67, 66, 62],
+            [219, 133, 123],
+            [131, 132, 126],
+            [205, 200, 190]
+        ]
     },
     {
         "id": "The-Decemberists-A-Cautionary-Song",
         "title": "A Cautionary Song",
         "artist": "The Decemberists",
-        "video": "https://youtube.com/watch?v=0WH2JRfLRP0"
+        "video": "https://youtube.com/watch?v=0WH2JRfLRP0",
+        "palette": [
+            [81, 60, 44],
+            [120, 55, 37],
+            [159, 115, 93],
+            [217, 189, 167]
+        ]
     },
     {
         "id": "The-Lumineers-Submarines",
         "title": "Submarines",
         "artist": "The Lumineers",
-        "video": "https://youtube.com/watch?v=pgkusNV0GLg"
+        "video": "https://youtube.com/watch?v=pgkusNV0GLg",
+        "palette": [
+            [70, 39, 44],
+            [191, 64, 64],
+            [140, 116, 116],
+            [208, 196, 187]
+        ]
     },
     {
         "id": "Sia-Breathe-Me",
         "title": "Breathe Me",
         "artist": "Sia",
-        "video": "https://youtube.com/watch?v=wHyTSwyZ330"
+        "video": "https://youtube.com/watch?v=wHyTSwyZ330",
+        "palette": [
+            [91, 71, 62],
+            [212, 171, 145],
+            [164, 116, 96],
+            [199, 187, 173]
+        ]
     },
     {
         "id": "Bloc-Party-Blue-Light",
         "title": "Blue Light",
         "artist": "Bloc Party",
-        "video": "https://youtube.com/watch?v=2jBSPciVeLU"
+        "video": "https://youtube.com/watch?v=2jBSPciVeLU",
+        "palette": [
+            [73, 60, 57],
+            [200, 55, 55],
+            [140, 124, 116],
+            [196, 180, 172]
+        ]
     },
     {
         "id": "Wolf-Parade-Shine-a-Light",
         "title": "Shine a Light",
         "artist": "Wolf Parade",
-        "video": "https://youtube.com/watch?v=Kh8-r6O43Rw"
+        "video": "https://youtube.com/watch?v=Kh8-r6O43Rw",
+        "palette": [
+            [106, 47, 62],
+            [204, 140, 156],
+            [130, 111, 135],
+            [185, 185, 202]
+        ]
     },
     {
         "id": "The-Philistines-Jr-The-Bus-Stop-Song",
         "title": "The Bus Stop Song",
         "artist": "The Philistines Jr.",
-        "video": "https://youtube.com/watch?v=OtcYy7LcOdw"
+        "video": "https://youtube.com/watch?v=OtcYy7LcOdw",
+        "palette": [
+            [94, 84, 66],
+            [204, 188, 148],
+            [164, 148, 122],
+            [205, 194, 179]
+        ]
     },
     {
         "id": "Jeff-Rosenstock-Go-on,-Get",
         "title": "Go on, Get!",
         "artist": "Jeff Rosenstock",
-        "video": "https://youtube.com/watch?v=lj5xFxXIGPA"
+        "video": "https://youtube.com/watch?v=lj5xFxXIGPA",
+        "palette": [
+            [93, 81, 58],
+            [134, 147, 108],
+            [132, 117, 93],
+            [180, 188, 164]
+        ]
     },
     {
         "id": "Oren-Lavie-Her-Morning-Elegance",
         "title": "Her Morning Elegance",
         "artist": "Oren Lavie",
-        "video": "https://youtube.com/watch?v=2_HXUhShhmY"
+        "video": "https://youtube.com/watch?v=2_HXUhShhmY",
+        "palette": [
+            [73, 74, 75],
+            [64, 191, 191],
+            [131, 134, 135],
+            [188, 188, 189]
+        ]
     },
     {
         "id": "Waxahatchee-Coast-to-Coast",
         "title": "Coast to Coast",
         "artist": "Waxahatchee",
-        "video": "https://youtube.com/watch?v=HHivBJoFa_0"
+        "video": "https://youtube.com/watch?v=HHivBJoFa_0",
+        "palette": [
+            [48, 63, 75],
+            [12, 79, 145],
+            [113, 170, 176],
+            [196, 203, 172]
+        ]
     },
     {
         "id": "Verlaine-Respirare",
         "title": "Respirare",
         "artist": "Verlaine",
-        "video": "https://youtube.com/watch?v=jVbddj0w9gk"
+        "video": "https://youtube.com/watch?v=jVbddj0w9gk",
+        "palette": [
+            [88, 72, 58],
+            [191, 64, 175],
+            [144, 122, 97],
+            [210, 197, 172]
+        ]
     },
     {
         "id": "Tim-Timebomb-Corazon-De-Oro",
         "title": "Corazon De Oro",
         "artist": "Tim Timebomb",
-        "video": "https://youtube.com/watch?v=8V2nKX5iwzU"
+        "video": "https://youtube.com/watch?v=8V2nKX5iwzU",
+        "palette": [
+            [15, 9, 12],
+            [244, 156, 5],
+            [150, 96, 3],
+            [150, 96, 3]
+        ]
     },
     {
         "id": "PowerSolo-Baby,-You-Aint-Looking-Right",
         "title": "Baby, You Ain't Looking Right",
         "artist": "PowerSolo",
-        "video": "https://youtube.com/watch?v=XX-QDXtvzO8"
+        "video": "https://youtube.com/watch?v=XX-QDXtvzO8",
+        "palette": [
+            [39, 91, 78],
+            [241, 132, 67],
+            [103, 142, 137],
+            [209, 192, 175]
+        ]
     },
     {
         "id": "Maria-Antonietta-Con-gli-occhiali-da-sole",
         "title": "Con gli occhiali da sole",
         "artist": "Maria Antonietta",
-        "video": "https://youtube.com/watch?v=sElsmCovZfA"
+        "video": "https://youtube.com/watch?v=sElsmCovZfA",
+        "palette": [
+            [75, 60, 47],
+            [178, 56, 50],
+            [173, 116, 97],
+            [195, 165, 151]
+        ]
     },
     {
         "id": "Ultimo-Attuale-Corpo-Sonoro-Della-tua-bocca",
         "title": "Della tua bocca",
         "artist": "Ultimo Attuale Corpo Sonoro",
-        "video": "https://youtube.com/watch?v=eDRwoSwY1Ro"
+        "video": "https://youtube.com/watch?v=eDRwoSwY1Ro",
+        "palette": [
+            [77, 49, 39],
+            [174, 93, 76],
+            [159, 100, 86],
+            [196, 167, 150]
+        ]
     },
     {
         "id": "Gazebo-Penguins-Finito-il-caffe",
         "title": "Finito il caffè",
         "artist": "Gazebo Penguins",
-        "video": "https://youtube.com/watch?v=HmIypOs5_Lo"
+        "video": "https://youtube.com/watch?v=HmIypOs5_Lo",
+        "palette": [
+            [102, 84, 60],
+            [208, 44, 48],
+            [175, 147, 115],
+            [215, 195, 173]
+        ]
     },
     {
         "id": "Uochi-Toki-Lato-I",
         "title": "Lato I",
         "artist": "Uochi Toki",
-        "video": "https://youtube.com/watch?v=nk3mdwgYzgI"
+        "video": "https://youtube.com/watch?v=nk3mdwgYzgI",
+        "palette": [
+            [68, 68, 68],
+            [128, 128, 128],
+            [132, 132, 132],
+            [180, 180, 180]
+        ]
     },
     {
         "id": "Appino-IL-TESTAMENTO",
         "title": "IL TESTAMENTO",
         "artist": "Appino",
-        "video": "https://youtube.com/watch?v=-ZtE2wY8_uY"
+        "video": "https://youtube.com/watch?v=-ZtE2wY8_uY",
+        "palette": [
+            [83, 64, 43],
+            [204, 171, 145],
+            [161, 130, 100],
+            [211, 188, 168]
+        ]
     }
 ]

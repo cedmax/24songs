@@ -10,7 +10,7 @@ export default ({ data, year, selected, setSelected }) => {
             a.concat(
               b.map(item => ({
                 ...item,
-                year: year[i]
+                year: year[i],
               }))
             ),
           []
@@ -37,7 +37,7 @@ export default ({ data, year, selected, setSelected }) => {
           return item[1].find(i => i.id === selectedId);
         })
         .filter(item => !!item)[0];
-      console.log(selected);
+
       setSelected(selected);
     },
     [chartData, setSelected]

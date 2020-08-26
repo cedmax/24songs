@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "css-paint-polyfill": "^2.0.0",
     "genius-lyrics": "^3.0.0",
     "node-sass": "^4.14.1",
     "react": "^16.13.1",
@@ -37,6 +38,7 @@
   },
   "devDependencies": {
     "axios": "^0.20.0",
+    "node-vibrant": "^3.1.5",
     "cheerio": "^1.0.0-rc.3",
     "colors": "^1.4.0",
     "dotenv": "^8.2.0",

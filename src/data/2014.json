@@ -3,144 +3,288 @@
         "id": "Fabri-Fibra-Insensibile-con-Dargen-DAmico",
         "title": "Insensibile con Dargen D'Amico",
         "artist": "Fabri Fibra",
-        "video": "https://youtube.com/watch?v=vPRcRhnUCEE"
+        "video": "https://youtube.com/watch?v=vPRcRhnUCEE",
+        "palette": [
+            [68, 66, 58],
+            [182, 73, 95],
+            [136, 127, 119],
+            [204, 184, 189]
+        ]
     },
     {
         "id": "Pixies-Caribou",
         "title": "Caribou",
         "artist": "Pixies",
-        "video": "https://youtube.com/watch?v=Ka1zEYVwNxA"
+        "video": "https://youtube.com/watch?v=Ka1zEYVwNxA",
+        "palette": [
+            [67, 58, 41],
+            [210, 132, 48],
+            [175, 156, 106],
+            [212, 201, 185]
+        ]
     },
     {
         "id": "Beach-Fossils-Clash-The-Truth",
         "title": "Clash The Truth",
         "artist": "Beach Fossils",
-        "video": "https://youtube.com/watch?v=fwDEZMqHSyY"
+        "video": "https://youtube.com/watch?v=fwDEZMqHSyY",
+        "palette": [
+            [60, 52, 68],
+            [127, 123, 132],
+            [134, 129, 136],
+            [194, 192, 196]
+        ]
     },
     {
         "id": "Max-Richter-Journey-5",
         "title": "Infra 5",
         "artist": "Max Richter",
-        "video": "https://youtube.com/watch?v=B4Kybxu7fiQ"
+        "video": "https://youtube.com/watch?v=B4Kybxu7fiQ",
+        "palette": [
+            [68, 60, 68],
+            [96, 64, 191],
+            [124, 124, 124],
+            [196, 188, 196]
+        ]
     },
     {
         "id": "Le-Luci-Della-Centrale-Elettrica-Quando-tornerai-dallestero",
         "title": "Quando tornerai dall'estero",
         "artist": "Le Luci Della Centrale Elettrica",
-        "video": "https://youtube.com/watch?v=1BM2Cjn-Ld4"
+        "video": "https://youtube.com/watch?v=1BM2Cjn-Ld4",
+        "palette": [
+            [82, 67, 40],
+            [180, 140, 40],
+            [100, 140, 150],
+            [188, 187, 175]
+        ]
     },
     {
         "id": "Jeffrey-Lewis-Anxiety-Attack",
         "title": "Anxiety Attack",
         "artist": "Jeffrey Lewis",
-        "video": "https://youtube.com/watch?v=lKYDcAsahXY"
+        "video": "https://youtube.com/watch?v=lKYDcAsahXY",
+        "palette": [
+            [63, 63, 63],
+            [128, 128, 128],
+            [116, 116, 116],
+            [188, 188, 188]
+        ]
     },
     {
         "id": "And-You-Will-Know-Us-by-the-Trail-of-Dead-Far-Pavillions",
         "title": "Far Pavillions",
         "artist": "...And You Will Know Us by the Trail of Dead",
-        "video": "https://youtube.com/watch?v=2N9ild-CxUg"
+        "video": "https://youtube.com/watch?v=2N9ild-CxUg",
+        "palette": [
+            [60, 59, 117],
+            [68, 84, 149],
+            [86, 89, 145],
+            [167, 169, 201]
+        ]
     },
     {
         "id": "Teho-Teardo-Come-up-and-See-Me",
         "title": "Come up and See Me",
         "artist": "Teho Teardo",
-        "video": "https://youtube.com/watch?v=NQb_Pzss7I0"
+        "video": "https://youtube.com/watch?v=NQb_Pzss7I0",
+        "palette": [
+            [60, 67, 68],
+            [128, 128, 128],
+            [126, 129, 129],
+            [164, 164, 164]
+        ]
     },
     {
         "id": "Enrico-Brizzi-E-Yuguerra-Dio-Salvi-Bologna",
         "title": "Dio Salvi Bologna",
         "artist": "Enrico Brizzi E Yuguerra",
-        "video": "https://youtube.com/watch?v=C7L1qwBwQqM"
+        "video": "https://youtube.com/watch?v=C7L1qwBwQqM",
+        "palette": [
+            [87, 67, 46],
+            [23, 157, 213],
+            [72, 84, 140],
+            [160, 197, 203]
+        ]
     },
     {
         "id": "New-Century-Classics-Room-One",
         "title": "Room One",
         "artist": "New Century Classics",
-        "video": "https://youtube.com/watch?v=Lkk7mBoaQFs"
+        "video": "https://youtube.com/watch?v=Lkk7mBoaQFs",
+        "palette": [
+            [25, 21, 22],
+            [246, 9, 9],
+            [164, 113, 108],
+            [209, 170, 171]
+        ]
     },
     {
         "id": "Offlaga-Disco-Pax-Respinti-alluscio",
         "title": "Respinti all'uscio",
         "artist": "Offlaga Disco Pax",
-        "video": "https://youtube.com/watch?v=YaE1QMZgh1Y"
+        "video": "https://youtube.com/watch?v=YaE1QMZgh1Y",
+        "palette": [
+            [126, 27, 32],
+            [212, 52, 60],
+            [164, 88, 90],
+            [204, 172, 180]
+        ]
     },
     {
         "id": "Subsonica-Mammifero",
         "title": "Mammifero",
         "artist": "Subsonica",
-        "video": "https://youtube.com/watch?v=_QkRSbVnSZY"
+        "video": "https://youtube.com/watch?v=_QkRSbVnSZY",
+        "palette": [
+            [78, 74, 49],
+            [200, 200, 55],
+            [143, 146, 124],
+            [199, 198, 184]
+        ]
     },
     {
         "id": "Cloud-Nothings-Stay-Useless",
         "title": "Stay Useless",
         "artist": "Cloud Nothings",
-        "video": "https://youtube.com/watch?v=T_zRt_EmqoU"
+        "video": "https://youtube.com/watch?v=T_zRt_EmqoU",
+        "palette": [
+            [76, 76, 72],
+            [136, 136, 119],
+            [128, 125, 121],
+            [196, 196, 188]
+        ]
     },
     {
         "id": "Electric-Superfuzz-Silver-Yeah",
         "title": "Silver Yeah",
         "artist": "Electric Superfuzz",
-        "video": "https://youtube.com/watch?v=EYAp8dyELE8"
+        "video": "https://youtube.com/watch?v=EYAp8dyELE8",
+        "palette": [
+            [67, 44, 43],
+            [186, 19, 28],
+            [158, 91, 100],
+            [216, 189, 179]
+        ]
     },
     {
         "id": "oskar-ohlson-untitled-24",
         "title": "untitled 24",
         "artist": "oskar ohlson",
-        "video": "https://bandcamp.com/EmbeddedPlayer/album=780488531/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/track=1940830761/transparent=true/autoplay=1/"
+        "video": "https://bandcamp.com/EmbeddedPlayer/album=780488531/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/track=1940830761/transparent=true/autoplay=1/",
+        "palette": [
+            [85, 58, 46],
+            [204, 139, 95],
+            [176, 133, 103],
+            [197, 178, 167]
+        ]
     },
     {
         "id": "Little-Comets-Adultery",
         "title": "Adultery",
         "artist": "Little Comets",
-        "video": "https://youtube.com/watch?v=UNOUTwJq08s"
+        "video": "https://youtube.com/watch?v=UNOUTwJq08s",
+        "palette": [
+            [44, 52, 73],
+            [196, 108, 72],
+            [101, 116, 171],
+            [223, 196, 186]
+        ]
     },
     {
         "id": "Rancid-Indestructible",
         "title": "Indestructible",
         "artist": "Rancid",
-        "video": "https://youtube.com/watch?v=8K-0MXObSCE"
+        "video": "https://youtube.com/watch?v=8K-0MXObSCE",
+        "palette": [
+            [19, 12, 11],
+            [236, 28, 36],
+            [141, 12, 17],
+            [141, 12, 17]
+        ]
     },
     {
         "id": "Verlaine-ti-ho-gia-detto-il-mio-nome",
         "title": "ti ho già detto il mio nome",
         "artist": "Verlaine",
-        "video": "https://youtube.com/watch?v=AwYUl22wit0"
+        "video": "https://youtube.com/watch?v=AwYUl22wit0",
+        "palette": [
+            [78, 57, 45],
+            [191, 80, 64],
+            [156, 98, 98],
+            [206, 208, 170]
+        ]
     },
     {
         "id": "Future-Islands-Fall-from-Grace",
         "title": "Fall from Grace",
         "artist": "Future Islands",
-        "video": "https://youtube.com/watch?v=1S0c8d1_z6k"
+        "video": "https://youtube.com/watch?v=1S0c8d1_z6k",
+        "palette": [
+            [42, 90, 96],
+            [196, 71, 48],
+            [82, 137, 151],
+            [184, 193, 194]
+        ]
     },
     {
         "id": "Fine-Before-You-Came-Angoli",
         "title": "Angoli",
         "artist": "Fine Before You Came",
-        "video": "https://youtube.com/watch?v=lzRcF0J_wzA"
+        "video": "https://youtube.com/watch?v=lzRcF0J_wzA",
+        "palette": [
+            [117, 81, 63],
+            [220, 174, 49],
+            [170, 128, 75],
+            [216, 193, 164]
+        ]
     },
     {
         "id": "Future-of-the-Left-Goals-in-Slow-Motion",
         "title": "Goals in Slow Motion",
         "artist": "Future of the Left",
-        "video": "https://youtube.com/watch?v=AfWJD4pkM6c"
+        "video": "https://youtube.com/watch?v=AfWJD4pkM6c",
+        "palette": [
+            [137, 37, 16],
+            [241, 151, 32],
+            [164, 98, 72],
+            [236, 220, 230]
+        ]
     },
     {
         "id": "Lo-Stato-Sociale-Senza-macchine-che-vadano-a-fuoco",
         "title": "Senza macchine che vadano a fuoco",
         "artist": "Lo Stato Sociale",
-        "video": "https://youtube.com/watch?v=H8TezeQM_WQ"
+        "video": "https://youtube.com/watch?v=H8TezeQM_WQ",
+        "palette": [
+            [36, 62, 72],
+            [203, 36, 17],
+            [126, 182, 187],
+            [172, 205, 206]
+        ]
     },
     {
         "id": "Fast-Animals-and-slow-kids-A-Cosa-Ci-Serve",
         "title": "A Cosa Ci Serve",
         "artist": "Fast Animals and slow kids",
-        "video": "https://youtube.com/watch?v=6FO_IJ2vw7Q"
+        "video": "https://youtube.com/watch?v=6FO_IJ2vw7Q",
+        "palette": [
+            [108, 77, 59],
+            [229, 174, 71],
+            [151, 131, 103],
+            [184, 211, 196]
+        ]
     },
     {
         "id": "Mary-in-June-Olio,-benzina-e-cherosene",
         "title": "Olio, benzina e cherosene",
         "artist": "Mary in June",
-        "video": "https://youtube.com/watch?v=GJT-IqhUGq4"
+        "video": "https://youtube.com/watch?v=GJT-IqhUGq4",
+        "palette": [
+            [72, 58, 35],
+            [227, 170, 6],
+            [130, 133, 130],
+            [198, 176, 177]
+        ]
     }
 ]
