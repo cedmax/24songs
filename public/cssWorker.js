@@ -28,7 +28,7 @@ registerPaint(
       let { width, height } = geom;
       const size = 37.5;
       ctx.fillStyle = background;
-      ctx.fillRect(0, 0, width, height);
+      ctx.fillRect(0, 0, width - 0.5, height - 0.5);
 
       for (let y = 0; y < height + size; y = y + size) {
         for (let x = 0; x < width + size; x = x + size) {
