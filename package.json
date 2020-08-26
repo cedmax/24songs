@@ -19,7 +19,7 @@
     "build": "react-scripts build",
     "test": "node modules/testVideos",
     "eject": "react-scripts eject",
-    "postbuild": "node modules/prepareDataForRss.js"
+    "postbuild": "react-snap && node modules/prepareDataForRss.js"
   },
   "eslintConfig": {
     "extends": "react-app"
