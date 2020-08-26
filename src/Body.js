@@ -4,7 +4,7 @@ import axios from "axios";
 import Embed from "./Embed";
 import Lyrics from "./Lyrics";
 import Modal from "./Modal";
-import { props } from "./CSSCustomProperties";
+import { props, isSupported } from "./CSSCustomProperties";
 
 const repaint = () => {
   const scroll =
@@ -86,19 +86,21 @@ export default memo(({ data, year, children }) => {
   }, [selected.id]);
 
   useEffect(() => {
-    if (selected.palette) {
-      selected.palette.forEach((colorCode, i) => {
-        document.documentElement.style.setProperty(
-          Object.keys(props)[i],
-          `rgb(${colorCode.join(",")})`
-        );
-      });
-    } else {
-      Object.keys(props).forEach(propKey => {
-        document.documentElement.style.setProperty(propKey, props[propKey]);
-      });
+    if (isSupported) {
+      if (selected.palette) {
+        selected.palette.forEach((colorCode, i) => {
+          document.documentElement.style.setProperty(
+            Object.keys(props)[i],
+            `rgb(${colorCode.join(",")})`
+          );
+        });
+      } else {
+        Object.keys(props).forEach(propKey => {
+          document.documentElement.style.setProperty(propKey, props[propKey]);
+        });
+      }
+      repaint();
     }
-    repaint();
   }, [selected.palette]);
 
   useEffect(() => {
