@@ -1,6 +1,7 @@
 import "css-paint-polyfill";
 
-export const isSupported = "paintWorklet" in window.CSS;
+export const isSupported =
+  "paintWorklet" in window.CSS && "registerProperty" in window.CSS;
 
 export const props = {
   "--background": "rgb(0, 74, 30)",

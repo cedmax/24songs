@@ -25,9 +25,6 @@ body {
     background-blend-mode: hard-light;
     background-attachment: fixed;
   }
-  .updated {
-    transform: translateZ(0);
-  }
 }
 
 *,
