@@ -3,144 +3,288 @@
         "id": "Peter-Bjorn-and-John-Objects-Of-My-Affection",
         "title": "Objects Of My Affection",
         "artist": "Peter Bjorn and John",
-        "video": "https://youtube.com/watch?v=ZxVRhcLXftg"
+        "video": "https://youtube.com/watch?v=ZxVRhcLXftg",
+        "palette": [
+            [60, 54, 51],
+            [100, 137, 155],
+            [118, 121, 124],
+            [188, 204, 212]
+        ]
     },
     {
         "id": "The-Whitest-Boy-Alive-Burning",
         "title": "Burning",
         "artist": "The Whitest Boy Alive",
-        "video": "https://youtube.com/watch?v=LvwBDCb7bmM"
+        "video": "https://youtube.com/watch?v=LvwBDCb7bmM",
+        "palette": [
+            [60, 60, 60],
+            [128, 128, 128],
+            [132, 132, 132],
+            [188, 188, 188]
+        ]
     },
     {
         "id": "Pavement-We-Dance",
         "title": "We Dance",
         "artist": "Pavement",
-        "video": "https://youtube.com/watch?v=dcJ7GpHQT24"
+        "video": "https://youtube.com/watch?v=dcJ7GpHQT24",
+        "palette": [
+            [61, 60, 91],
+            [72, 172, 157],
+            [87, 125, 173],
+            [182, 203, 209]
+        ]
     },
     {
         "id": "Im-from-Barcelona-The-Saddest-Lullaby-feat-Mathias-Alrikson",
         "title": "The Saddest Lullaby (feat. Mathias Alrikson)",
         "artist": "I'm from Barcelona",
-        "video": "https://youtube.com/watch?v=mkRIhIA1xP0"
+        "video": "https://youtube.com/watch?v=mkRIhIA1xP0",
+        "palette": [
+            [42, 92, 45],
+            [193, 32, 18],
+            [159, 159, 95],
+            [224, 215, 196]
+        ]
     },
     {
         "id": "Oh-No-Oh-My-A-Pirates-Anthem",
         "title": "A Pirate's Anthem",
         "artist": "Oh No Oh My",
-        "video": "https://youtube.com/watch?v=QleXykAxgOM"
+        "video": "https://youtube.com/watch?v=QleXykAxgOM",
+        "palette": [
+            [84, 42, 44],
+            [212, 188, 126],
+            [172, 147, 92],
+            [212, 196, 168]
+        ]
     },
     {
         "id": "of-Montreal-Bunny-Aint-No-Kind-Of-Rider",
         "title": "Bunny Ain't No Kind Of Rider",
         "artist": "of Montreal",
-        "video": "https://youtube.com/watch?v=AAjwKiIqI7Q"
+        "video": "https://youtube.com/watch?v=AAjwKiIqI7Q",
+        "palette": [
+            [98, 53, 51],
+            [252, 228, 84],
+            [100, 145, 173],
+            [169, 190, 197]
+        ]
     },
     {
         "id": "Chin-Up-Chin-Up-We-Should-Have-Never-Lived-Like-We-Were-Skyscrapers",
         "title": "We Should Have Never Lived Like We Were Skyscrapers",
         "artist": "Chin Up Chin Up",
-        "video": "https://youtube.com/watch?v=pAmn6FvbZiE"
+        "video": "https://youtube.com/watch?v=pAmn6FvbZiE",
+        "palette": [
+            [116, 92, 60],
+            [116, 92, 52],
+            [148, 129, 100],
+            [198, 198, 179]
+        ]
     },
     {
         "id": "We-All-Have-Hooks-For-Hands-Jumpin-Jean-Luc",
         "title": "Jumpin Jean-Luc",
         "artist": "We All Have Hooks For Hands",
-        "video": "https://youtube.com/watch?v=GANn6aAQTeE"
+        "video": "https://youtube.com/watch?v=GANn6aAQTeE",
+        "palette": [
+            [84, 57, 48],
+            [194, 184, 126],
+            [158, 162, 101],
+            [213, 207, 173]
+        ]
     },
     {
         "id": "Electric-President-Good-Morning,-Hypocrite",
         "title": "Good Morning, Hypocrite",
         "artist": "Electric President",
-        "video": "https://youtube.com/watch?v=aOnKyl3jE9E"
+        "video": "https://youtube.com/watch?v=aOnKyl3jE9E",
+        "palette": [
+            [42, 65, 54],
+            [100, 206, 172],
+            [93, 172, 138],
+            [185, 172, 204]
+        ]
     },
     {
         "id": "carpacho-Regole-per-un-cervello-difettoso",
         "title": "Regole per un cervello difettoso",
         "artist": "carpacho!",
-        "video": "https://youtube.com/watch?v=ixAdaJgdses"
+        "video": "https://youtube.com/watch?v=ixAdaJgdses",
+        "palette": [
+            [23, 47, 28],
+            [236, 24, 36],
+            [122, 132, 140],
+            [180, 188, 196]
+        ]
     },
     {
         "id": "Why-Rubber-Traits",
         "title": "Rubber Traits",
         "artist": "Why?",
-        "video": "https://youtube.com/watch?v=pELu_4DsCM4"
+        "video": "https://youtube.com/watch?v=pELu_4DsCM4",
+        "palette": [
+            [47, 73, 96],
+            [225, 65, 49],
+            [149, 166, 76],
+            [194, 196, 137]
+        ]
     },
     {
         "id": "Thee-More-Shallows-Night-At-the-Knight-School",
         "title": "Night At the Knight School",
         "artist": "Thee More Shallows",
-        "video": "https://youtube.com/watch?v=viGeEI5aadw"
+        "video": "https://youtube.com/watch?v=viGeEI5aadw",
+        "palette": [
+            [88, 52, 84],
+            [6, 204, 168],
+            [73, 129, 101],
+            [123, 174, 143]
+        ]
     },
     {
         "id": "Patrick-Wolf-The-Stars",
         "title": "The Stars",
         "artist": "Patrick Wolf",
-        "video": "https://youtube.com/watch?v=NXX0jQazwhk"
+        "video": "https://youtube.com/watch?v=NXX0jQazwhk",
+        "palette": [
+            [71, 87, 86],
+            [242, 16, 16],
+            [130, 114, 92],
+            [207, 164, 180]
+        ]
     },
     {
         "id": "Nuccini-Sick-Berth",
         "title": "Sick Berth",
         "artist": "Nuccini!",
-        "video": "https://youtube.com/watch?v=JgNkPdSSQhQ"
+        "video": "https://youtube.com/watch?v=JgNkPdSSQhQ",
+        "palette": [
+            [82, 58, 40],
+            [172, 28, 36],
+            [155, 118, 92],
+            [200, 183, 182]
+        ]
     },
     {
         "id": "Islands-Rough-Gem",
         "title": "Rough Gem",
         "artist": "Islands",
-        "video": "https://youtube.com/watch?v=RpQwZ_gdE1w"
+        "video": "https://youtube.com/watch?v=RpQwZ_gdE1w",
+        "palette": [
+            [75, 72, 67],
+            [180, 152, 75],
+            [142, 136, 124],
+            [180, 180, 204]
+        ]
     },
     {
         "id": "Hymies-Basement-21st-Century-Pop-Song",
         "title": "21st Century Pop Song",
         "artist": "Hymie's Basement",
-        "video": "https://youtube.com/watch?v=cpTz8r5OMdg"
+        "video": "https://youtube.com/watch?v=cpTz8r5OMdg",
+        "palette": [
+            [68, 68, 68],
+            [128, 128, 128],
+            [124, 124, 124],
+            [188, 188, 188]
+        ]
     },
     {
         "id": "The-Hours-Ali-In-The-Jungle",
         "title": "Ali In The Jungle",
         "artist": "The Hours",
-        "video": "https://youtube.com/watch?v=d6nRGEXPEIw"
+        "video": "https://youtube.com/watch?v=d6nRGEXPEIw",
+        "palette": [
+            [100, 84, 56],
+            [251, 139, 59],
+            [90, 139, 164],
+            [202, 195, 179]
+        ]
     },
     {
         "id": "Amari-Il-raffreddore-delle-donne",
         "title": "Il raffreddore delle donne",
         "artist": "Amari",
-        "video": "https://youtube.com/watch?v=ca4HUoVlMzw"
+        "video": "https://youtube.com/watch?v=ca4HUoVlMzw",
+        "palette": [
+            [30, 54, 70],
+            [251, 243, 4],
+            [124, 164, 180],
+            [210, 177, 200]
+        ]
     },
     {
         "id": "Wolf-Parade-Ill-Believe-in-Anything",
         "title": "I'll Believe in Anything",
         "artist": "Wolf Parade",
-        "video": "https://youtube.com/watch?v=7G1eLTV89dM"
+        "video": "https://youtube.com/watch?v=7G1eLTV89dM",
+        "palette": [
+            [106, 47, 62],
+            [204, 140, 156],
+            [130, 111, 135],
+            [185, 185, 202]
+        ]
     },
     {
         "id": "Arcade-Fire-Black-Mirror",
         "title": "Black Mirror",
         "artist": "Arcade Fire",
-        "video": "https://youtube.com/watch?v=aXuymDSGCko"
+        "video": "https://youtube.com/watch?v=aXuymDSGCko",
+        "palette": [
+            [51, 76, 85],
+            [204, 132, 44],
+            [169, 82, 93],
+            [180, 186, 203]
+        ]
     },
     {
         "id": "Clap-Your-Hands-Say-Yeah-Mama,-Wont-You-Keep-Those-Castles-In-The-Air-and-Burning",
         "title": "Mama, Won't You Keep Those Castles In The Air & Burning?",
         "artist": "Clap Your Hands Say Yeah",
-        "video": "https://youtube.com/watch?v=JTu__jcpNTs"
+        "video": "https://youtube.com/watch?v=JTu__jcpNTs",
+        "palette": [
+            [68, 66, 66],
+            [126, 126, 129],
+            [138, 138, 140],
+            [180, 180, 182]
+        ]
     },
     {
         "id": "Cloud-Cult-Chain-Reaction",
         "title": "Chain Reaction",
         "artist": "Cloud Cult",
-        "video": "https://youtube.com/watch?v=rNA9wlcroas"
+        "video": "https://youtube.com/watch?v=rNA9wlcroas",
+        "palette": [
+            [92, 65, 54],
+            [222, 192, 43],
+            [175, 114, 83],
+            [226, 207, 192]
+        ]
     },
     {
         "id": "Modena-Vox-Hard-Pressed",
         "title": "Hard Pressed",
         "artist": "Modena Vox",
-        "video": "https://youtube.com/watch?v=Ks4zWLmdiDM"
+        "video": "https://youtube.com/watch?v=Ks4zWLmdiDM",
+        "palette": [
+            [58, 58, 70],
+            [149, 106, 118],
+            [92, 124, 157],
+            [211, 193, 198]
+        ]
     },
     {
         "id": "Menomena-Wet-And-Rusting",
         "title": "Wet And Rusting",
         "artist": "Menomena",
-        "video": "https://youtube.com/watch?v=3cA0aJaU7kw"
+        "video": "https://youtube.com/watch?v=3cA0aJaU7kw",
+        "palette": [
+            [52, 108, 84],
+            [217, 180, 31],
+            [177, 158, 92],
+            [196, 187, 187]
+        ]
     }
 ]

@@ -1,146 +1,290 @@
 [
-  {
-    "id": "We-Are-Scientists-Ghouls",
-    "title": "Ghouls",
-    "artist": "We Are Scientists",
-    "video": "https://youtube.com/watch?v=x795nlpubR8"
-  },
-  {
-    "id": "Frog-Eyes-Reform-The-Countryside",
-    "title": "Reform The Countryside",
-    "artist": "Frog Eyes",
-    "video": "https://youtube.com/watch?v=ZWhcjNApO0I"
-  },
-  {
-    "id": "Death-Cab-for-Cutie-No-Sunlight",
-    "title": "No Sunlight",
-    "artist": "Death Cab for Cutie",
-    "video": "https://youtube.com/watch?v=Vss_DUeTAd0"
-  },
-  {
-    "id": "Dukes-Of-Windsor-Runaway",
-    "title": "Runaway",
-    "artist": "Dukes Of Windsor",
-    "video": "https://youtube.com/watch?v=74qU23AKlh4"
-  },
-  {
-    "id": "The-Beatles-Magical-Mystery-Tour",
-    "title": "Magical Mystery Tour",
-    "artist": "The Beatles",
-    "video": "https://youtube.com/watch?v=l8WMGBuNaus"
-  },
-  {
-    "id": "Bloc-Party-Halo",
-    "title": "Halo",
-    "artist": "Bloc Party",
-    "video": "https://youtube.com/watch?v=ZWKYcDzjjoo"
-  },
-  {
-    "id": "Astronautalis-My-Dinner-With-Andy",
-    "title": "My Dinner With Andy",
-    "artist": "Astronautalis",
-    "video": "https://youtube.com/watch?v=LjaSlQEshNM"
-  },
-  {
-    "id": "Swan-Lake-Widows-Walk",
-    "title": "Widow's Walk",
-    "artist": "Swan Lake",
-    "video": "https://youtube.com/watch?v=vM_8G_Q9sfE"
-  },
-  {
-    "id": "Yael-Naim-New-Soul",
-    "title": "New Soul",
-    "artist": "Yael Naim",
-    "video": "https://youtube.com/watch?v=hhE7QMXRE1g"
-  },
-  {
-    "id": "Apostle-of-Hustle-My-Sword-Hands-Anger",
-    "title": "My Sword Hand's Anger",
-    "artist": "Apostle of Hustle",
-    "video": "https://youtube.com/watch?v=NYLxQMDE0hw"
-  },
-  {
-    "id": "Vampire-Weekend-Oxford-Comma",
-    "title": "Oxford Comma",
-    "artist": "Vampire Weekend",
-    "video": "https://youtube.com/watch?v=P_i1xk07o4g"
-  },
-  {
-    "id": "The-National-Fake-Empire",
-    "title": "Fake Empire",
-    "artist": "The National",
-    "video": "https://youtube.com/watch?v=LuZ4Zm3QcZk"
-  },
-  {
-    "id": "Marnie-Stern-Roads-Where-Were-Going-We-Dont-Need-Roads",
-    "title": "Roads? Where We're Going We Don't Need Roads",
-    "artist": "Marnie Stern",
-    "video": "https://youtube.com/watch?v=KsH6I4B6NJs"
-  },
-  {
-    "id": "Santigold-LES-Artistes",
-    "title": "L.E.S. Artistes",
-    "artist": "Santigold",
-    "video": "https://youtube.com/watch?v=ciJDA0tcQfs"
-  },
-  {
-    "id": "Afterhours-Hai-Paura-Del-Buio",
-    "title": "Hai Paura Del Buio?",
-    "artist": "Afterhours",
-    "video": "https://youtube.com/watch?v=3QiB2v29ccw"
-  },
-  {
-    "id": "Say-Hi-Northwestern-Girls",
-    "title": "Northwestern Girls",
-    "artist": "Say Hi",
-    "video": "https://youtube.com/watch?v=OE9MjqicQOc"
-  },
-  {
-    "id": "Frightened-Rabbit-The-Modern-Leper",
-    "title": "The Modern Leper",
-    "artist": "Frightened Rabbit",
-    "video": "https://youtube.com/watch?v=-YJNFGc2Xxc"
-  },
-  {
-    "id": "The-Wombats-Moving-To-New-York",
-    "title": "Moving To New York",
-    "artist": "The Wombats",
-    "video": "https://youtube.com/watch?v=fD92J4W9n04"
-  },
-  {
-    "id": "MGMT-Kids",
-    "title": "Kids",
-    "artist": "MGMT",
-    "video": "https://youtube.com/watch?v=fe4EK4HSPkI"
-  },
-  {
-    "id": "Oh-No-Oh-My-I-Love-You-All-the-Time",
-    "title": "I Love You All the Time",
-    "artist": "Oh No Oh My",
-    "video": "https://youtube.com/watch?v=oYY1hmKuXjI"
-  },
-  {
-    "id": "The-Dodos-Walking",
-    "title": "Walking",
-    "artist": "The Dodos",
-    "video": "https://youtube.com/watch?v=TvjItvYgBu0"
-  },
-  {
-    "id": "Cloud-Cult-No-One-Said-It-Would-Be-Easy",
-    "title": "No One Said It Would Be Easy",
-    "artist": "Cloud Cult",
-    "video": "https://youtube.com/watch?v=fQyhNfmjcOg"
-  },
-  {
-    "id": "Why-The-Hollows",
-    "title": "The Hollows",
-    "artist": "Why?",
-    "video": "https://youtube.com/watch?v=mA-_wJmBJ7s"
-  },
-  {
-    "id": "Bob-Marley-and-The-Wailers-No-Woman,-No-Cry",
-    "title": "No Woman, No Cry",
-    "artist": "Bob Marley & The Wailers",
-    "video": "https://youtube.com/watch?v=pHlSE9j5FGY"
-  }
+    {
+        "id": "We-Are-Scientists-Ghouls",
+        "title": "Ghouls",
+        "artist": "We Are Scientists",
+        "video": "https://youtube.com/watch?v=x795nlpubR8",
+        "palette": [
+            [84, 76, 44],
+            [204, 146, 125],
+            [160, 124, 90],
+            [212, 196, 170]
+        ]
+    },
+    {
+        "id": "Frog-Eyes-Reform-The-Countryside",
+        "title": "Reform The Countryside",
+        "artist": "Frog Eyes",
+        "video": "https://youtube.com/watch?v=ZWhcjNApO0I",
+        "palette": [
+            [82, 44, 44],
+            [10, 163, 218],
+            [170, 100, 113],
+            [212, 220, 196]
+        ]
+    },
+    {
+        "id": "Death-Cab-for-Cutie-No-Sunlight",
+        "title": "No Sunlight",
+        "artist": "Death Cab for Cutie",
+        "video": "https://youtube.com/watch?v=Vss_DUeTAd0",
+        "palette": [
+            [86, 52, 62],
+            [209, 42, 42],
+            [152, 129, 96],
+            [212, 205, 185]
+        ]
+    },
+    {
+        "id": "Dukes-Of-Windsor-Runaway",
+        "title": "Runaway",
+        "artist": "Dukes Of Windsor",
+        "video": "https://youtube.com/watch?v=74qU23AKlh4",
+        "palette": [
+            [56, 41, 55],
+            [234, 33, 60],
+            [143, 75, 164],
+            [198, 159, 185]
+        ]
+    },
+    {
+        "id": "The-Beatles-Magical-Mystery-Tour",
+        "title": "Magical Mystery Tour",
+        "artist": "The Beatles",
+        "video": "https://youtube.com/watch?v=l8WMGBuNaus",
+        "palette": [
+            [27, 50, 49],
+            [233, 184, 27],
+            [129, 136, 107],
+            [168, 202, 216]
+        ]
+    },
+    {
+        "id": "Bloc-Party-Halo",
+        "title": "Halo",
+        "artist": "Bloc Party",
+        "video": "https://youtube.com/watch?v=ZWKYcDzjjoo",
+        "palette": [
+            [97, 49, 56],
+            [203, 81, 52],
+            [139, 118, 120],
+            [198, 159, 181]
+        ]
+    },
+    {
+        "id": "Astronautalis-My-Dinner-With-Andy",
+        "title": "My Dinner With Andy",
+        "artist": "Astronautalis",
+        "video": "https://youtube.com/watch?v=LjaSlQEshNM",
+        "palette": [
+            [63, 58, 60],
+            [175, 151, 80],
+            [140, 116, 100],
+            [212, 204, 180]
+        ]
+    },
+    {
+        "id": "Swan-Lake-Widows-Walk",
+        "title": "Widow's Walk",
+        "artist": "Swan Lake",
+        "video": "https://youtube.com/watch?v=vM_8G_Q9sfE",
+        "palette": [
+            [91, 72, 44],
+            [237, 165, 54],
+            [165, 135, 97],
+            [191, 152, 131]
+        ]
+    },
+    {
+        "id": "Yael-Naim-New-Soul",
+        "title": "New Soul",
+        "artist": "Yael Naim",
+        "video": "https://youtube.com/watch?v=hhE7QMXRE1g",
+        "palette": [
+            [76, 71, 61],
+            [114, 134, 141],
+            [137, 124, 104],
+            [174, 185, 189]
+        ]
+    },
+    {
+        "id": "Apostle-of-Hustle-My-Sword-Hands-Anger",
+        "title": "My Sword Hand's Anger",
+        "artist": "Apostle of Hustle",
+        "video": "https://youtube.com/watch?v=NYLxQMDE0hw",
+        "palette": [
+            [91, 78, 46],
+            [172, 55, 47],
+            [142, 134, 105],
+            [200, 192, 172]
+        ]
+    },
+    {
+        "id": "Vampire-Weekend-Oxford-Comma",
+        "title": "Oxford Comma",
+        "artist": "Vampire Weekend",
+        "video": "https://youtube.com/watch?v=P_i1xk07o4g",
+        "palette": [
+            [124, 84, 56],
+            [251, 166, 32],
+            [166, 137, 116],
+            [196, 184, 174]
+        ]
+    },
+    {
+        "id": "The-National-Fake-Empire",
+        "title": "Fake Empire",
+        "artist": "The National",
+        "video": "https://youtube.com/watch?v=LuZ4Zm3QcZk",
+        "palette": [
+            [60, 68, 67],
+            [196, 190, 26],
+            [124, 132, 132],
+            [186, 186, 186]
+        ]
+    },
+    {
+        "id": "Marnie-Stern-Roads-Where-Were-Going-We-Dont-Need-Roads",
+        "title": "Roads? Where We're Going We Don't Need Roads",
+        "artist": "Marnie Stern",
+        "video": "https://youtube.com/watch?v=KsH6I4B6NJs",
+        "palette": [
+            [72, 112, 41],
+            [203, 219, 63],
+            [102, 140, 111],
+            [182, 205, 171]
+        ]
+    },
+    {
+        "id": "Santigold-LES-Artistes",
+        "title": "L.E.S. Artistes",
+        "artist": "Santigold",
+        "video": "https://youtube.com/watch?v=ciJDA0tcQfs",
+        "palette": [
+            [84, 73, 49],
+            [106, 120, 149],
+            [100, 106, 125],
+            [172, 180, 196]
+        ]
+    },
+    {
+        "id": "Afterhours-Hai-Paura-Del-Buio",
+        "title": "Hai Paura Del Buio?",
+        "artist": "Afterhours",
+        "video": "https://youtube.com/watch?v=3QiB2v29ccw",
+        "palette": [
+            [90, 51, 45],
+            [189, 124, 79],
+            [167, 123, 91],
+            [225, 219, 198]
+        ]
+    },
+    {
+        "id": "Say-Hi-Northwestern-Girls",
+        "title": "Northwestern Girls",
+        "artist": "Say Hi",
+        "video": "https://youtube.com/watch?v=OE9MjqicQOc",
+        "palette": [
+            [52, 70, 46],
+            [156, 204, 148],
+            [124, 168, 128],
+            [173, 208, 171]
+        ]
+    },
+    {
+        "id": "Frightened-Rabbit-The-Modern-Leper",
+        "title": "The Modern Leper",
+        "artist": "Frightened Rabbit",
+        "video": "https://youtube.com/watch?v=-YJNFGc2Xxc",
+        "palette": [
+            [108, 70, 61],
+            [204, 92, 92],
+            [173, 109, 102],
+            [213, 192, 161]
+        ]
+    },
+    {
+        "id": "The-Wombats-Moving-To-New-York",
+        "title": "Moving To New York",
+        "artist": "The Wombats",
+        "video": "https://youtube.com/watch?v=fD92J4W9n04",
+        "palette": [
+            [76, 51, 47],
+            [219, 21, 133],
+            [146, 111, 99],
+            [203, 188, 185]
+        ]
+    },
+    {
+        "id": "MGMT-Kids",
+        "title": "Kids",
+        "artist": "MGMT",
+        "video": "https://youtube.com/watch?v=fe4EK4HSPkI",
+        "palette": [
+            [99, 54, 54],
+            [211, 36, 53],
+            [99, 95, 149],
+            [193, 155, 190]
+        ]
+    },
+    {
+        "id": "Oh-No-Oh-My-I-Love-You-All-the-Time",
+        "title": "I Love You All the Time",
+        "artist": "Oh No Oh My",
+        "video": "https://youtube.com/watch?v=oYY1hmKuXjI",
+        "palette": [
+            [79, 41, 45],
+            [220, 122, 50],
+            [166, 85, 101],
+            [186, 217, 224]
+        ]
+    },
+    {
+        "id": "The-Dodos-Walking",
+        "title": "Walking",
+        "artist": "The Dodos",
+        "video": "https://youtube.com/watch?v=TvjItvYgBu0",
+        "palette": [
+            [61, 56, 35],
+            [251, 226, 26],
+            [176, 172, 120],
+            [239, 238, 233]
+        ]
+    },
+    {
+        "id": "Cloud-Cult-No-One-Said-It-Would-Be-Easy",
+        "title": "No One Said It Would Be Easy",
+        "artist": "Cloud Cult",
+        "video": "https://youtube.com/watch?v=fQyhNfmjcOg",
+        "palette": [
+            [73, 92, 41],
+            [188, 180, 76],
+            [146, 156, 98],
+            [194, 191, 148]
+        ]
+    },
+    {
+        "id": "Why-The-Hollows",
+        "title": "The Hollows",
+        "artist": "Why?",
+        "video": "https://youtube.com/watch?v=mA-_wJmBJ7s",
+        "palette": [
+            [94, 77, 62],
+            [194, 65, 49],
+            [100, 134, 167],
+            [215, 199, 177]
+        ]
+    },
+    {
+        "id": "Bob-Marley-and-The-Wailers-No-Woman,-No-Cry",
+        "title": "No Woman, No Cry",
+        "artist": "Bob Marley & The Wailers",
+        "video": "https://youtube.com/watch?v=pHlSE9j5FGY",
+        "palette": [
+            [94, 54, 55],
+            [217, 46, 51],
+            [93, 172, 112],
+            [226, 224, 213]
+        ]
+    }
 ]

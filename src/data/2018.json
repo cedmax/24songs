@@ -3,144 +3,288 @@
         "id": "Death-from-Above-1979-Caught-Up",
         "title": "Caught Up",
         "artist": "Death from Above 1979",
-        "video": "https://youtube.com/watch?v=DxWnnCqta0c"
+        "video": "https://youtube.com/watch?v=DxWnnCqta0c",
+        "palette": [
+            [68, 60, 68],
+            [55, 55, 200],
+            [124, 116, 119],
+            [195, 194, 195]
+        ]
     },
     {
         "id": "The-Smashing-Pumpkins-Solara",
         "title": "Solara",
         "artist": "The Smashing Pumpkins",
-        "video": "https://youtube.com/watch?v=Do3tSdZucyA"
+        "video": "https://youtube.com/watch?v=Do3tSdZucyA",
+        "palette": [
+            [64, 47, 42],
+            [191, 191, 64],
+            [144, 116, 107],
+            [211, 187, 179]
+        ]
     },
     {
         "id": "Ought-These-3-Things",
         "title": "These 3 Things",
         "artist": "Ought",
-        "video": "https://youtube.com/watch?v=8I5PTIyAQrM"
+        "video": "https://youtube.com/watch?v=8I5PTIyAQrM",
+        "palette": [
+            [60, 64, 81],
+            [82, 118, 173],
+            [90, 113, 156],
+            [140, 156, 188]
+        ]
     },
     {
         "id": "Mount-Eerie-Now-Only",
         "title": "Now Only",
         "artist": "Mount Eerie",
-        "video": "https://youtube.com/watch?v=YmS94GenGps"
+        "video": "https://youtube.com/watch?v=YmS94GenGps",
+        "palette": [
+            [47, 81, 75],
+            [16, 108, 174],
+            [151, 128, 109],
+            [164, 188, 206]
+        ]
     },
     {
         "id": "John-Maus-The-Combine",
         "title": "The Combine",
         "artist": "John Maus",
-        "video": "https://youtube.com/watch?v=_kF2-Cr6yX4"
+        "video": "https://youtube.com/watch?v=_kF2-Cr6yX4",
+        "palette": [
+            [85, 66, 50],
+            [179, 111, 77],
+            [115, 129, 151],
+            [186, 179, 163]
+        ]
     },
     {
         "id": "Jeffrey-Lewis-Scowling-Crackhead-Ian",
         "title": "Scowling Crackhead Ian",
         "artist": "Jeffrey Lewis",
-        "video": "https://youtube.com/watch?v=KXtXGMbPmY4"
+        "video": "https://youtube.com/watch?v=KXtXGMbPmY4",
+        "palette": [
+            [83, 62, 56],
+            [187, 164, 83],
+            [142, 79, 79],
+            [195, 190, 189]
+        ]
     },
     {
         "id": "Fucked-Up-Raise-Your-Voice-Joyce",
         "title": "Raise Your Voice Joyce",
         "artist": "Fucked Up",
-        "video": "https://youtube.com/watch?v=vAh1Nm5Zjvw"
+        "video": "https://youtube.com/watch?v=vAh1Nm5Zjvw",
+        "palette": [
+            [102, 67, 56],
+            [192, 92, 60],
+            [140, 89, 70],
+            [212, 196, 164]
+        ]
     },
     {
         "id": "Craig-Finn-Birds-Trapped-in-the-Airport",
         "title": "Birds Trapped in the Airport",
         "artist": "Craig Finn",
-        "video": "https://youtube.com/watch?v=Z6gX02wGmis"
+        "video": "https://youtube.com/watch?v=Z6gX02wGmis",
+        "palette": [
+            [86, 76, 58],
+            [185, 102, 84],
+            [143, 132, 113],
+            [188, 180, 172]
+        ]
     },
     {
         "id": "Bonny-Doon-LOST-MY-WAY",
         "title": "LOST MY WAY",
         "artist": "Bonny Doon",
-        "video": "https://youtube.com/watch?v=w-hfGMt2IKc"
+        "video": "https://youtube.com/watch?v=w-hfGMt2IKc",
+        "palette": [
+            [138, 101, 15],
+            [233, 180, 57],
+            [164, 132, 80],
+            [208, 195, 167]
+        ]
     },
     {
         "id": "Bad-Religion-The-Kids-Are-Alt-Right",
         "title": "The Kids Are Alt-Right",
         "artist": "Bad Religion",
-        "video": "https://youtube.com/watch?v=hES9IBTPbcw"
+        "video": "https://youtube.com/watch?v=hES9IBTPbcw",
+        "palette": [
+            [76, 52, 60],
+            [228, 76, 84],
+            [164, 124, 116],
+            [220, 188, 180]
+        ]
     },
     {
         "id": "The-Men-Maybe-Im-Crazy",
         "title": "Maybe I'm Crazy",
         "artist": "The Men",
-        "video": "https://youtube.com/watch?v=pUjGXZyMFDw"
+        "video": "https://youtube.com/watch?v=pUjGXZyMFDw",
+        "palette": [
+            [69, 66, 64],
+            [243, 177, 12],
+            [133, 128, 108],
+            [212, 196, 166]
+        ]
     },
     {
         "id": "Riccardo-Sinigallia-Niente-mi-fa-come-mi-fai-tu",
         "title": "Niente mi fa come mi fai tu",
         "artist": "Riccardo Sinigallia",
-        "video": "https://youtube.com/watch?v=UxjG_NedraY"
+        "video": "https://youtube.com/watch?v=UxjG_NedraY",
+        "palette": [
+            [50, 72, 73],
+            [76, 170, 179],
+            [165, 130, 107],
+            [204, 184, 163]
+        ]
     },
     {
         "id": "Any-Other-Walkthrough",
         "title": "Walkthrough",
         "artist": "Any Other",
-        "video": "https://youtube.com/watch?v=vP-E1-CCs3k"
+        "video": "https://youtube.com/watch?v=vP-E1-CCs3k",
+        "palette": [
+            [74, 61, 50],
+            [172, 84, 68],
+            [146, 113, 93],
+            [167, 189, 200]
+        ]
     },
     {
         "id": "Paletti-Nonostante-tutto",
         "title": "Nonostante tutto",
         "artist": "Paletti",
-        "video": "https://youtube.com/watch?v=hksOm5wLBi4"
+        "video": "https://youtube.com/watch?v=hksOm5wLBi4",
+        "palette": [
+            [82, 72, 46],
+            [250, 220, 52],
+            [173, 148, 80],
+            [208, 192, 177]
+        ]
     },
     {
         "id": "Wimps-Garbage-People",
         "title": "Garbage People",
         "artist": "Wimps",
-        "video": "https://youtube.com/watch?v=m2-xV69zyHk"
+        "video": "https://youtube.com/watch?v=m2-xV69zyHk",
+        "palette": [
+            [72, 60, 54],
+            [155, 49, 59],
+            [151, 118, 105],
+            [207, 189, 174]
+        ]
     },
     {
         "id": "Rancore-Sangue-di-drago",
         "title": "Sangue di drago",
         "artist": "Rancore",
-        "video": "https://youtube.com/watch?v=UOOjOYMXoyg"
+        "video": "https://youtube.com/watch?v=UOOjOYMXoyg",
+        "palette": [
+            [75, 38, 34],
+            [172, 44, 60],
+            [160, 95, 87],
+            [201, 172, 164]
+        ]
     },
     {
         "id": "Warm-Thoughts-Your-Haircut-Man",
         "title": "Your Haircut Man",
         "artist": "Warm Thoughts",
-        "video": "https://youtube.com/watch?v=9GKHoGW68KM"
+        "video": "https://youtube.com/watch?v=9GKHoGW68KM",
+        "palette": [
+            [109, 77, 44],
+            [181, 128, 74],
+            [140, 138, 132],
+            [206, 204, 196]
+        ]
     },
     {
         "id": "Dunk-Noi-non-siamo",
         "title": "Noi non siamo",
         "artist": "Dunk",
-        "video": "https://youtube.com/watch?v=t1aNnG8DJs0"
+        "video": "https://youtube.com/watch?v=t1aNnG8DJs0",
+        "palette": [
+            [100, 56, 76],
+            [228, 11, 92],
+            [157, 116, 132],
+            [190, 186, 188]
+        ]
     },
     {
         "id": "La-Municipal-Risvegli",
         "title": "Risvegli",
         "artist": "La Municipàl",
-        "video": "https://youtube.com/watch?v=BE-FJD0Tnzg"
+        "video": "https://youtube.com/watch?v=BE-FJD0Tnzg",
+        "palette": [
+            [76, 68, 76],
+            [128, 128, 128],
+            [140, 132, 140],
+            [196, 196, 196]
+        ]
     },
     {
         "id": "Jeff-Rosenstock-USA",
         "title": "USA",
         "artist": "Jeff Rosenstock",
-        "video": "https://youtube.com/watch?v=IBngZh8H2FU"
+        "video": "https://youtube.com/watch?v=IBngZh8H2FU",
+        "palette": [
+            [59, 72, 78],
+            [83, 138, 172],
+            [111, 131, 136],
+            [172, 204, 211]
+        ]
     },
     {
         "id": "Coma_Cose-Anima-Lattina",
         "title": "Anima Lattina",
         "artist": "Coma_Cose",
-        "video": "https://youtube.com/watch?v=Xk5V4mkrtoI"
+        "video": "https://youtube.com/watch?v=Xk5V4mkrtoI",
+        "palette": [
+            [61, 61, 57],
+            [212, 132, 104],
+            [167, 120, 88],
+            [217, 191, 173]
+        ]
     },
     {
         "id": "Sick-Tamburo-La-fine-della-chemio",
         "title": "La fine della chemio",
         "artist": "Sick Tamburo",
-        "video": "https://youtube.com/watch?v=geQ9Q1bO8Wc"
+        "video": "https://youtube.com/watch?v=geQ9Q1bO8Wc",
+        "palette": [
+            [66, 56, 74],
+            [36, 137, 193],
+            [147, 106, 108],
+            [208, 158, 184]
+        ]
     },
     {
         "id": "Shame-Dust-On-Trial",
         "title": "Dust On Trial",
         "artist": "Shame",
-        "video": "https://youtube.com/watch?v=AiFxUhgU4LE"
+        "video": "https://youtube.com/watch?v=AiFxUhgU4LE",
+        "palette": [
+            [93, 74, 56],
+            [12, 144, 243],
+            [156, 164, 92],
+            [164, 180, 204]
+        ]
     },
     {
         "id": "Protomartyr-A-Private-Understanding",
         "title": "A Private Understanding",
         "artist": "Protomartyr",
-        "video": "https://youtube.com/watch?v=yWdLpIITqsQ"
+        "video": "https://youtube.com/watch?v=yWdLpIITqsQ",
+        "palette": [
+            [69, 66, 67],
+            [193, 125, 158],
+            [122, 119, 121],
+            [214, 174, 195]
+        ]
     }
 ]
