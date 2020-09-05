@@ -2,8 +2,8 @@
 
 require("colors");
 const axios = require("axios");
+const { initialYear } = require("./config.json");
 
-const initialYear = 2006;
 let songs = [];
 const failures = [];
 

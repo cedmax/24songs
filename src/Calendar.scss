@@ -13,7 +13,7 @@
   height: 55%;
 
   /**Animation**/
-  animation: play 7s 0s infinite;
+  animation: play 7s 0.2s infinite;
   transform: rotate(0deg);
   animation-timing-function: linear;
 
@@ -71,7 +71,7 @@
 
   & > * {
     float: left;
-    text-shadow: 1px 1px 1px #000;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.8);
     width: calc(50% - 6px);
     margin: 3px;
     background: none;
@@ -196,6 +196,8 @@
 }
 
 .title {
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.8);
+
   cursor: default;
   display: flex;
   font-size: 90%;

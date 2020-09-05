@@ -1,14 +1,12 @@
 const axios = require("axios");
 const cheerio = require("cheerio");
-const getYoutubeData = require("./getYoutubeData");
 const fs = require("fs");
-const handleImages = require("./handleImages");
-const initialYear = 2006;
+const getYoutubeData = require("./lib/getYoutubeData");
+const getLyrics = require("./lib/getLyrics");
+const handleImages = require("./lib/handleImages");
+const { initialYear } = require("./config.json");
 
-const getText = ($, selector) =>
-  $.find(selector)
-    .text()
-    .trim();
+const getText = ($, selector) => $.find(selector).text().trim();
 
 const uniq = (all, arr) =>
   arr
@@ -35,7 +33,7 @@ async function fetch(all, arr, year, page = 1) {
         return {
           img: $song.find(".chartlist-image img").attr("src"),
           title: getText($song, ".chartlist-name"),
-          artist: getText($song, ".chartlist-artist")
+          artist: getText($song, ".chartlist-artist"),
         };
       });
 
@@ -51,7 +49,7 @@ async function fetch(all, arr, year, page = 1) {
         filtered[i].video = await getYoutubeData(artist, title);
       }
 
-      const dataToSave = await handleImages(year, filtered);
+      const dataToSave = await handleImages(filtered);
 
       fs.writeFileSync(
         fileName,
@@ -69,5 +67,6 @@ async function fetch(all, arr, year, page = 1) {
   const all = [];
   for (let year = initialYear; year <= new Date().getFullYear(); year++) {
     await fetch(all, [], year);
+    await getLyrics(require(`../src/data/${year}.json`));
   }
 })();

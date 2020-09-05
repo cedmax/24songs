@@ -3,7 +3,7 @@ const slugify = require("slugify");
 
 const slugConfig = { remove: /[*+~./?()'"!:@]/g };
 
-module.exports = async (year, arr) => {
+module.exports = async arr => {
   await Promise.all(
     arr.map(item =>
       download({
@@ -11,7 +11,7 @@ module.exports = async (year, arr) => {
         dest: `./public/images/${slugify(item.artist, slugConfig)}-${slugify(
           item.title,
           slugConfig
-        )}.jpg`
+        )}.jpg`,
       })
     )
   );
@@ -24,7 +24,7 @@ module.exports = async (year, arr) => {
         item.title,
         slugConfig
       )}`,
-      ...rest
+      ...rest,
     };
   });
 };

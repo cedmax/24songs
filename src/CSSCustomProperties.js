@@ -9,7 +9,7 @@ export const props = {
   "--accent": "rgb(0, 95, 28)",
   "--secondary": "rgb(0, 129, 45)",
 };
-console.log(isSupported);
+
 export const setup = () => {
   if (isSupported) {
     Object.keys(props).forEach(prop => {

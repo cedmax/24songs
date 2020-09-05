@@ -1,9 +1,6 @@
-const { createCanvas, loadImage } = require("canvas");
-const slugify = require("slugify");
 const fs = require("fs");
-const initialYear = 2006;
-const slugConfig = { remove: /[*+~./?()'"!:@]/g };
 const Vibrant = require("node-vibrant");
+const { initialYear } = require("./config.json");
 
 const getPalette = async file => new Vibrant.from(file).getPalette();
 

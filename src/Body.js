@@ -12,7 +12,7 @@ const repaint = () => {
     (document.documentElement || document.body.parentNode || document.body)
       .scrollTop;
   document.body.style.display = "none";
-  document.body.offsetHeight;
+  getComputedStyle(document.body).display;
   document.body.style.display = "block";
   window.scrollTo(0, scroll);
 };

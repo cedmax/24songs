@@ -3,10 +3,9 @@ const genius = require("genius-lyrics");
 const slugify = require("slugify");
 const fs = require("fs");
 const Genius = new genius.Client(process.env.GENIUS);
-const initialYear = 2006;
 const slugConfig = { remove: /[*+~./?()'"!:@]/g };
 
-const fetch = async data => {
+module.exports = async data => {
   for (let i = 0; i < data.length; i++) {
     const item = data[i];
     const filePath = `./public/lyrics/${slugify(
@@ -39,9 +38,3 @@ const fetch = async data => {
     }
   }
 };
-
-(async () => {
-  for (let year = initialYear; year <= new Date().getFullYear(); year++) {
-    await fetch(require(`../src/data/${year}.json`));
-  }
-})();
