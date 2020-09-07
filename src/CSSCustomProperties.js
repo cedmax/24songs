@@ -8,6 +8,7 @@ export const props = {
   "--main": "rgb(200, 20, 36)",
   "--accent": "rgb(0, 95, 28)",
   "--secondary": "rgb(0, 129, 45)",
+  "--transparent": "rgba(0, 0, 0, 0)",
 };
 
 export const setup = () => {

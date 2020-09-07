@@ -6,15 +6,13 @@ import Lyrics from "./Lyrics";
 import Modal from "./Modal";
 import { props, isSupported } from "./CSSCustomProperties";
 
+const alpha1 = `rgba(0,0,0,0)`;
+const alpha2 = `rgba(255,255,255,0)`;
+let alpha = alpha1;
+
 const repaint = () => {
-  const scroll =
-    window.pageYOffset ||
-    (document.documentElement || document.body.parentNode || document.body)
-      .scrollTop;
-  document.body.style.display = "none";
-  getComputedStyle(document.body).display;
-  document.body.style.display = "block";
-  window.scrollTo(0, scroll);
+  alpha = alpha === alpha1 ? alpha2 : alpha1;
+  document.documentElement.style.border = `1px solid ${alpha}`;
 };
 
 const date = new Date();
