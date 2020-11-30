@@ -30,7 +30,9 @@ const fetch = async (year, items) => {
 };
 
 (async () => {
-  for (let year = initialYear; year <= new Date().getFullYear() - 1; year++) {
-    await fetch(year, require(`../src/data/${year}.json`));
+  for (let year = initialYear; year <= new Date().getFullYear(); year++) {
+    if (fs.existsSync(`./src/data/${year}.json`)) {
+      await fetch(year, require(`../src/data/${year}.json`));
+    }
   }
 })();
