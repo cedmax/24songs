@@ -11,11 +11,11 @@ const getText = ($, selector) => $.find(selector).text().trim();
 const uniq = (all, arr) =>
   arr
     .filter(
-      (obj, pos, arr) =>
-        arr.map(mapObj => mapObj.artist).indexOf(obj.artist) === pos
+      item => !all.find(i => i.artist === item.artist && i.title === item.title)
     )
     .filter(
-      item => !all.find(i => i.artist === item.artist && i.title === item.title)
+      (obj, pos, arr) =>
+        arr.map(mapObj => mapObj.artist).indexOf(obj.artist) === pos
     );
 
 async function fetch(all, arr, year, page = 1) {
