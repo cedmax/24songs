@@ -28,7 +28,11 @@ module.exports = async data => {
 
         fs.writeFileSync(
           filePath,
-          JSON.stringify({ title: full_title, lyrics, url })
+          JSON.stringify({
+            title: full_title,
+            lyrics: lyrics.replace('"', '\\"'),
+            url,
+          })
         );
       } catch (e) {
         console.log(e);
