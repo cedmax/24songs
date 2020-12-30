@@ -7,11 +7,12 @@ const style = {
   overlay: {
     zIndex: 1000,
     background: "transparent",
-    pointerEvents: "none"
+    pointerEvents: "none",
   },
   content: {
     pointerEvents: "all",
-    width: 340,
+    width: 450,
+    maxWidth: "90%",
     background: "none",
     border: 0,
     padding: 0,
@@ -19,8 +20,8 @@ const style = {
     top: "auto",
     left: "auto",
     bottom: 20,
-    overflow: "visible"
-  }
+    overflow: "visible",
+  },
 };
 
 export default memo(({ children, close, isOpen }) => (
