@@ -112,9 +112,7 @@ export default memo(({ data, year, children }) => {
 
   const playNext = useCallback(() => {
     const next = selectNext(data, selected);
-    if (next) {
-      setSelected(next);
-    }
+    setSelected(next);
   }, [data, selected]);
 
   return (

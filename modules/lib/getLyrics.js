@@ -30,7 +30,7 @@ module.exports = async data => {
           filePath,
           JSON.stringify({
             title: full_title,
-            lyrics: lyrics.replace('"', '\\"'),
+            lyrics: lyrics.replace(/"/g, '\\"'),
             url,
           })
         );

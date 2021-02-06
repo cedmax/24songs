@@ -9,9 +9,7 @@ const fetch = async (year, items) => {
     const newItems = [];
     for (const item of items) {
       const { Vibrant, Muted, LightMuted, DarkMuted } = await getPalette(
-        `./public/images/${item.id}.jpg`,
-        4,
-        5
+        `./public/images/${item.id}.jpg`
       );
       const palette = [DarkMuted, Vibrant, Muted, LightMuted].map(i =>
         i.rgb.map(e => Math.round(e))
