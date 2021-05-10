@@ -1,11 +1,12 @@
 const axios = require("axios");
 const cheerio = require("cheerio");
+const logUpdate = require("log-update");
 const fs = require("fs");
-const getYoutubeData = require("./lib/getYoutubeData");
-const getLyrics = require("./lib/getLyrics");
-const handleImages = require("./lib/handleImages");
-const { initialYear } = require("./config.json");
+const getExtendedData = require("./lib/getExtendedData");
+const prettier = require("prettier");
 
+const { initialYear } = require("./config.json");
+const chalk = require("chalk");
 const getText = ($, selector) => $.find(selector).text().trim();
 
 const uniq = (all, arr) =>
@@ -18,8 +19,7 @@ const uniq = (all, arr) =>
         arr.map(mapObj => mapObj.artist).indexOf(obj.artist) === pos
     );
 
-async function fetch(all, arr, year, page = 1) {
-  const fileName = `./src/data/${year}.json`;
+async function fetch(fileName, all, arr, year, page = 1) {
   if (!fs.existsSync(fileName)) {
     const { data } = await axios.get(
       `https://www.last.fm/user/cedmax/library/tracks?from=${year}-01-01&rangetype=year&page=${page}`
@@ -37,36 +37,41 @@ async function fetch(all, arr, year, page = 1) {
         };
       });
 
-    const filtered = uniq(all, [...arr, ...songs]);
-    console.log(year, page, filtered.length);
+    let filtered = uniq(all, [...arr, ...songs]);
+
+    logUpdate(`year: ${year}, page: ${page}, found: ${filtered.length}`);
+
     if (filtered.length < 24) {
-      return fetch(all, filtered, year, ++page);
+      return fetch(fileName, all, filtered, year, ++page);
     } else {
+      logUpdate.done();
       filtered.length = 24;
       all.push(...filtered);
-      for (let i = 0; i < filtered.length; i++) {
-        const { artist, title } = filtered[i];
-        filtered[i].video = await getYoutubeData(artist, title);
-      }
-
-      const dataToSave = await handleImages(filtered);
-
-      fs.writeFileSync(
-        fileName,
-        JSON.stringify(dataToSave.reverse(), null, 4),
-        "utf-8"
-      );
+      return filtered;
     }
   } else {
     const data = require(`../${fileName}`);
     all.push(...data);
+    return data.reverse();
   }
 }
 
 (async () => {
   const all = [];
   for (let year = initialYear; year <= new Date().getFullYear(); year++) {
-    await fetch(all, [], year);
-    await getLyrics(require(`../src/data/${year}.json`));
+    console.log(chalk.hex(`#ff0`)(year));
+    const fileName = `./src/data/${year}.json`;
+
+    const data = await fetch(fileName, all, [], year);
+    const dataToSave = await getExtendedData(data);
+
+    fs.writeFileSync(
+      fileName,
+      prettier.format(JSON.stringify(dataToSave.reverse()), {
+        parser: "json",
+        tabWidth: 4,
+      }),
+      "utf8"
+    );
   }
 })();
