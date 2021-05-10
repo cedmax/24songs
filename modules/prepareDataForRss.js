@@ -11,7 +11,7 @@ const addLyrics = data =>
 
     return {
       ...song,
-      lyrics
+      lyrics,
     };
   });
 
@@ -32,5 +32,5 @@ extraData = addLyrics(extraData);
 fs.writeFileSync(
   "./functions/rss/data.json",
   JSON.stringify({ [year]: data, [year - 1]: extraData }),
-  "utf-8"
+  "utf8"
 );
