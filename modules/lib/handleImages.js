@@ -8,7 +8,7 @@ module.exports = async (item, logger) => {
   let id, palette;
 
   if (item.img || !item.palette) {
-    const id = `${slugify(item.artist, slugConfig)}-${slugify(
+    id = `${slugify(item.artist, slugConfig)}-${slugify(
       item.title,
       slugConfig
     )}`;

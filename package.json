@@ -46,6 +46,7 @@
     "dotenv": "^8.2.0",
     "image-downloader": "^3.5.0",
     "image-size": "^0.8.3",
+    "log-update": "^4.0.0",
     "node-vibrant": "^3.1.5",
     "prettier": "^2.3.0",
     "slugify": "^1.4.5"
