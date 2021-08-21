@@ -4,6 +4,7 @@ const slugify = require("slugify");
 const fs = require("fs");
 const Genius = new genius.Client(process.env.GENIUS);
 const slugConfig = { remove: /[*+~./?()'"!:@]/g };
+const chalk = require("chalk");
 
 module.exports = async (item, logger) => {
   const filePath = `./public/lyrics/${slugify(
@@ -25,7 +26,7 @@ module.exports = async (item, logger) => {
       } = song;
       const lyrics = await song.lyrics();
 
-      logger(url);
+      logger(chalk.bold(url));
 
       fs.writeFileSync(
         filePath,
@@ -37,9 +38,9 @@ module.exports = async (item, logger) => {
       );
     } catch (e) {
       fs.writeFileSync(filePath, JSON.stringify({ reason: "MISSING" }));
-      logger(`lyrics not found`);
+      logger(chalk.bold(`lyrics not found`));
     }
   } else {
-    logger(`lyrics already available`);
+    logger(chalk.bold(`lyrics already available`));
   }
 };

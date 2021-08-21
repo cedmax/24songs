@@ -1,7 +1,8 @@
 #root {
   display: block;
-  padding: 1rem 3em 3rem;
   font-size: 200%;
+  padding: 1rem 3em 3rem;
+  padding: 1rem 8vh 3rem;
 }
 
 iframe {

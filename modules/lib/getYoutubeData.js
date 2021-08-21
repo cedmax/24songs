@@ -1,4 +1,5 @@
 const axios = require("axios");
+const chalk = require("chalk");
 
 const getUrl = ({ artist, title }) =>
   `https://www.youtube.com/results?search_query=${encodeURI(
@@ -7,7 +8,7 @@ const getUrl = ({ artist, title }) =>
 
 module.exports = async (item, logger) => {
   if (item.video) {
-    logger("video already available");
+    logger(chalk.bold("video already available"));
     return item.video;
   }
   logger("fetching video");
@@ -16,10 +17,10 @@ module.exports = async (item, logger) => {
   const link = data.match(regex) && data.match(regex)[0];
 
   if (!link) {
-    logger("video not found");
+    logger(chalk.bold("video not found"));
     return "";
   }
   const videoUrl = `https://youtube.com${link}`;
-  logger(videoUrl);
+  logger(chalk.bold(videoUrl));
   return videoUrl;
 };

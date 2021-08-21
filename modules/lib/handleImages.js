@@ -1,6 +1,7 @@
 const download = require("image-downloader");
 const slugify = require("slugify");
 const getColors = require("./getColors");
+const chalk = require("chalk");
 
 const slugConfig = { remove: /[*+~./?()'"!:@]/g };
 
@@ -30,7 +31,7 @@ module.exports = async (item, logger) => {
   } else {
     id = item.id;
     palette = item.palette;
-    logger(`palette already available`);
+    logger(chalk.bold(`palette already available`));
   }
 
   return {

@@ -25,7 +25,7 @@ export default ({ data, year, selected, setSelected }) => {
           return acc;
         }, {})
     )
-      .filter(entry => entry[1].length > 1)
+      .filter(entry => entry[1].length > 2)
       .sort((entryA, entryB) => entryB[1].length - entryA[1].length);
   });
 

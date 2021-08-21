@@ -197,7 +197,6 @@
 
 .title {
   text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.8);
-
   cursor: default;
   display: flex;
   font-size: 90%;
@@ -205,6 +204,7 @@
   text-align: right;
   overflow: visible;
   line-height: 0.7;
+  margin-bottom: 0;
 
   h1 {
     padding: 0;
@@ -232,7 +232,7 @@
   }
 
   @media (min-width: 600px) {
-    width: calc(66% - 6px);
+    width: calc(66% - 3px);
 
     h1 {
       margin-right: 1rem;
