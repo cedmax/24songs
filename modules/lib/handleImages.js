@@ -2,6 +2,9 @@ const download = require("image-downloader");
 const slugify = require("slugify");
 const getColors = require("./getColors");
 const chalk = require("chalk");
+const sharp = require("sharp");
+const webp = require("webp-converter");
+const fs = require("fs");
 
 const slugConfig = { remove: /[*+~./?()'"!:@]/g };
 
@@ -17,13 +20,17 @@ module.exports = async (item, logger) => {
     const imgPath = `./public/images/${id}.jpg`;
     logger(`downloading image`);
 
-    await new Promise(resolve =>
-      download({
+    if (item.img) {
+      await download.image({
         url: item.img.replace("/64s/", "/128s/"),
         dest: imgPath,
-        done: resolve,
-      })
-    );
+      });
+    }
+
+    await sharp(imgPath).resize({ width: 500 }).toFile(`${imgPath}-temp`);
+    fs.unlinkSync(imgPath);
+    fs.renameSync(`${imgPath}-temp`, imgPath);
+    await webp.cwebp(imgPath, imgPath.replace(".jpg", ".webp"), "-q 75");
 
     await new Promise(resolve => setTimeout(resolve, 1500));
 
