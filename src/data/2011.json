@@ -1,5 +1,17 @@
 [
     {
+        "id": "The-Beatles-I-Am-the-Walrus",
+        "title": "I Am the Walrus",
+        "artist": "The Beatles",
+        "video": "https://youtube.com/watch?v=TKuvJLTeJYY",
+        "palette": [
+            [28, 51, 49],
+            [227, 184, 29],
+            [130, 138, 104],
+            [169, 203, 215]
+        ]
+    },
+    {
         "id": "Radiohead-Bloom",
         "title": "Bloom",
         "artist": "Radiohead",
@@ -7,8 +19,8 @@
         "palette": [
             [93, 71, 45],
             [198, 142, 52],
-            [134, 128, 122],
-            [198, 164, 151]
+            [133, 128, 122],
+            [198, 165, 151]
         ]
     },
     {
@@ -17,14 +29,14 @@
         "artist": "Numero 6",
         "video": "https://youtube.com/watch?v=2xM-eq77YHM",
         "palette": [
-            [77, 59, 45],
-            [229, 142, 68],
-            [165, 129, 90],
-            [196, 184, 170]
+            [77, 58, 43],
+            [229, 142, 67],
+            [168, 128, 92],
+            [196, 184, 169]
         ]
     },
     {
-        "id": "lofficina-della-camomilla-EE-Londra-e-Londra",
+        "id": "lofficina-della-camomilla-E-Londra-e-Londra",
         "title": "E Londra e Londra",
         "artist": "l'officina della camomilla",
         "video": "https://youtube.com/watch?v=SqBx6aD9Tdo",
@@ -36,27 +48,39 @@
         ]
     },
     {
+        "id": "Fabrizio-De-Andre-La-Canzone-DellAmore-Perduto",
+        "title": "La Canzone Dell'Amore Perduto",
+        "artist": "Fabrizio De André",
+        "video": "https://youtube.com/watch?v=8LNuk0OgWhQ",
+        "palette": [
+            [78, 50, 44],
+            [234, 138, 88],
+            [171, 134, 95],
+            [200, 177, 144]
+        ]
+    },
+    {
         "id": "Ettore-Giuradei-Il-vicino",
         "title": "Il vicino",
         "artist": "Ettore Giuradei",
         "video": "https://youtube.com/watch?v=0BokoSESOKE",
         "palette": [
-            [73, 64, 85],
-            [114, 141, 132],
-            [120, 133, 133],
+            [73, 65, 85],
+            [81, 174, 152],
+            [120, 133, 134],
             [191, 203, 199]
         ]
     },
     {
-        "id": "Easy-Star-All-Stars-Airbag-feat-Horace-Andy",
-        "title": "Airbag (feat. Horace Andy)",
+        "id": "Easy-Star-All-Stars-Brain-Damage",
+        "title": "Brain Damage",
         "artist": "Easy Star All-Stars",
-        "video": "https://youtube.com/watch?v=_m7-3fwbiRw",
+        "video": "https://youtube.com/watch?v=pYZ3lpKIG5s",
         "palette": [
-            [121, 98, 59],
-            [202, 40, 34],
-            [145, 125, 93],
-            [198, 181, 165]
+            [101, 93, 53],
+            [244, 214, 16],
+            [145, 117, 72],
+            [175, 186, 194]
         ]
     },
     {
@@ -65,10 +89,10 @@
         "artist": "Dessa",
         "video": "https://youtube.com/watch?v=gSxSCv7Cegc",
         "palette": [
-            [84, 52, 36],
-            [172, 100, 36],
-            [112, 72, 52],
-            [127, 74, 26]
+            [64, 52, 42],
+            [172, 100, 28],
+            [110, 70, 52],
+            [132, 77, 21]
         ]
     },
     {
@@ -77,10 +101,10 @@
         "artist": "Das Racist",
         "video": "https://youtube.com/watch?v=hdWxo3e3Kzk",
         "palette": [
-            [79, 61, 47],
-            [240, 212, 52],
-            [163, 162, 99],
-            [177, 174, 204]
+            [101, 58, 51],
+            [244, 108, 36],
+            [161, 111, 72],
+            [178, 176, 204]
         ]
     },
     {
@@ -89,10 +113,10 @@
         "artist": "Buck 65",
         "video": "https://youtube.com/watch?v=tIacMiYzr-I",
         "palette": [
-            [43, 78, 81],
-            [30, 105, 141],
-            [100, 156, 164],
-            [172, 191, 194]
+            [44, 86, 91],
+            [54, 118, 141],
+            [108, 164, 160],
+            [175, 193, 197]
         ]
     },
     {
@@ -101,22 +125,10 @@
         "artist": "Bomb the Music Industry!",
         "video": "https://youtube.com/watch?v=3qVMwRel9eg",
         "palette": [
-            [66, 45, 99],
-            [77, 95, 162],
-            [114, 109, 160],
-            [214, 171, 182]
-        ]
-    },
-    {
-        "id": "Arcade-Fire-The-Suburbs",
-        "title": "The Suburbs",
-        "artist": "Arcade Fire",
-        "video": "https://youtube.com/watch?v=5Euj9f3gdyM",
-        "palette": [
-            [90, 63, 58],
-            [162, 58, 57],
-            [164, 108, 100],
-            [204, 201, 182]
+            [69, 59, 58],
+            [191, 119, 75],
+            [114, 126, 143],
+            [224, 210, 188]
         ]
     },
     {
@@ -125,22 +137,10 @@
         "artist": "J Mascis",
         "video": "https://youtube.com/watch?v=4VDMxEYIZJ4",
         "palette": [
-            [94, 69, 49],
-            [164, 76, 84],
-            [115, 141, 153],
+            [90, 68, 47],
+            [166, 70, 84],
+            [109, 138, 148],
             [196, 178, 172]
-        ]
-    },
-    {
-        "id": "Fabrizio-De-Andre-La-Canzone-DellAmore-Perduto",
-        "title": "La Canzone Dell'Amore Perduto",
-        "artist": "Fabrizio De André",
-        "video": "https://youtube.com/watch?v=8LNuk0OgWhQ",
-        "palette": [
-            [78, 51, 45],
-            [234, 138, 87],
-            [172, 136, 94],
-            [142, 94, 11]
         ]
     },
     {
@@ -149,10 +149,10 @@
         "artist": "Daniele Silvestri",
         "video": "https://youtube.com/watch?v=_4Qb9shTH40",
         "palette": [
-            [51, 56, 62],
+            [104, 67, 63],
             [179, 86, 82],
             [159, 74, 72],
-            [199, 183, 177]
+            [207, 184, 178]
         ]
     },
     {
@@ -162,9 +162,9 @@
         "video": "https://youtube.com/watch?v=xHYJ51p6uW4",
         "palette": [
             [71, 54, 44],
-            [156, 68, 52],
-            [109, 124, 176],
-            [195, 191, 150]
+            [156, 68, 60],
+            [109, 124, 174],
+            [197, 191, 159]
         ]
     },
     {
@@ -175,7 +175,7 @@
         "palette": [
             [68, 68, 68],
             [128, 128, 128],
-            [136, 136, 136],
+            [127, 127, 127],
             [188, 188, 188]
         ]
     },
@@ -185,10 +185,10 @@
         "artist": "Verlaine",
         "video": "https://youtube.com/watch?v=cz-duc0uyG4",
         "palette": [
-            [78, 57, 45],
-            [191, 80, 64],
-            [156, 98, 98],
-            [206, 208, 170]
+            [66, 48, 39],
+            [160, 158, 95],
+            [141, 117, 91],
+            [204, 203, 169]
         ]
     },
     {
@@ -197,22 +197,22 @@
         "artist": "The Zen Circus",
         "video": "https://youtube.com/watch?v=lZ_VWKbEsb8",
         "palette": [
-            [67, 40, 36],
-            [244, 229, 74],
-            [98, 77, 176],
-            [176, 189, 212]
+            [67, 40, 35],
+            [244, 230, 74],
+            [90, 81, 173],
+            [177, 189, 211]
         ]
     },
     {
-        "id": "Crash-Of-Rhinos-Big-Sea",
+        "id": "Crash-of-Rhinos-Big-Sea",
         "title": "Big Sea",
-        "artist": "Crash Of Rhinos",
+        "artist": "Crash of Rhinos",
         "video": "https://youtube.com/watch?v=9lKVGhkkp98",
         "palette": [
-            [68, 84, 52],
-            [128, 158, 97],
+            [60, 76, 44],
+            [128, 162, 94],
             [100, 124, 84],
-            [77, 95, 58]
+            [77, 97, 56]
         ]
     },
     {
@@ -221,10 +221,10 @@
         "artist": "Serengeti",
         "video": "https://youtube.com/watch?v=JQ_0VQH9Jxs",
         "palette": [
-            [40, 82, 61],
-            [110, 243, 181],
-            [96, 162, 132],
-            [136, 186, 164]
+            [42, 80, 60],
+            [113, 230, 183],
+            [148, 100, 114],
+            [183, 151, 159]
         ]
     },
     {
@@ -233,10 +233,10 @@
         "artist": "The Drums",
         "video": "https://youtube.com/watch?v=XTWXX6_NHUA",
         "palette": [
-            [70, 52, 37],
-            [197, 75, 58],
-            [150, 132, 108],
-            [187, 180, 165]
+            [62, 46, 30],
+            [201, 71, 54],
+            [151, 132, 108],
+            [188, 182, 165]
         ]
     },
     {
@@ -245,10 +245,10 @@
         "artist": "Clap Your Hands Say Yeah",
         "video": "https://youtube.com/watch?v=Tv6IjIiQzgQ",
         "palette": [
-            [51, 84, 114],
-            [216, 65, 120],
-            [113, 116, 170],
-            [168, 174, 201]
+            [52, 84, 111],
+            [221, 69, 125],
+            [180, 132, 177],
+            [176, 212, 212]
         ]
     },
     {
@@ -257,10 +257,10 @@
         "artist": "Primus",
         "video": "https://youtube.com/watch?v=2ubKIE1eb44",
         "palette": [
-            [53, 62, 39],
+            [54, 62, 38],
             [164, 203, 67],
-            [152, 165, 86],
-            [184, 189, 209]
+            [151, 165, 83],
+            [183, 189, 208]
         ]
     },
     {
@@ -271,19 +271,19 @@
         "palette": [
             [56, 76, 61],
             [194, 90, 88],
-            [148, 111, 97],
-            [168, 202, 208]
+            [147, 108, 96],
+            [172, 207, 213]
         ]
     },
     {
-        "id": "Astronautalis-Measure-the-Globe",
-        "title": "Measure the Globe",
+        "id": "Astronautalis-The-River,-The-Woods",
+        "title": "The River, The Woods",
         "artist": "Astronautalis",
-        "video": "https://youtube.com/watch?v=8PUWANkSHDc",
+        "video": "https://youtube.com/watch?v=KE8S3493u9g",
         "palette": [
-            [78, 56, 44],
-            [156, 61, 43],
-            [164, 132, 95],
+            [79, 58, 46],
+            [156, 61, 44],
+            [163, 131, 95],
             [180, 156, 140]
         ]
     }

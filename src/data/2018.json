@@ -5,10 +5,10 @@
         "artist": "Death from Above 1979",
         "video": "https://youtube.com/watch?v=DxWnnCqta0c",
         "palette": [
-            [68, 60, 68],
-            [55, 55, 200],
-            [124, 116, 119],
-            [195, 194, 195]
+            [76, 68, 69],
+            [129, 129, 126],
+            [124, 116, 117],
+            [192, 192, 191]
         ]
     },
     {
@@ -17,10 +17,10 @@
         "artist": "The Smashing Pumpkins",
         "video": "https://youtube.com/watch?v=Do3tSdZucyA",
         "palette": [
-            [64, 47, 42],
+            [66, 50, 43],
             [191, 191, 64],
-            [144, 116, 107],
-            [211, 187, 179]
+            [139, 113, 104],
+            [210, 187, 179]
         ]
     },
     {
@@ -29,22 +29,22 @@
         "artist": "Ought",
         "video": "https://youtube.com/watch?v=8I5PTIyAQrM",
         "palette": [
-            [60, 64, 81],
-            [82, 118, 173],
-            [90, 113, 156],
-            [140, 156, 188]
+            [60, 65, 81],
+            [38, 113, 217],
+            [90, 114, 156],
+            [176, 153, 172]
         ]
     },
     {
         "id": "Mount-Eerie-Now-Only",
         "title": "Now Only",
         "artist": "Mount Eerie",
-        "video": "https://youtube.com/watch?v=YmS94GenGps",
+        "video": "https://youtube.com/watch?v=L5y-riaPHdw",
         "palette": [
-            [47, 81, 75],
-            [16, 108, 174],
-            [151, 128, 109],
-            [164, 188, 206]
+            [53, 97, 109],
+            [15, 110, 174],
+            [92, 145, 174],
+            [196, 188, 183]
         ]
     },
     {
@@ -53,22 +53,22 @@
         "artist": "John Maus",
         "video": "https://youtube.com/watch?v=_kF2-Cr6yX4",
         "palette": [
-            [85, 66, 50],
-            [179, 111, 77],
-            [115, 129, 151],
-            [186, 179, 163]
+            [82, 68, 51],
+            [185, 123, 74],
+            [164, 108, 84],
+            [199, 182, 158]
         ]
     },
     {
         "id": "Jeffrey-Lewis-Scowling-Crackhead-Ian",
         "title": "Scowling Crackhead Ian",
         "artist": "Jeffrey Lewis",
-        "video": "https://youtube.com/watch?v=KXtXGMbPmY4",
+        "video": "https://youtube.com/watch?v=wFljLOlqakc",
         "palette": [
-            [83, 62, 56],
-            [187, 164, 83],
-            [142, 79, 79],
-            [195, 190, 189]
+            [82, 65, 60],
+            [140, 172, 212],
+            [134, 92, 76],
+            [196, 192, 189]
         ]
     },
     {
@@ -77,10 +77,10 @@
         "artist": "Fucked Up",
         "video": "https://youtube.com/watch?v=vAh1Nm5Zjvw",
         "palette": [
-            [102, 67, 56],
-            [192, 92, 60],
-            [140, 89, 70],
-            [212, 196, 164]
+            [102, 68, 56],
+            [192, 90, 60],
+            [141, 90, 70],
+            [204, 196, 159]
         ]
     },
     {
@@ -89,22 +89,22 @@
         "artist": "Craig Finn",
         "video": "https://youtube.com/watch?v=Z6gX02wGmis",
         "palette": [
-            [86, 76, 58],
-            [185, 102, 84],
-            [143, 132, 113],
-            [188, 180, 172]
+            [66, 61, 49],
+            [172, 68, 52],
+            [172, 102, 84],
+            [196, 187, 177]
         ]
     },
     {
         "id": "Bonny-Doon-LOST-MY-WAY",
         "title": "LOST MY WAY",
         "artist": "Bonny Doon",
-        "video": "https://youtube.com/watch?v=w-hfGMt2IKc",
+        "video": "https://youtube.com/watch?v=NAcBwns6aSU",
         "palette": [
-            [138, 101, 15],
-            [233, 180, 57],
-            [164, 132, 80],
-            [208, 195, 167]
+            [135, 102, 18],
+            [229, 181, 60],
+            [160, 140, 96],
+            [210, 196, 166]
         ]
     },
     {
@@ -113,10 +113,10 @@
         "artist": "Bad Religion",
         "video": "https://youtube.com/watch?v=hES9IBTPbcw",
         "palette": [
-            [76, 52, 60],
-            [228, 76, 84],
-            [164, 124, 116],
-            [220, 188, 180]
+            [76, 60, 60],
+            [222, 78, 84],
+            [158, 124, 116],
+            [216, 188, 180]
         ]
     },
     {
@@ -125,10 +125,10 @@
         "artist": "The Men",
         "video": "https://youtube.com/watch?v=pUjGXZyMFDw",
         "palette": [
-            [69, 66, 64],
+            [68, 66, 65],
             [243, 177, 12],
-            [133, 128, 108],
-            [212, 196, 166]
+            [132, 124, 100],
+            [217, 204, 171]
         ]
     },
     {
@@ -137,9 +137,9 @@
         "artist": "Riccardo Sinigallia",
         "video": "https://youtube.com/watch?v=UxjG_NedraY",
         "palette": [
-            [50, 72, 73],
-            [76, 170, 179],
-            [165, 130, 107],
+            [44, 78, 81],
+            [184, 133, 105],
+            [120, 111, 100],
             [204, 184, 163]
         ]
     },
@@ -149,10 +149,10 @@
         "artist": "Any Other",
         "video": "https://youtube.com/watch?v=vP-E1-CCs3k",
         "palette": [
-            [74, 61, 50],
-            [172, 84, 68],
-            [146, 113, 93],
-            [167, 189, 200]
+            [76, 60, 48],
+            [164, 60, 60],
+            [145, 104, 85],
+            [172, 197, 208]
         ]
     },
     {
@@ -161,34 +161,10 @@
         "artist": "Paletti",
         "video": "https://youtube.com/watch?v=hksOm5wLBi4",
         "palette": [
-            [82, 72, 46],
-            [250, 220, 52],
-            [173, 148, 80],
-            [208, 192, 177]
-        ]
-    },
-    {
-        "id": "Wimps-Garbage-People",
-        "title": "Garbage People",
-        "artist": "Wimps",
-        "video": "https://youtube.com/watch?v=m2-xV69zyHk",
-        "palette": [
-            [72, 60, 54],
-            [155, 49, 59],
-            [151, 118, 105],
-            [207, 189, 174]
-        ]
-    },
-    {
-        "id": "Rancore-Sangue-di-drago",
-        "title": "Sangue di drago",
-        "artist": "Rancore",
-        "video": "https://youtube.com/watch?v=UOOjOYMXoyg",
-        "palette": [
-            [75, 38, 34],
-            [172, 44, 60],
-            [160, 95, 87],
-            [201, 172, 164]
+            [83, 79, 43],
+            [244, 228, 4],
+            [149, 127, 84],
+            [199, 177, 156]
         ]
     },
     {
@@ -199,8 +175,32 @@
         "palette": [
             [109, 77, 44],
             [181, 128, 74],
-            [140, 138, 132],
+            [136, 134, 126],
             [206, 204, 196]
+        ]
+    },
+    {
+        "id": "Wimps-Garbage-People",
+        "title": "Garbage People",
+        "artist": "Wimps",
+        "video": "https://youtube.com/watch?v=m2-xV69zyHk",
+        "palette": [
+            [72, 61, 55],
+            [154, 47, 58],
+            [150, 108, 84],
+            [186, 169, 159]
+        ]
+    },
+    {
+        "id": "Rancore-Sangue-di-drago",
+        "title": "Sangue di drago",
+        "artist": "Rancore",
+        "video": "https://youtube.com/watch?v=UOOjOYMXoyg",
+        "palette": [
+            [80, 58, 68],
+            [166, 44, 68],
+            [160, 94, 88],
+            [202, 181, 173]
         ]
     },
     {
@@ -209,10 +209,10 @@
         "artist": "Dunk",
         "video": "https://youtube.com/watch?v=t1aNnG8DJs0",
         "palette": [
-            [100, 56, 76],
-            [228, 11, 92],
-            [157, 116, 132],
-            [190, 186, 188]
+            [98, 60, 76],
+            [223, 11, 92],
+            [168, 112, 133],
+            [189, 187, 188]
         ]
     },
     {
@@ -221,9 +221,9 @@
         "artist": "La Municipàl",
         "video": "https://youtube.com/watch?v=BE-FJD0Tnzg",
         "palette": [
-            [76, 68, 76],
-            [128, 128, 128],
-            [140, 132, 140],
+            [68, 68, 68],
+            [191, 64, 191],
+            [132, 131, 132],
             [196, 196, 196]
         ]
     },
@@ -233,10 +233,10 @@
         "artist": "Jeff Rosenstock",
         "video": "https://youtube.com/watch?v=IBngZh8H2FU",
         "palette": [
-            [59, 72, 78],
-            [83, 138, 172],
-            [111, 131, 136],
-            [172, 204, 211]
+            [59, 76, 80],
+            [75, 140, 180],
+            [118, 139, 144],
+            [164, 196, 204]
         ]
     },
     {
@@ -245,10 +245,10 @@
         "artist": "Coma_Cose",
         "video": "https://youtube.com/watch?v=Xk5V4mkrtoI",
         "palette": [
-            [61, 61, 57],
-            [212, 132, 104],
-            [167, 120, 88],
-            [217, 191, 173]
+            [78, 78, 73],
+            [220, 140, 108],
+            [167, 123, 88],
+            [213, 195, 187]
         ]
     },
     {
@@ -257,10 +257,10 @@
         "artist": "Sick Tamburo",
         "video": "https://youtube.com/watch?v=geQ9Q1bO8Wc",
         "palette": [
-            [66, 56, 74],
-            [36, 137, 193],
-            [147, 106, 108],
-            [208, 158, 184]
+            [53, 50, 91],
+            [200, 47, 72],
+            [144, 102, 113],
+            [208, 168, 159]
         ]
     },
     {
@@ -269,10 +269,10 @@
         "artist": "Shame",
         "video": "https://youtube.com/watch?v=AiFxUhgU4LE",
         "palette": [
-            [93, 74, 56],
-            [12, 144, 243],
-            [156, 164, 92],
-            [164, 180, 204]
+            [94, 74, 56],
+            [11, 127, 244],
+            [156, 164, 84],
+            [172, 188, 204]
         ]
     },
     {
@@ -281,8 +281,8 @@
         "artist": "Protomartyr",
         "video": "https://youtube.com/watch?v=yWdLpIITqsQ",
         "palette": [
-            [69, 66, 67],
-            [193, 125, 158],
+            [70, 67, 68],
+            [193, 125, 157],
             [122, 119, 121],
             [214, 174, 195]
         ]
