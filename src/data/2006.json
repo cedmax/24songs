@@ -1,6 +1,6 @@
 [
     {
-        "id": "The-Killers-Mr-Brightside",
+        "id": "the-killers-mr-brightside",
         "title": "Mr. Brightside",
         "artist": "The Killers",
         "video": "https://youtube.com/watch?v=gGdGFtwCNBE",
@@ -12,7 +12,7 @@
         ]
     },
     {
-        "id": "Death-Cab-for-Cutie-Soul-Meets-Body",
+        "id": "death-cab-for-cutie-soul-meets-body",
         "title": "Soul Meets Body",
         "artist": "Death Cab for Cutie",
         "video": "https://youtube.com/watch?v=uizQVriWp8M",
@@ -24,7 +24,7 @@
         ]
     },
     {
-        "id": "Caesars-Good-And-Gone",
+        "id": "caesars-good-and-gone",
         "title": "Good And Gone",
         "artist": "Caesars",
         "video": "https://youtube.com/watch?v=X-IhAQzCXB8",
@@ -36,7 +36,7 @@
         ]
     },
     {
-        "id": "Tim-Fite-Mascara-Lies",
+        "id": "tim-fite-mascara-lies",
         "title": "Mascara Lies",
         "artist": "Tim Fite",
         "video": "https://youtube.com/watch?v=YgzyA6Y4Fqc",
@@ -48,7 +48,7 @@
         ]
     },
     {
-        "id": "Shout-Out-Louds-Go-Sadness",
+        "id": "shout-out-louds-go-sadness",
         "title": "Go Sadness",
         "artist": "Shout Out Louds",
         "video": "https://youtube.com/watch?v=hAkAKOCGrOM",
@@ -60,7 +60,7 @@
         ]
     },
     {
-        "id": "Yeah-Yeah-Yeahs-Way-Out",
+        "id": "yeah-yeah-yeahs-way-out",
         "title": "Way Out",
         "artist": "Yeah Yeah Yeahs",
         "video": "https://youtube.com/watch?v=pGzFWT4hJCw",
@@ -72,7 +72,7 @@
         ]
     },
     {
-        "id": "Thunderbirds-Are-Now-198090-Aquatic-Cupids",
+        "id": "thunderbirds-are-now-198090-aquatic-cupids",
         "title": "198090 (Aquatic Cupid's)",
         "artist": "Thunderbirds Are Now!",
         "video": "https://youtube.com/watch?v=gU187OFBbn8",
@@ -84,7 +84,7 @@
         ]
     },
     {
-        "id": "The-Radio-Dept-Why-Wont-You-Talk-About-It",
+        "id": "the-radio-dept-why-wont-you-talk-about-it",
         "title": "Why Won't You Talk About It",
         "artist": "The Radio Dept.",
         "video": "https://youtube.com/watch?v=YjzENlvtw2s",
@@ -96,7 +96,7 @@
         ]
     },
     {
-        "id": "Neutral-Milk-Hotel-Fool",
+        "id": "neutral-milk-hotel-fool",
         "title": "Fool",
         "artist": "Neutral Milk Hotel",
         "video": "https://youtube.com/watch?v=TUdiq0ZHsjw",
@@ -108,7 +108,7 @@
         ]
     },
     {
-        "id": "Love-Is-All-Turn-the-Radio-Off",
+        "id": "love-is-all-turn-the-radio-off",
         "title": "Turn the Radio Off",
         "artist": "Love Is All",
         "video": "https://youtube.com/watch?v=h_2rRd1aEr4",
@@ -120,7 +120,7 @@
         ]
     },
     {
-        "id": "Ben-Kweller-How-It-Should-Be-Sha-Sha",
+        "id": "ben-kweller-how-it-should-be-sha-sha",
         "title": "How It Should Be (Sha Sha)",
         "artist": "Ben Kweller",
         "video": "https://youtube.com/watch?v=g2hsa4JsUF8",
@@ -132,7 +132,7 @@
         ]
     },
     {
-        "id": "Placebo-Follow-the-Cops-Back-Home",
+        "id": "placebo-follow-the-cops-back-home",
         "title": "Follow the Cops Back Home",
         "artist": "Placebo",
         "video": "https://youtube.com/watch?v=TWyFQSFLakg",
@@ -144,7 +144,7 @@
         ]
     },
     {
-        "id": "Architecture-in-Helsinki-One-Heavy-February",
+        "id": "architecture-in-helsinki-one-heavy-february",
         "title": "One Heavy February",
         "artist": "Architecture in Helsinki",
         "video": "https://youtube.com/watch?v=Y2NZ1Vq1QZU",
@@ -156,7 +156,7 @@
         ]
     },
     {
-        "id": "Amari-Bolognina-Revolution",
+        "id": "amari-bolognina-revolution",
         "title": "Bolognina Revolution",
         "artist": "Amari",
         "video": "https://youtube.com/watch?v=8GmwaBYg2RI",
@@ -168,7 +168,7 @@
         ]
     },
     {
-        "id": "Stars-Of-Track-And-Field-Centuries",
+        "id": "stars-of-track-and-field-centuries",
         "title": "Centuries",
         "artist": "Stars Of Track And Field",
         "video": "https://youtube.com/watch?v=fg9Mgu6ImfU",
@@ -180,7 +180,7 @@
         ]
     },
     {
-        "id": "Carpark-North-Human",
+        "id": "carpark-north-human",
         "title": "Human",
         "artist": "Carpark North",
         "video": "https://youtube.com/watch?v=X7Kw6s8CTrk",
@@ -192,7 +192,7 @@
         ]
     },
     {
-        "id": "Snow-Patrol-Grazed-Knees",
+        "id": "snow-patrol-grazed-knees",
         "title": "Grazed Knees",
         "artist": "Snow Patrol",
         "video": "https://youtube.com/watch?v=VV1lztQXEQE",
@@ -216,7 +216,7 @@
         ]
     },
     {
-        "id": "And-You-Will-Know-Us-by-the-Trail-of-Dead-Stand-In-Silence",
+        "id": "and-you-will-know-us-by-the-trail-of-dead-stand-in-silence",
         "title": "Stand In Silence",
         "artist": "...And You Will Know Us by the Trail of Dead",
         "video": "https://youtube.com/watch?v=PFnbP7NvYFQ",
@@ -228,7 +228,7 @@
         ]
     },
     {
-        "id": "The-Kooks-Eddies-Gun",
+        "id": "the-kooks-eddies-gun",
         "title": "Eddie's Gun",
         "artist": "The Kooks",
         "video": "https://youtube.com/watch?v=-1pfBw53amc",
@@ -240,7 +240,7 @@
         ]
     },
     {
-        "id": "Bloc-Party-Song-for-Clay-Disappear-Here",
+        "id": "bloc-party-song-for-clay-disappear-here",
         "title": "Song for Clay (Disappear Here)",
         "artist": "Bloc Party",
         "video": "https://youtube.com/watch?v=EkplhXJgC5I",
@@ -252,7 +252,7 @@
         ]
     },
     {
-        "id": "Clap-Your-Hands-Say-Yeah-Over-and-Over-Again-Lost-and-Found",
+        "id": "clap-your-hands-say-yeah-over-and-over-again-lost-and-found",
         "title": "Over and Over Again (Lost and Found)",
         "artist": "Clap Your Hands Say Yeah",
         "video": "https://youtube.com/watch?v=jvw2cf0DJYA",
@@ -264,7 +264,7 @@
         ]
     },
     {
-        "id": "The-Format-Matches",
+        "id": "the-format-matches",
         "title": "Matches",
         "artist": "The Format",
         "video": "https://youtube.com/watch?v=s8Ebe2BH8pU",
@@ -276,7 +276,7 @@
         ]
     },
     {
-        "id": "Oxford-Collapse-Hell-Paint-While-We-Play",
+        "id": "oxford-collapse-hell-paint-while-we-play",
         "title": "He'll Paint While We Play",
         "artist": "Oxford Collapse",
         "video": "https://youtube.com/watch?v=H5ILit5YtGM",

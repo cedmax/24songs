@@ -1,6 +1,6 @@
 [
     {
-        "id": "Yael-Naim-Paris",
+        "id": "yael-naim-paris",
         "title": "Paris",
         "artist": "Yael Naim",
         "video": "https://youtube.com/watch?v=6R2y_2zQ4_w",
@@ -12,7 +12,7 @@
         ]
     },
     {
-        "id": "Frightened-Rabbit-The-Modern-Leper",
+        "id": "frightened-rabbit-the-modern-leper",
         "title": "The Modern Leper",
         "artist": "Frightened Rabbit",
         "video": "https://youtube.com/watch?v=ob3X77TwqEw",
@@ -24,7 +24,7 @@
         ]
     },
     {
-        "id": "Easy-Star-All-Stars-Airbag-feat-Horace-Andy",
+        "id": "easy-star-all-stars-airbag-feat-horace-andy",
         "title": "Airbag (feat. Horace Andy)",
         "artist": "Easy Star All-Stars",
         "video": "https://youtube.com/watch?v=_m7-3fwbiRw",
@@ -36,7 +36,7 @@
         ]
     },
     {
-        "id": "Dukes-Of-Windsor-Runaway",
+        "id": "dukes-of-windsor-runaway",
         "title": "Runaway",
         "artist": "Dukes Of Windsor",
         "video": "https://youtube.com/watch?v=U6oXsJIEuwI",
@@ -48,7 +48,7 @@
         ]
     },
     {
-        "id": "Wolf-Parade-The-Grey-Estates",
+        "id": "wolf-parade-the-grey-estates",
         "title": "The Grey Estates",
         "artist": "Wolf Parade",
         "video": "https://youtube.com/watch?v=tSSR4_ADBF8",
@@ -60,7 +60,7 @@
         ]
     },
     {
-        "id": "Vampire-Weekend-The-Kids-Dont-Stand-a-Chance",
+        "id": "vampire-weekend-the-kids-dont-stand-a-chance",
         "title": "The Kids Don't Stand a Chance",
         "artist": "Vampire Weekend",
         "video": "https://youtube.com/watch?v=6uWT7CS6_W4",
@@ -72,7 +72,7 @@
         ]
     },
     {
-        "id": "We-Are-Scientists-Ghouls",
+        "id": "we-are-scientists-ghouls",
         "title": "Ghouls",
         "artist": "We Are Scientists",
         "video": "https://youtube.com/watch?v=x795nlpubR8",
@@ -84,7 +84,7 @@
         ]
     },
     {
-        "id": "The-Beatles-Penny-Lane",
+        "id": "the-beatles-penny-lane",
         "title": "Penny Lane",
         "artist": "The Beatles",
         "video": "https://youtube.com/watch?v=S-rB0pHI9fU",
@@ -96,7 +96,7 @@
         ]
     },
     {
-        "id": "Santigold-LES-Artistes",
+        "id": "santigold-les-artistes",
         "title": "L.E.S. Artistes",
         "artist": "Santigold",
         "video": "https://youtube.com/watch?v=ciJDA0tcQfs",
@@ -108,7 +108,7 @@
         ]
     },
     {
-        "id": "Death-Cab-for-Cutie-I-Will-Possess-Your-Heart",
+        "id": "death-cab-for-cutie-i-will-possess-your-heart",
         "title": "I Will Possess Your Heart",
         "artist": "Death Cab for Cutie",
         "video": "https://youtube.com/watch?v=pq-yP7mb8UE",
@@ -120,7 +120,7 @@
         ]
     },
     {
-        "id": "Snowden-Anti-Anti",
+        "id": "snowden-anti-anti",
         "title": "Anti-Anti",
         "artist": "Snowden",
         "video": "https://youtube.com/watch?v=9mXBco65t4g",
@@ -132,7 +132,7 @@
         ]
     },
     {
-        "id": "Marnie-Stern-Roads-Where-Were-Going-We-Dont-Need-Roads",
+        "id": "marnie-stern-roads-where-were-going-we-dont-need-roads",
         "title": "Roads? Where We're Going We Don't Need Roads",
         "artist": "Marnie Stern",
         "video": "https://youtube.com/watch?v=KsH6I4B6NJs",
@@ -144,7 +144,7 @@
         ]
     },
     {
-        "id": "Bloc-Party-Halo",
+        "id": "bloc-party-halo",
         "title": "Halo",
         "artist": "Bloc Party",
         "video": "https://youtube.com/watch?v=ZWKYcDzjjoo",
@@ -156,7 +156,7 @@
         ]
     },
     {
-        "id": "The-Wombats-Moving-To-New-York",
+        "id": "the-wombats-moving-to-new-york",
         "title": "Moving To New York",
         "artist": "The Wombats",
         "video": "https://youtube.com/watch?v=fD92J4W9n04",
@@ -168,7 +168,7 @@
         ]
     },
     {
-        "id": "The-National-Fake-Empire",
+        "id": "the-national-fake-empire",
         "title": "Fake Empire",
         "artist": "The National",
         "video": "https://youtube.com/watch?v=KehwyWmXr3U",
@@ -180,7 +180,7 @@
         ]
     },
     {
-        "id": "Swan-Lake-Widows-Walk",
+        "id": "swan-lake-widows-walk",
         "title": "Widow's Walk",
         "artist": "Swan Lake",
         "video": "https://youtube.com/watch?v=vM_8G_Q9sfE",
@@ -192,7 +192,7 @@
         ]
     },
     {
-        "id": "Apostle-of-Hustle-My-Sword-Hands-Anger",
+        "id": "apostle-of-hustle-my-sword-hands-anger",
         "title": "My Sword Hand's Anger",
         "artist": "Apostle of Hustle",
         "video": "https://youtube.com/watch?v=NYLxQMDE0hw",
@@ -204,7 +204,7 @@
         ]
     },
     {
-        "id": "MGMT-Kids",
+        "id": "mgmt-kids",
         "title": "Kids",
         "artist": "MGMT",
         "video": "https://youtube.com/watch?v=fe4EK4HSPkI",
@@ -216,7 +216,7 @@
         ]
     },
     {
-        "id": "Astronautalis-Short-Term-Memory-Loss",
+        "id": "astronautalis-short-term-memory-loss",
         "title": "Short Term Memory Loss",
         "artist": "Astronautalis",
         "video": "https://youtube.com/watch?v=NngTu-wX2t0",
@@ -228,7 +228,7 @@
         ]
     },
     {
-        "id": "Afterhours-Hai-Paura-Del-Buio",
+        "id": "afterhours-hai-paura-del-buio",
         "title": "Hai Paura Del Buio?",
         "artist": "Afterhours",
         "video": "https://youtube.com/watch?v=GC48Dz7tvg4",
@@ -240,7 +240,7 @@
         ]
     },
     {
-        "id": "Say-Hi-Northwestern-Girls",
+        "id": "say-hi-northwestern-girls",
         "title": "Northwestern Girls",
         "artist": "Say Hi",
         "video": "https://youtube.com/watch?v=OE9MjqicQOc",
@@ -252,7 +252,7 @@
         ]
     },
     {
-        "id": "Cloud-Cult-No-One-Said-It-Would-Be-Easy",
+        "id": "cloud-cult-no-one-said-it-would-be-easy",
         "title": "No One Said It Would Be Easy",
         "artist": "Cloud Cult",
         "video": "https://youtube.com/watch?v=fQyhNfmjcOg",
@@ -264,7 +264,7 @@
         ]
     },
     {
-        "id": "Why-The-Hollows",
+        "id": "why-the-hollows",
         "title": "The Hollows",
         "artist": "Why?",
         "video": "https://youtube.com/watch?v=mA-_wJmBJ7s",
@@ -276,7 +276,7 @@
         ]
     },
     {
-        "id": "Bob-Marley-and-The-Wailers-Is-This-Love",
+        "id": "bob-marley-and-the-wailers-is-this-love",
         "title": "Is This Love",
         "artist": "Bob Marley & The Wailers",
         "video": "https://youtube.com/watch?v=CHekNnySAfM",

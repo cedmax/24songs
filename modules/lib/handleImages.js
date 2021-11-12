@@ -15,7 +15,7 @@ module.exports = async (item, logger) => {
     id = `${slugify(item.artist, slugConfig)}-${slugify(
       item.title,
       slugConfig
-    )}`;
+    )}`.toLowerCase();
 
     const imgPath = `./public/images/${id}.jpg`;
     logger(`downloading image`);
