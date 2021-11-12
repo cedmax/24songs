@@ -1,17 +1,5 @@
 [
     {
-        "id": "leftover-crack-land-down-under",
-        "title": "Land Down Under",
-        "artist": "Leftöver Crack",
-        "video": "https://youtube.com/watch?v=OADbn16s6gM",
-        "palette": [
-            [109, 75, 60],
-            [177, 116, 78],
-            [129, 124, 124],
-            [106, 70, 47]
-        ]
-    },
-    {
         "id": "jank-chunks-cool-enuff",
         "title": "Chunks (Cool Enuff)",
         "artist": "jank",
