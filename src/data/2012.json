@@ -1,290 +1,290 @@
 [
     {
-        "id": "Awolnation-All-I-Need",
+        "id": "lo-stato-sociale-abbiamo-vinto-la-guerra",
+        "title": "Abbiamo vinto la guerra",
+        "artist": "Lo Stato Sociale",
+        "video": "https://youtube.com/watch?v=ikQRbv5R5J8",
+        "palette": [
+            [87, 68, 53],
+            [182, 53, 40],
+            [136, 129, 109],
+            [208, 188, 163]
+        ]
+    },
+    {
+        "id": "le-luci-della-centrale-elettrica-ceravamo-abbastanza-amati",
+        "title": "C'eravamo abbastanza amati",
+        "artist": "Le Luci Della Centrale Elettrica",
+        "video": "https://youtube.com/watch?v=qZA8gMz7sTs",
+        "palette": [
+            [61, 68, 52],
+            [55, 55, 200],
+            [116, 124, 108],
+            [196, 212, 212]
+        ]
+    },
+    {
+        "id": "dark-dark-dark-who-needs-who",
+        "title": "Who Needs Who",
+        "artist": "Dark Dark Dark",
+        "video": "https://youtube.com/watch?v=ufRL-6xpJ5Q",
+        "palette": [
+            [89, 74, 68],
+            [200, 55, 55],
+            [148, 139, 132],
+            [204, 195, 193]
+        ]
+    },
+    {
+        "id": "awolnation-all-i-need",
         "title": "All I Need",
         "artist": "Awolnation",
         "video": "https://youtube.com/watch?v=3jUI-gYsUNo",
         "palette": [
             [64, 59, 76],
             [77, 127, 179],
-            [120, 111, 118],
-            [196, 178, 173]
+            [142, 122, 132],
+            [189, 191, 199]
         ]
     },
     {
-        "id": "The-Beatles-I-Am-the-Walrus-Live",
-        "title": "I Am the Walrus - Live",
-        "artist": "The Beatles",
-        "video": "https://youtube.com/watch?v=3IpP3bc4AU0",
-        "palette": [
-            [42, 57, 73],
-            [240, 96, 55],
-            [114, 159, 87],
-            [181, 192, 216]
-        ]
-    },
-    {
-        "id": "Mumford-and-Sons-I-Will-Wait",
+        "id": "mumford-and-sons-i-will-wait",
         "title": "I Will Wait",
         "artist": "Mumford & Sons",
         "video": "https://youtube.com/watch?v=rGKfrgqWcv0",
         "palette": [
-            [108, 62, 56],
-            [176, 86, 82],
-            [154, 130, 105],
-            [196, 193, 178]
+            [66, 53, 48],
+            [174, 87, 78],
+            [153, 131, 105],
+            [197, 193, 179]
         ]
     },
     {
-        "id": "George-Harrison-Here-Comes-the-Sun",
+        "id": "george-harrison-here-comes-the-sun",
         "title": "Here Comes the Sun",
         "artist": "George Harrison",
         "video": "https://youtube.com/watch?v=KQetemT1sWc",
         "palette": [
-            [63, 63, 63],
-            [55, 55, 200],
+            [68, 68, 68],
+            [55, 146, 200],
             [124, 124, 124],
             [191, 191, 191]
         ]
     },
     {
-        "id": "College-A-Real-Hero-feat-Electric-Youth",
+        "id": "college-a-real-hero-feat-electric-youth",
         "title": "A Real Hero (feat. Electric Youth)",
         "artist": "College",
         "video": "https://youtube.com/watch?v=-DSVDcw6iW8",
         "palette": [
             [68, 46, 37],
-            [213, 192, 67],
-            [87, 143, 153],
-            [173, 202, 203]
+            [212, 192, 68],
+            [85, 142, 152],
+            [173, 202, 202]
         ]
     },
     {
-        "id": "The-Japanese-Popstars-Let-Go",
-        "title": "Let Go",
-        "artist": "The Japanese Popstars",
-        "video": "https://youtube.com/watch?v=LQ_LUoLTKLo",
-        "palette": [
-            [47, 77, 90],
-            [188, 119, 50],
-            [158, 125, 96],
-            [212, 203, 170]
-        ]
-    },
-    {
-        "id": "Massive-Attack-Paradise-Circus",
-        "title": "Paradise Circus",
-        "artist": "Massive Attack",
-        "video": "https://youtube.com/watch?v=jEgX64n3T7g",
-        "palette": [
-            [90, 58, 48],
-            [252, 140, 4],
-            [116, 112, 148],
-            [177, 169, 198]
-        ]
-    },
-    {
-        "id": "Florence-the-Machine-What-The-Water-Gave-Me-Jamie-Jones-Edit",
-        "title": "What The Water Gave Me - Jamie Jones Edit",
-        "artist": "Florence + the Machine",
-        "video": "https://youtube.com/watch?v=3-JSjMvZfU0",
-        "palette": [
-            [71, 54, 44],
-            [179, 88, 71],
-            [150, 122, 96],
-            [172, 195, 213]
-        ]
-    },
-    {
-        "id": "ACDC-Overdose",
-        "title": "Overdose",
-        "artist": "AC/DC",
-        "video": "https://youtube.com/watch?v=YDY6fzBvWtE",
-        "palette": [
-            [55, 73, 91],
-            [220, 86, 43],
-            [115, 149, 142],
-            [182, 173, 150]
-        ]
-    },
-    {
-        "id": "Radical-Face-Always-Gold-Short-Attention-Span-Mix",
-        "title": "Always Gold - Short Attention Span Mix",
-        "artist": "Radical Face",
-        "video": "https://youtube.com/watch?v=eu3ngobMr2c",
-        "palette": [
-            [120, 86, 64],
-            [196, 163, 126],
-            [163, 124, 95],
-            [188, 164, 124]
-        ]
-    },
-    {
-        "id": "Paul-Simon-You-Can-Call-Me-Al",
-        "title": "You Can Call Me Al",
-        "artist": "Paul Simon",
-        "video": "https://youtube.com/watch?v=uq-gYOrU8bA",
-        "palette": [
-            [73, 52, 43],
-            [212, 68, 40],
-            [176, 139, 86],
-            [202, 194, 174]
-        ]
-    },
-    {
-        "id": "I-Cani-Aspeger",
+        "id": "i-cani-aspeger",
         "title": "Aspeger",
         "artist": "I Cani",
         "video": "https://youtube.com/watch?v=KE-oeZdgoeY",
         "palette": [
-            [44, 68, 30],
+            [55, 93, 44],
             [116, 252, 4],
             [69, 151, 2],
             [69, 151, 2]
         ]
     },
     {
-        "id": "Gazebo-Penguins-Wes-Anderson",
+        "id": "the-japanese-popstars-let-go",
+        "title": "Let Go",
+        "artist": "The Japanese Popstars",
+        "video": "https://youtube.com/watch?v=LQ_LUoLTKLo",
+        "palette": [
+            [47, 77, 88],
+            [185, 118, 51],
+            [160, 126, 96],
+            [212, 203, 171]
+        ]
+    },
+    {
+        "id": "massive-attack-paradise-circus",
+        "title": "Paradise Circus",
+        "artist": "Massive Attack",
+        "video": "https://youtube.com/watch?v=jEgX64n3T7g",
+        "palette": [
+            [90, 59, 49],
+            [252, 140, 4],
+            [116, 108, 148],
+            [177, 169, 198]
+        ]
+    },
+    {
+        "id": "gazebo-penguins-wes-anderson",
         "title": "Wes Anderson",
         "artist": "Gazebo Penguins",
         "video": "https://youtube.com/watch?v=gW3ockZmKqg",
         "palette": [
-            [52, 76, 36],
+            [48, 76, 36],
             [116, 252, 4],
-            [69, 151, 2],
-            [69, 151, 2]
+            [68, 108, 52],
+            [130, 130, 23]
         ]
     },
     {
-        "id": "Lo-Stato-Sociale-Abbiamo-vinto-la-guerra",
-        "title": "Abbiamo vinto la guerra",
-        "artist": "Lo Stato Sociale",
-        "video": "https://youtube.com/watch?v=ikQRbv5R5J8",
+        "id": "florence-the-machine-what-the-water-gave-me-jamie-jones-edit",
+        "title": "What The Water Gave Me - Jamie Jones Edit",
+        "artist": "Florence + the Machine",
+        "video": "https://youtube.com/watch?v=am6rArVPip8",
         "palette": [
-            [81, 65, 53],
-            [162, 49, 41],
-            [136, 109, 93],
-            [208, 192, 167]
+            [71, 56, 47],
+            [173, 90, 76],
+            [148, 121, 96],
+            [183, 201, 217]
         ]
     },
     {
-        "id": "The-Duke-Spirit-The-Step-And-The-Walk",
+        "id": "radical-face-always-gold-short-attention-span-mix",
+        "title": "Always Gold - Short Attention Span Mix",
+        "artist": "Radical Face",
+        "video": "https://youtube.com/watch?v=eu3ngobMr2c",
+        "palette": [
+            [96, 66, 47],
+            [196, 163, 125],
+            [163, 124, 94],
+            [187, 164, 123]
+        ]
+    },
+    {
+        "id": "paul-simon-you-can-call-me-al",
+        "title": "You Can Call Me Al",
+        "artist": "Paul Simon",
+        "video": "https://youtube.com/watch?v=uq-gYOrU8bA",
+        "palette": [
+            [83, 60, 51],
+            [212, 76, 52],
+            [179, 140, 85],
+            [201, 194, 174]
+        ]
+    },
+    {
+        "id": "the-duke-spirit-the-step-and-the-walk",
         "title": "The Step And The Walk",
         "artist": "The Duke Spirit",
         "video": "https://youtube.com/watch?v=aGAA1ws2bc0",
         "palette": [
-            [73, 41, 36],
-            [60, 156, 203],
-            [164, 104, 92],
-            [201, 175, 154]
+            [82, 65, 58],
+            [57, 156, 201],
+            [156, 92, 84],
+            [204, 196, 164]
         ]
     },
     {
-        "id": "Gotye-Eyes-Wide-Open",
+        "id": "gotye-eyes-wide-open",
         "title": "Eyes Wide Open",
         "artist": "Gotye",
         "video": "https://youtube.com/watch?v=oyVJsg0XIIk",
         "palette": [
-            [68, 44, 42],
-            [209, 118, 36],
-            [126, 136, 87],
-            [204, 196, 165]
+            [69, 44, 42],
+            [204, 116, 28],
+            [125, 136, 86],
+            [203, 197, 165]
         ]
     },
     {
-        "id": "TV-on-the-Radio-DLZ",
-        "title": "DLZ",
-        "artist": "TV on the Radio",
-        "video": "https://youtube.com/watch?v=J42KRAmzAls",
-        "palette": [
-            [52, 72, 92],
-            [28, 92, 156],
-            [103, 136, 174],
-            [119, 158, 194]
-        ]
-    },
-    {
-        "id": "Crystal-Fighters-Follow",
-        "title": "Follow",
-        "artist": "Crystal Fighters",
-        "video": "https://youtube.com/watch?v=d9n7DMqbwgU",
-        "palette": [
-            [74, 67, 55],
-            [191, 66, 57],
-            [139, 130, 84],
-            [178, 203, 211]
-        ]
-    },
-    {
-        "id": "Afterhours-Terra-di-nessuno",
+        "id": "afterhours-terra-di-nessuno",
         "title": "Terra di nessuno",
         "artist": "Afterhours",
         "video": "https://youtube.com/watch?v=bT646NJ9u3g",
         "palette": [
-            [47, 56, 72],
-            [132, 140, 204],
-            [110, 126, 168],
-            [167, 184, 213]
+            [58, 69, 90],
+            [144, 160, 203],
+            [112, 128, 171],
+            [168, 184, 213]
         ]
     },
     {
-        "id": "The-xx-VCR",
+        "id": "tv-on-the-radio-dlz",
+        "title": "DLZ",
+        "artist": "TV on the Radio",
+        "video": "https://youtube.com/watch?v=qJlGXlNgtok",
+        "palette": [
+            [52, 68, 92],
+            [36, 84, 148],
+            [95, 129, 166],
+            [125, 155, 190]
+        ]
+    },
+    {
+        "id": "crystal-fighters-follow",
+        "title": "Follow",
+        "artist": "Crystal Fighters",
+        "video": "https://youtube.com/watch?v=d9n7DMqbwgU",
+        "palette": [
+            [75, 67, 50],
+            [189, 73, 62],
+            [146, 138, 84],
+            [178, 204, 211]
+        ]
+    },
+    {
+        "id": "the-xx-vcr",
         "title": "VCR",
         "artist": "The xx",
         "video": "https://youtube.com/watch?v=gI2eO_mNM88",
         "palette": [
-            [44, 44, 44],
+            [52, 52, 52],
             [128, 128, 128],
-            [148, 148, 148],
-            [166, 166, 166]
+            [140, 140, 140],
+            [172, 172, 172]
         ]
     },
     {
-        "id": "The-Lumineers-Ho-Hey",
+        "id": "the-lumineers-ho-hey",
         "title": "Ho Hey",
         "artist": "The Lumineers",
         "video": "https://youtube.com/watch?v=zvCBSSwgtg4",
         "palette": [
-            [70, 39, 44],
-            [191, 64, 64],
-            [140, 116, 116],
-            [208, 196, 187]
+            [73, 44, 44],
+            [180, 75, 135],
+            [142, 116, 116],
+            [208, 199, 188]
         ]
     },
     {
-        "id": "Everything-Hooch",
+        "id": "everything-hooch",
         "title": "Hooch",
         "artist": "Everything",
         "video": "https://youtube.com/watch?v=y_lXZzBr2pg",
         "palette": [
-            [49, 81, 57],
-            [231, 31, 44],
-            [148, 122, 94],
-            [208, 189, 179]
+            [50, 81, 57],
+            [164, 37, 60],
+            [148, 123, 94],
+            [208, 189, 178]
         ]
     },
     {
-        "id": "Ultimo-Attuale-Corpo-Sonoro-Empirismo-Eretico",
+        "id": "ultimo-attuale-corpo-sonoro-empirismo-eretico",
         "title": "Empirismo Eretico",
         "artist": "Ultimo Attuale Corpo Sonoro",
-        "video": "https://youtube.com/watch?v=AvevOg1Xm_I",
+        "video": "https://youtube.com/watch?v=LB2aSNJ_6Ao",
         "palette": [
-            [80, 73, 77],
-            [134, 121, 128],
-            [132, 124, 125],
-            [186, 179, 183]
+            [87, 66, 77],
+            [145, 110, 128],
+            [133, 128, 129],
+            [204, 188, 196]
         ]
     },
     {
-        "id": "Menomena-Musclen-Flo",
+        "id": "menomena-musclen-flo",
         "title": "Muscle'n Flo",
         "artist": "Menomena",
-        "video": "https://youtube.com/watch?v=crvv47_MTK0",
+        "video": "https://youtube.com/watch?v=6jvMdFql18U",
         "palette": [
-            [52, 108, 84],
-            [217, 180, 31],
-            [177, 158, 92],
-            [196, 187, 187]
+            [44, 90, 100],
+            [215, 180, 33],
+            [174, 158, 92],
+            [193, 186, 186]
         ]
     }
 ]

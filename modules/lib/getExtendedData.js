@@ -25,9 +25,9 @@ module.exports = async filtered => {
     ]);
     const { img, ...rest } = item;
     filtered[i] = {
+      id,
       ...rest,
       video,
-      id,
       palette,
     };
     videoArea.close();

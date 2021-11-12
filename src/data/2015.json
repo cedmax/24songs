@@ -1,236 +1,236 @@
 [
     {
-        "id": "Phoenix-Love-Like-a-Sunset-Part-I",
-        "title": "Love Like a Sunset Part I",
-        "artist": "Phoenix",
-        "video": "https://youtube.com/watch?v=MpQWNokkyCc",
+        "id": "kate-tempest-lonely-daze",
+        "title": "Lonely Daze",
+        "artist": "Kate Tempest",
+        "video": "https://youtube.com/watch?v=7BQBOUnF0So",
         "palette": [
-            [82, 60, 69],
-            [235, 12, 52],
-            [159, 119, 129],
-            [212, 164, 172]
+            [104, 73, 60],
+            [244, 180, 68],
+            [167, 121, 106],
+            [204, 219, 225]
         ]
     },
     {
-        "id": "Caught-a-Ghost-Time-Go",
-        "title": "Time Go",
-        "artist": "Caught a Ghost",
-        "video": "https://youtube.com/watch?v=f_LqBYI10fM",
+        "id": "crystal-fighters-you-and-i",
+        "title": "You & I",
+        "artist": "Crystal Fighters",
+        "video": "https://youtube.com/watch?v=mxk24nL7xQY",
         "palette": [
-            [36, 52, 70],
-            [140, 60, 60],
-            [104, 135, 155],
-            [204, 164, 156]
+            [64, 62, 62],
+            [184, 68, 84],
+            [156, 180, 88],
+            [172, 204, 180]
         ]
     },
     {
-        "id": "Typhoon-Young-Fathers",
-        "title": "Young Fathers",
-        "artist": "Typhoon",
-        "video": "https://youtube.com/watch?v=Cg4c0RA2DJQ",
-        "palette": [
-            [69, 66, 62],
-            [249, 22, 5],
-            [191, 167, 155],
-            [188, 188, 185]
-        ]
-    },
-    {
-        "id": "Sufjan-Stevens-Should-Have-Known-Better",
-        "title": "Should Have Known Better",
-        "artist": "Sufjan Stevens",
-        "video": "https://youtube.com/watch?v=lJJT00wqlOo",
-        "palette": [
-            [53, 73, 86],
-            [159, 149, 96],
-            [164, 116, 96],
-            [196, 190, 157]
-        ]
-    },
-    {
-        "id": "The-Slow-Show-Dresden",
-        "title": "Dresden",
-        "artist": "The Slow Show",
-        "video": "https://youtube.com/watch?v=RXRu64GFu2Y",
-        "palette": [
-            [60, 63, 65],
-            [64, 64, 191],
-            [110, 114, 116],
-            [178, 181, 181]
-        ]
-    },
-    {
-        "id": "Mother-Mother-Ghosting",
-        "title": "Ghosting",
-        "artist": "Mother Mother",
-        "video": "https://youtube.com/watch?v=tlAiq0_BXac",
-        "palette": [
-            [76, 68, 67],
-            [209, 31, 33],
-            [133, 125, 123],
-            [197, 188, 180]
-        ]
-    },
-    {
-        "id": "The-National-I-Need-My-Girl",
+        "id": "the-national-i-need-my-girl",
         "title": "I Need My Girl",
         "artist": "The National",
         "video": "https://youtube.com/watch?v=A-Tod1_tZdU",
         "palette": [
-            [66, 61, 57],
-            [131, 128, 124],
-            [140, 137, 134],
-            [186, 184, 182]
+            [67, 62, 57],
+            [132, 128, 123],
+            [140, 137, 133],
+            [186, 184, 181]
         ]
     },
     {
-        "id": "Page-France-Give-Him-A-Blanket",
-        "title": "Give Him A Blanket",
-        "artist": "Page France",
-        "video": "https://youtube.com/watch?v=vP4BHSff4tA",
-        "palette": [
-            [60, 60, 52],
-            [235, 181, 20],
-            [136, 136, 135],
-            [205, 204, 180]
-        ]
-    },
-    {
-        "id": "Raury-Gods-Whisper",
+        "id": "raury-gods-whisper",
         "title": "God's Whisper",
         "artist": "Raury",
         "video": "https://youtube.com/watch?v=Bh1XRH4HrOY",
         "palette": [
-            [53, 66, 97],
+            [58, 70, 95],
             [44, 92, 244],
-            [174, 140, 89],
-            [179, 177, 151]
+            [178, 140, 85],
+            [178, 177, 152]
         ]
     },
     {
-        "id": "Ibeyi-River",
-        "title": "River",
-        "artist": "Ibeyi",
-        "video": "https://youtube.com/watch?v=lHRAPIwsS5I",
+        "id": "american-wrestlers-theres-no-one-crying-over-me-either",
+        "title": "There's No One Crying Over Me Either",
+        "artist": "American Wrestlers",
+        "video": "https://youtube.com/watch?v=soj_DVBY9-U",
         "palette": [
-            [68, 60, 68],
+            [68, 62, 63],
+            [132, 44, 91],
+            [166, 95, 106],
+            [169, 180, 185]
+        ]
+    },
+    {
+        "id": "ibeyi-ghosts",
+        "title": "Ghosts",
+        "artist": "Ibeyi",
+        "video": "https://youtube.com/watch?v=ZlAX-QrpiOE",
+        "palette": [
+            [72, 71, 71],
             [128, 127, 127],
             [132, 124, 124],
             [176, 175, 175]
         ]
     },
     {
-        "id": "Fyfe-Solace",
+        "id": "sufjan-stevens-should-have-known-better",
+        "title": "Should Have Known Better",
+        "artist": "Sufjan Stevens",
+        "video": "https://youtube.com/watch?v=lJJT00wqlOo",
+        "palette": [
+            [52, 73, 86],
+            [159, 150, 96],
+            [164, 116, 97],
+            [196, 191, 158]
+        ]
+    },
+    {
+        "id": "fyfe-solace",
         "title": "Solace",
         "artist": "Fyfe",
         "video": "https://youtube.com/watch?v=oLGnR0UldCM",
         "palette": [
-            [52, 75, 91],
-            [225, 146, 25],
-            [165, 163, 100],
-            [143, 185, 203]
+            [53, 76, 93],
+            [216, 138, 24],
+            [76, 93, 144],
+            [146, 186, 203]
         ]
     },
     {
-        "id": "American-Wrestlers-Theres-No-One-Crying-Over-Me-Either",
-        "title": "There's No One Crying Over Me Either",
-        "artist": "American Wrestlers",
-        "video": "https://youtube.com/watch?v=soj_DVBY9-U",
+        "id": "the-bohicas-swarm",
+        "title": "Swarm",
+        "artist": "The Bohicas",
+        "video": "https://youtube.com/watch?v=_TLW6LGALRM",
         "palette": [
-            [68, 59, 62],
-            [174, 20, 116],
-            [172, 148, 92],
-            [186, 193, 200]
+            [76, 72, 60],
+            [240, 203, 35],
+            [149, 138, 86],
+            [120, 107, 33]
         ]
     },
     {
-        "id": "Wolf-Parade-Modern-World",
-        "title": "Modern World",
-        "artist": "Wolf Parade",
-        "video": "https://youtube.com/watch?v=6tTgqxkocf8",
+        "id": "young-fathers-soon-come-soon",
+        "title": "Soon Come Soon",
+        "artist": "Young Fathers",
+        "video": "https://youtube.com/watch?v=t2lKIhBPv7U",
         "palette": [
-            [106, 47, 62],
-            [204, 140, 156],
-            [130, 111, 135],
-            [185, 185, 202]
+            [44, 44, 84],
+            [77, 111, 179],
+            [103, 108, 148],
+            [196, 175, 200]
         ]
     },
     {
-        "id": "Gang-of-Youths-Radioface",
-        "title": "Radioface",
-        "artist": "Gang of Youths",
-        "video": "https://youtube.com/watch?v=Jqt1z4I6pXs",
-        "palette": [
-            [105, 67, 54],
-            [173, 124, 80],
-            [149, 104, 71],
-            [207, 183, 168]
-        ]
-    },
-    {
-        "id": "Sia-Chandelier",
+        "id": "sia-chandelier",
         "title": "Chandelier",
         "artist": "Sia",
         "video": "https://youtube.com/watch?v=2vjPBrBU-TM",
         "palette": [
             [84, 80, 60],
             [212, 188, 132],
-            [140, 132, 91],
+            [152, 144, 116],
             [205, 197, 153]
         ]
     },
     {
-        "id": "Mammut-Salt",
+        "id": "johnny-cash-i-see-a-darkness",
+        "title": "I See a Darkness",
+        "artist": "Johnny Cash",
+        "video": "https://youtube.com/watch?v=JWnUItw1ElU",
+        "palette": [
+            [68, 60, 52],
+            [146, 123, 109],
+            [132, 116, 108],
+            [199, 187, 180]
+        ]
+    },
+    {
+        "id": "gang-of-youths-radioface",
+        "title": "Radioface",
+        "artist": "Gang of Youths",
+        "video": "https://youtube.com/watch?v=Jqt1z4I6pXs",
+        "palette": [
+            [105, 66, 53],
+            [173, 124, 80],
+            [149, 104, 71],
+            [209, 188, 173]
+        ]
+    },
+    {
+        "id": "wolf-parade-modern-world",
+        "title": "Modern World",
+        "artist": "Wolf Parade",
+        "video": "https://youtube.com/watch?v=6tTgqxkocf8",
+        "palette": [
+            [111, 42, 77],
+            [186, 69, 128],
+            [131, 109, 134],
+            [184, 188, 203]
+        ]
+    },
+    {
+        "id": "the-slow-show-dresden",
+        "title": "Dresden",
+        "artist": "The Slow Show",
+        "video": "https://youtube.com/watch?v=RXRu64GFu2Y",
+        "palette": [
+            [60, 63, 65],
+            [64, 64, 191],
+            [128, 129, 131],
+            [185, 188, 188]
+        ]
+    },
+    {
+        "id": "mother-mother-ghosting",
+        "title": "Ghosting",
+        "artist": "Mother Mother",
+        "video": "https://youtube.com/watch?v=up-2o-yAADc",
+        "palette": [
+            [64, 62, 61],
+            [211, 31, 32],
+            [141, 133, 131],
+            [201, 184, 183]
+        ]
+    },
+    {
+        "id": "mammut-salt",
         "title": "Salt",
         "artist": "Mammút",
         "video": "https://youtube.com/watch?v=AmybHuVIw8U",
         "palette": [
-            [55, 55, 71],
-            [82, 90, 173],
-            [130, 137, 158],
-            [167, 176, 197]
+            [58, 60, 73],
+            [76, 90, 179],
+            [124, 130, 150],
+            [165, 176, 196]
         ]
     },
     {
-        "id": "Crystal-Fighters-You-and-I",
-        "title": "You & I",
-        "artist": "Crystal Fighters",
-        "video": "https://youtube.com/watch?v=mxk24nL7xQY",
-        "palette": [
-            [64, 62, 62],
-            [172, 60, 68],
-            [152, 172, 92],
-            [172, 196, 180]
-        ]
-    },
-    {
-        "id": "Cut-Copy-So-Haunted",
+        "id": "cut-copy-so-haunted",
         "title": "So Haunted",
         "artist": "Cut Copy",
         "video": "https://youtube.com/watch?v=HJzE34OqiCc",
         "palette": [
-            [100, 56, 59],
-            [229, 231, 24],
-            [125, 69, 156],
-            [182, 152, 201]
+            [100, 59, 60],
+            [229, 231, 23],
+            [125, 67, 155],
+            [181, 152, 199]
         ]
     },
     {
-        "id": "Fred-Thomas-Bad-Blood",
+        "id": "fred-thomas-bad-blood",
         "title": "Bad Blood",
         "artist": "Fred Thomas",
         "video": "https://youtube.com/watch?v=peGp828NnGs",
         "palette": [
-            [64, 100, 114],
-            [183, 127, 78],
-            [153, 113, 83],
-            [210, 204, 168]
+            [85, 117, 116],
+            [184, 129, 78],
+            [182, 160, 133],
+            [198, 183, 166]
         ]
     },
     {
-        "id": "Love-a-100000-Stuhle-leer",
+        "id": "love-a-100000-stuhle-leer",
         "title": "100.000 Stühle leer",
-        "artist": "Love a",
+        "artist": "Love A",
         "video": "https://youtube.com/watch?v=jkGwyTIDp-U",
         "palette": [
             [68, 68, 68],
@@ -240,19 +240,19 @@
         ]
     },
     {
-        "id": "I-Cani-Storia-Di-Un-Impiegato",
+        "id": "i-cani-storia-di-un-impiegato",
         "title": "Storia Di Un Impiegato",
         "artist": "I Cani",
         "video": "https://youtube.com/watch?v=bHxiUOw4YY0",
         "palette": [
-            [66, 67, 61],
-            [218, 53, 136],
-            [128, 127, 147],
-            [202, 178, 204]
+            [65, 67, 61],
+            [218, 53, 135],
+            [180, 100, 140],
+            [206, 157, 190]
         ]
     },
     {
-        "id": "Virginiana-Miller-Lettera-di-San-Paolo-agli-operai",
+        "id": "virginiana-miller-lettera-di-san-paolo-agli-operai",
         "title": "Lettera di San Paolo agli operai",
         "artist": "Virginiana Miller",
         "video": "https://youtube.com/watch?v=zUVFCkhIQBk",
@@ -264,27 +264,27 @@
         ]
     },
     {
-        "id": "Astronautalis-The-Unfortunate-Affairs-Of-Mary-And-Earl",
+        "id": "astronautalis-the-unfortunate-affairs-of-mary-and-earl",
         "title": "The Unfortunate Affairs Of Mary And Earl",
         "artist": "Astronautalis",
         "video": "https://youtube.com/watch?v=y-6w7jdGwnc",
         "palette": [
-            [64, 50, 44],
-            [180, 156, 60],
-            [128, 116, 116],
-            [197, 194, 179]
+            [68, 57, 56],
+            [180, 162, 60],
+            [148, 172, 76],
+            [197, 195, 179]
         ]
     },
     {
-        "id": "Murubutu-Introduzione",
+        "id": "murubutu-i-marinai-tornano-tardi",
         "title": "I marinai tornano tardi",
         "artist": "Murubutu",
         "video": "https://youtube.com/watch?v=0SVj2NNWjn4",
         "palette": [
-            [60, 70, 74],
-            [188, 124, 100],
-            [158, 90, 77],
-            [187, 196, 196]
+            [60, 70, 73],
+            [158, 91, 76],
+            [116, 135, 140],
+            [186, 196, 195]
         ]
     }
 ]

@@ -1,290 +1,290 @@
 [
     {
-        "id": "65daysofstatic-Mountainhead",
-        "title": "Mountainhead",
-        "artist": "65daysofstatic",
-        "video": "https://youtube.com/watch?v=Adz32EMA_M8",
+        "id": "reel-big-fish-a-little-doubt-goes-a-long-way",
+        "title": "A Little Doubt Goes a Long Way",
+        "artist": "Reel Big Fish",
+        "video": "https://youtube.com/watch?v=aLDgVieHIOM",
         "palette": [
-            [41, 44, 76],
-            [228, 108, 92],
-            [184, 148, 96],
-            [204, 193, 181]
+            [120, 65, 64],
+            [244, 228, 76],
+            [158, 122, 94],
+            [197, 173, 149]
         ]
     },
     {
-        "id": "Why-A-Little-Titanic",
-        "title": "A Little Titanic",
-        "artist": "Why?",
-        "video": "https://youtube.com/watch?v=AjMlAOHwUCE",
+        "id": "motel-motel-harlem",
+        "title": "Harlem",
+        "artist": "Motel Motel",
+        "video": "https://youtube.com/watch?v=VLEra4UUL_A",
         "palette": [
-            [24, 20, 35],
-            [27, 134, 225],
-            [84, 108, 150],
-            [9, 70, 144]
+            [112, 59, 52],
+            [188, 124, 108],
+            [180, 132, 100],
+            [180, 132, 108]
         ]
     },
     {
-        "id": "Unbelievable-Truth-Ciao-My-Shining-Star",
+        "id": "michael-stipe-everythings-coming-undone",
+        "title": "Everything's Coming Undone",
+        "artist": "Michael Stipe",
+        "video": "https://youtube.com/watch?v=Badw6kyDj8w",
+        "palette": [
+            [44, 51, 39],
+            [173, 192, 118],
+            [145, 161, 104],
+            [178, 195, 153]
+        ]
+    },
+    {
+        "id": "ida-maria-see-me-through",
+        "title": "See Me Through",
+        "artist": "Ida Maria",
+        "video": "https://youtube.com/watch?v=o_OdaQ5rT7E",
+        "palette": [
+            [74, 61, 54],
+            [153, 53, 40],
+            [79, 116, 142],
+            [201, 174, 168]
+        ]
+    },
+    {
+        "id": "giardini-di-miro-la-cenere-1",
+        "title": "LA CENERE 1",
+        "artist": "Giardini di Mirò",
+        "video": "https://youtube.com/watch?v=zrjR108hT04",
+        "palette": [
+            [95, 73, 46],
+            [228, 180, 92],
+            [164, 140, 92],
+            [150, 93, 3]
+        ]
+    },
+    {
+        "id": "dinosaur-jr-the-backyard",
+        "title": "The Backyard",
+        "artist": "Dinosaur Jr.",
+        "video": "https://youtube.com/watch?v=WO6Lk1TYrOE",
+        "palette": [
+            [44, 51, 39],
+            [173, 192, 118],
+            [145, 161, 104],
+            [178, 195, 153]
+        ]
+    },
+    {
+        "id": "david-berkeley-loves-the-only-thing-that-shuts-me-up",
+        "title": "Love's The Only Thing That Shuts Me Up",
+        "artist": "David Berkeley",
+        "video": "https://youtube.com/watch?v=v1URbJ1maMg",
+        "palette": [
+            [44, 51, 39],
+            [173, 192, 118],
+            [145, 161, 105],
+            [188, 212, 220]
+        ]
+    },
+    {
+        "id": "ben-kweller-wake-up-whispering",
+        "title": "Wake Up Whispering",
+        "artist": "Ben Kweller",
+        "video": "https://youtube.com/watch?v=R01CVFRMAH4",
+        "palette": [
+            [45, 52, 40],
+            [173, 192, 118],
+            [145, 161, 106],
+            [196, 203, 164]
+        ]
+    },
+    {
+        "id": "unbelievable-truth-ciao-my-shining-star",
         "title": "Ciao My Shining Star",
         "artist": "Unbelievable Truth",
-        "video": "https://bandcamp.com/EmbeddedPlayer/album=4056348522/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/track=1268793867/transparent=true/autoplay=1/",
+        "video": "https://youtube.com/watch?v=j7ZzehpZEJo",
         "palette": [
-            [47, 53, 41],
-            [174, 193, 118],
-            [144, 161, 104],
-            [196, 203, 174]
+            [44, 51, 39],
+            [173, 192, 118],
+            [145, 161, 104],
+            [178, 195, 153]
         ]
     },
     {
-        "id": "NOFX-Day-To-Daze",
-        "title": "Day To Daze",
-        "artist": "NOFX",
-        "video": "https://youtube.com/watch?v=kUnUXHDtUFU",
+        "id": "rocket-from-the-tombs-in-pursuit-of-your-happiness",
+        "title": "In Pursuit Of Your Happiness",
+        "artist": "Rocket From The Tombs",
+        "video": "https://youtube.com/watch?v=q4rWm2LE5Dc",
         "palette": [
-            [76, 68, 53],
-            [132, 228, 6],
-            [150, 137, 108],
-            [212, 198, 161]
+            [44, 51, 39],
+            [173, 192, 118],
+            [145, 161, 104],
+            [178, 195, 153]
         ]
     },
     {
-        "id": "Jonsi-Boy-Lilikoi",
+        "id": "jonsi-boy-lilikoi",
         "title": "Boy Lilikoi",
         "artist": "Jónsi",
-        "video": "https://youtube.com/watch?v=oKs7NHAO4nI",
+        "video": "https://youtube.com/watch?v=ewnKlbZGrrM",
         "palette": [
-            [100, 72, 61],
-            [204, 109, 80],
+            [52, 40, 37],
+            [204, 107, 76],
             [172, 141, 78],
             [212, 204, 164]
         ]
     },
     {
-        "id": "Girls-In-The-Eighties-Yesterdays-Dont-Mean-Shit",
+        "id": "girls-in-the-eighties-yesterdays-dont-mean-shit",
         "title": "Yesterdays Don't Mean Shit",
         "artist": "Girls In The Eighties",
         "video": "https://youtube.com/watch?v=TJzyLxSzO4A",
         "palette": [
             [73, 79, 53],
-            [39, 186, 209],
-            [99, 158, 168],
-            [192, 213, 221]
+            [32, 184, 205],
+            [97, 159, 168],
+            [159, 190, 203]
         ]
     },
     {
-        "id": "Giardini-di-Miro-LA-CENERE-1",
-        "title": "LA CENERE 1",
-        "artist": "Giardini di Mirò",
-        "video": "https://youtube.com/watch?v=zrjR108hT04",
-        "palette": [
-            [104, 83, 60],
-            [228, 180, 92],
-            [163, 132, 78],
-            [147, 94, 6]
-        ]
-    },
-    {
-        "id": "CarbonSilicon-Fresh-Start",
+        "id": "carbonsilicon-fresh-start",
         "title": "Fresh Start",
         "artist": "Carbon/Silicon",
         "video": "https://youtube.com/watch?v=coJgSXvmEFw",
         "palette": [
-            [38, 84, 68],
-            [236, 18, 76],
-            [179, 124, 174],
-            [228, 221, 236]
+            [36, 76, 60],
+            [236, 17, 75],
+            [134, 129, 137],
+            [229, 222, 237]
         ]
     },
     {
-        "id": "Calibro-35-Luomo-dagli-occhi-di-ghiaccio",
-        "title": "L'uomo dagli occhi di ghiaccio",
-        "artist": "Calibro 35",
-        "video": "https://youtube.com/watch?v=ERWqORtWtjI",
-        "palette": [
-            [86, 76, 44],
-            [201, 160, 54],
-            [191, 164, 107],
-            [196, 178, 147]
-        ]
-    },
-    {
-        "id": "Bomb-the-Music-Industry-Everybody-That-You-Love",
-        "title": "Everybody That You Love",
-        "artist": "Bomb the Music Industry!",
-        "video": "https://youtube.com/watch?v=Ass-JUyWFfs",
-        "palette": [
-            [118, 72, 35],
-            [241, 191, 58],
-            [143, 107, 10],
-            [148, 101, 5]
-        ]
-    },
-    {
-        "id": "Owen-Pallett-Lewis-Takes-Off-His-Shirt",
-        "title": "Lewis Takes Off His Shirt",
-        "artist": "Owen Pallett",
-        "video": "https://youtube.com/watch?v=7G-cqAehehA",
-        "palette": [
-            [138, 25, 15],
-            [234, 75, 61],
-            [138, 25, 15],
-            [228, 212, 205]
-        ]
-    },
-    {
-        "id": "Michael-Stipe-Everythings-Coming-Undone",
-        "title": "Everything's Coming Undone",
-        "artist": "Michael Stipe",
-        "video": "https://youtube.com/watch?v=Badw6kyDj8w",
-        "palette": [
-            [47, 53, 41],
-            [174, 193, 118],
-            [144, 161, 104],
-            [196, 203, 174]
-        ]
-    },
-    {
-        "id": "Local-Natives-Cubism-Dream",
-        "title": "Cubism Dream",
-        "artist": "Local Natives",
-        "video": "https://youtube.com/watch?v=26DrYvoviPo",
-        "palette": [
-            [87, 70, 67],
-            [187, 162, 110],
-            [143, 125, 114],
-            [214, 196, 168]
-        ]
-    },
-    {
-        "id": "Ben-Kweller-Wake-Up-Whispering",
-        "title": "Wake Up Whispering",
-        "artist": "Ben Kweller",
-        "video": "https://youtube.com/watch?v=R01CVFRMAH4",
-        "palette": [
-            [47, 53, 41],
-            [174, 193, 118],
-            [144, 161, 104],
-            [196, 203, 174]
-        ]
-    },
-    {
-        "id": "The-Zen-Circus-Andate-tutti-affanculo",
+        "id": "the-zen-circus-andate-tutti-affanculo",
         "title": "Andate tutti affanculo",
         "artist": "The Zen Circus",
         "video": "https://youtube.com/watch?v=KPQFXPyALr8",
         "palette": [
             [93, 54, 68],
-            [210, 120, 71],
-            [173, 164, 106],
-            [196, 197, 143]
+            [209, 120, 71],
+            [173, 163, 106],
+            [196, 196, 144]
         ]
     },
     {
-        "id": "Rocket-From-The-Tombs-In-Pursuit-Of-Your-Happiness",
-        "title": "In Pursuit Of Your Happiness",
-        "artist": "Rocket From The Tombs",
-        "video": "https://youtube.com/watch?v=q4rWm2LE5Dc",
+        "id": "danger-mouse-and-sparklehorse-insane-lullaby-featuring-james-mercer",
+        "title": "Insane Lullaby (featuring James Mercer)",
+        "artist": "Danger Mouse and Sparklehorse",
+        "video": "https://youtube.com/watch?v=droHzYw93EE",
         "palette": [
-            [47, 53, 41],
-            [174, 193, 118],
-            [144, 161, 104],
-            [196, 203, 174]
+            [81, 76, 44],
+            [183, 104, 75],
+            [168, 131, 101],
+            [220, 212, 188]
         ]
     },
     {
-        "id": "Portugal-The-Man-60-Years",
+        "id": "bomb-the-music-industry-everybody-that-you-love",
+        "title": "Everybody That You Love",
+        "artist": "Bomb the Music Industry!",
+        "video": "https://youtube.com/watch?v=Ass-JUyWFfs",
+        "palette": [
+            [118, 73, 35],
+            [239, 191, 56],
+            [142, 107, 11],
+            [148, 102, 5]
+        ]
+    },
+    {
+        "id": "owen-pallett-lewis-takes-off-his-shirt",
+        "title": "Lewis Takes Off His Shirt",
+        "artist": "Owen Pallett",
+        "video": "https://youtube.com/watch?v=7G-cqAehehA",
+        "palette": [
+            [137, 26, 16],
+            [233, 78, 64],
+            [137, 26, 16],
+            [220, 190, 183]
+        ]
+    },
+    {
+        "id": "local-natives-cubism-dream",
+        "title": "Cubism Dream",
+        "artist": "Local Natives",
+        "video": "https://youtube.com/watch?v=26DrYvoviPo",
+        "palette": [
+            [88, 69, 65],
+            [188, 159, 109],
+            [143, 125, 112],
+            [212, 200, 168]
+        ]
+    },
+    {
+        "id": "portugal-the-man-60-years",
         "title": "60 Years",
         "artist": "Portugal. The Man",
         "video": "https://youtube.com/watch?v=Tg6W1Bm50e4",
         "palette": [
-            [60, 104, 52],
-            [92, 170, 217],
-            [84, 128, 161],
-            [188, 180, 184]
+            [56, 98, 52],
+            [90, 171, 218],
+            [82, 129, 162],
+            [188, 188, 188]
         ]
     },
     {
-        "id": "Enrico-Brizzi-and-Yuguerra-Rialzati-Bologna",
+        "id": "enrico-brizzi-and-yuguerra-rialzati-bologna",
         "title": "Rialzati Bologna",
         "artist": "Enrico Brizzi & Yuguerra!",
-        "video": "https://youtube.com/watch?v=C7L1qwBwQqM",
+        "video": "https://youtube.com/watch?v=XO5RAv6uu80",
         "palette": [
-            [88, 67, 47],
-            [23, 157, 213],
-            [168, 80, 76],
-            [159, 197, 202]
+            [88, 67, 46],
+            [23, 158, 212],
+            [68, 84, 140],
+            [159, 199, 205]
         ]
     },
     {
-        "id": "Assalti-Frontali-Enea-super-rap",
+        "id": "assalti-frontali-enea-super-rap",
         "title": "Enea super rap",
         "artist": "Assalti Frontali",
-        "video": "https://youtube.com/watch?v=syvAW_9jJro",
+        "video": "https://youtube.com/watch?v=B_tx3fVujr4",
         "palette": [
-            [140, 76, 84],
+            [140, 84, 84],
             [148, 10, 20],
-            [169, 92, 90],
-            [207, 169, 168]
+            [169, 93, 90],
+            [210, 176, 174]
         ]
     },
     {
-        "id": "Afterhours-Il-paese-e-reale",
-        "title": "Il paese è reale",
-        "artist": "Afterhours",
-        "video": "https://youtube.com/watch?v=m6_4eCBMFM8",
-        "palette": [
-            [65, 68, 64],
-            [78, 177, 177],
-            [123, 145, 143],
-            [178, 201, 204]
-        ]
-    },
-    {
-        "id": "Le-Luci-Della-Centrale-Elettrica-Cara-catastrofe",
+        "id": "le-luci-della-centrale-elettrica-cara-catastrofe",
         "title": "Cara catastrofe",
         "artist": "Le Luci Della Centrale Elettrica",
         "video": "https://youtube.com/watch?v=2Dnkc_-7tHo",
         "palette": [
-            [82, 67, 40],
-            [180, 140, 40],
-            [100, 140, 150],
-            [188, 187, 175]
+            [81, 68, 40],
+            [180, 140, 44],
+            [100, 140, 148],
+            [191, 180, 148]
         ]
     },
     {
-        "id": "Danger-Mouse-and-Sparklehorse-Revenge-Featuring-The-Flaming-Lips",
-        "title": "Revenge (Featuring The Flaming Lips)",
-        "artist": "Danger Mouse and Sparklehorse",
-        "video": "https://youtube.com/watch?v=E-86OH2JREQ",
-        "palette": [
-            [68, 68, 36],
-            [175, 175, 80],
-            [158, 142, 108],
-            [172, 172, 160]
-        ]
-    },
-    {
-        "id": "Oh-No-Oh-My-You-Were-Right",
+        "id": "oh-no-oh-my-you-were-right",
         "title": "You Were Right",
         "artist": "Oh No Oh My",
-        "video": "https://youtube.com/watch?v=WD0aeToz-fU",
+        "video": "https://youtube.com/watch?v=bttSp1wgd8s",
         "palette": [
-            [84, 74, 58],
-            [166, 38, 38],
-            [171, 154, 79],
-            [181, 185, 200]
+            [83, 74, 55],
+            [172, 38, 33],
+            [172, 156, 80],
+            [180, 184, 198]
         ]
     },
     {
-        "id": "Thom-Yorke-All-For-The-Best",
+        "id": "thom-yorke-all-for-the-best",
         "title": "All For The Best",
         "artist": "Thom Yorke",
-        "video": "https://youtube.com/watch?v=Yassj4iJK1k",
+        "video": "https://youtube.com/watch?v=Q-b2hEgZFCQ",
         "palette": [
-            [47, 53, 41],
-            [174, 193, 118],
-            [144, 161, 104],
-            [196, 203, 174]
+            [44, 51, 39],
+            [173, 192, 118],
+            [145, 161, 104],
+            [178, 195, 153]
         ]
     }
 ]

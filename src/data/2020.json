@@ -1,290 +1,290 @@
 [
     {
-        "id": "The-Halo-Benders-Dont-Touch-My-Bikini",
-        "title": "Don't Touch My Bikini",
-        "artist": "The Halo Benders",
-        "video": "https://youtube.com/watch?v=2WiTksgYm2g",
+        "id": "scott-lavene-broke",
+        "title": "Broke",
+        "artist": "Scott Lavene",
+        "video": "https://youtube.com/watch?v=PC4249OqUZU",
         "palette": [
-            [30, 27, 38],
-            [252, 98, 40],
-            [124, 125, 132],
-            [178, 169, 169]
+            [86, 51, 79],
+            [152, 59, 196],
+            [144, 112, 96],
+            [221, 205, 183]
         ]
     },
     {
-        "id": "Pedro-the-Lion-Big-Trucks",
+        "id": "le-butcherettes-spiderwaves-feat-jello-biafra",
+        "title": "spider/WAVES (feat. Jello Biafra)",
+        "artist": "Le Butcherettes",
+        "video": "https://youtube.com/watch?v=PNf8dH_NnRU",
+        "palette": [
+            [70, 60, 57],
+            [182, 43, 42],
+            [157, 120, 102],
+            [196, 160, 160]
+        ]
+    },
+    {
+        "id": "farin-urlaub-sumisu",
+        "title": "Sumisu",
+        "artist": "Farin Urlaub",
+        "video": "https://youtube.com/watch?v=q8CqrGDaIdc",
+        "palette": [
+            [50, 67, 76],
+            [84, 148, 180],
+            [165, 137, 89],
+            [164, 193, 211]
+        ]
+    },
+    {
+        "id": "brendan-kelly-and-the-wandering-birds-suffer-the-children,-come-unto-me",
+        "title": "Suffer the Children, Come Unto Me",
+        "artist": "Brendan Kelly and the Wandering Birds",
+        "video": "https://youtube.com/watch?v=dJu_2KfE9HY",
+        "palette": [
+            [53, 81, 98],
+            [230, 185, 66],
+            [94, 155, 168],
+            [196, 177, 147]
+        ]
+    },
+    {
+        "id": "bill-callahan-my-friend",
+        "title": "My Friend",
+        "artist": "Bill Callahan",
+        "video": "https://youtube.com/watch?v=1HYDZo8xOCg",
+        "palette": [
+            [46, 52, 69],
+            [229, 170, 26],
+            [139, 129, 113],
+            [209, 189, 171]
+        ]
+    },
+    {
+        "id": "ajj-heartilation",
+        "title": "Heartilation",
+        "artist": "AJJ",
+        "video": "https://youtube.com/watch?v=3xlwhku6Ss8",
+        "palette": [
+            [68, 60, 63],
+            [130, 125, 128],
+            [131, 124, 132],
+            [193, 191, 192]
+        ]
+    },
+    {
+        "id": "wipers-mystery",
+        "title": "Mystery",
+        "artist": "Wipers",
+        "video": "https://youtube.com/watch?v=3f_ZF_LGohc",
+        "palette": [
+            [84, 70, 49],
+            [228, 28, 38],
+            [176, 91, 94],
+            [213, 176, 178]
+        ]
+    },
+    {
+        "id": "superchunk-hyper-enough",
+        "title": "Hyper Enough",
+        "artist": "Superchunk",
+        "video": "https://youtube.com/watch?v=ba44JRAjpV4",
+        "palette": [
+            [63, 138, 106],
+            [168, 100, 62],
+            [88, 151, 120],
+            [194, 144, 183]
+        ]
+    },
+    {
+        "id": "petrol-girls-big-mouth",
+        "title": "Big Mouth",
+        "artist": "Petrol Girls",
+        "video": "https://youtube.com/watch?v=_umhHMYNYfQ",
+        "palette": [
+            [46, 52, 68],
+            [214, 193, 102],
+            [150, 120, 90],
+            [213, 206, 182]
+        ]
+    },
+    {
+        "id": "pedro-the-lion-big-trucks",
         "title": "Big Trucks",
         "artist": "Pedro the Lion",
         "video": "https://youtube.com/watch?v=OzWLZtMoJrs",
         "palette": [
             [68, 57, 67],
-            [120, 131, 135],
-            [126, 132, 137],
-            [192, 197, 199]
+            [122, 129, 133],
+            [126, 132, 138],
+            [194, 197, 199]
         ]
     },
     {
-        "id": "Brendan-Kelly-and-the-Wandering-Birds-Suffer-the-Children,-Come-Unto-Me",
-        "title": "Suffer the Children, Come Unto Me",
-        "artist": "Brendan Kelly and the Wandering Birds",
-        "video": "https://youtube.com/watch?v=dJu_2KfE9HY",
+        "id": "fugazi-bed-for-the-scraping",
+        "title": "Bed for the Scraping",
+        "artist": "Fugazi",
+        "video": "https://youtube.com/watch?v=OnOWW422Jyc",
         "palette": [
-            [60, 72, 78],
-            [233, 189, 70],
-            [91, 155, 167],
-            [212, 217, 190]
+            [74, 69, 40],
+            [204, 56, 47],
+            [158, 139, 96],
+            [168, 184, 159]
         ]
     },
     {
-        "id": "Wipers-Mystery",
-        "title": "Mystery",
-        "artist": "Wipers",
-        "video": "https://youtube.com/watch?v=3f_ZF_LGohc",
+        "id": "ezra-furman-unbelievers",
+        "title": "Unbelievers",
+        "artist": "Ezra Furman",
+        "video": "https://youtube.com/watch?v=S_4mpgivTyk",
         "palette": [
-            [60, 68, 76],
-            [252, 252, 44],
-            [177, 93, 101],
-            [186, 197, 199]
+            [48, 47, 72],
+            [215, 158, 40],
+            [144, 115, 99],
+            [212, 196, 172]
         ]
     },
     {
-        "id": "Le-Butcherettes-spiderWAVES-feat-Jello-Biafra",
-        "title": "spider/WAVES (feat. Jello Biafra)",
-        "artist": "Le Butcherettes",
-        "video": "https://youtube.com/watch?v=PNf8dH_NnRU",
+        "id": "the-halo-benders-dont-touch-my-bikini",
+        "title": "Don't Touch My Bikini",
+        "artist": "The Halo Benders",
+        "video": "https://youtube.com/watch?v=2WiTksgYm2g",
         "palette": [
-            [69, 51, 49],
-            [188, 45, 40],
-            [162, 111, 96],
-            [193, 171, 171]
+            [31, 28, 38],
+            [251, 98, 41],
+            [132, 129, 133],
+            [207, 182, 172]
         ]
     },
     {
-        "id": "Kiwi-jr-Murder-in-the-Cathedral",
-        "title": "Murder in the Cathedral",
-        "artist": "Kiwi jr.",
-        "video": "https://youtube.com/watch?v=LsC0GdN-ibc",
+        "id": "cold-wrecks-garbage-universe",
+        "title": "Garbage Universe",
+        "artist": "Cold Wrecks",
+        "video": "https://youtube.com/watch?v=b7h1NuCQGkE",
         "palette": [
-            [51, 51, 51],
-            [27, 162, 77],
-            [100, 180, 140],
-            [168, 211, 185]
+            [63, 83, 89],
+            [132, 186, 199],
+            [104, 140, 156],
+            [156, 198, 207]
         ]
     },
     {
-        "id": "Gezan-DNA",
+        "id": "one-hidden-frame-exploding-head-syndrome",
+        "title": "Exploding Head Syndrome",
+        "artist": "One Hidden Frame",
+        "video": "https://youtube.com/watch?v=UnuslE1UBZw",
+        "palette": [
+            [68, 52, 49],
+            [124, 124, 131],
+            [137, 130, 124],
+            [180, 180, 184]
+        ]
+    },
+    {
+        "id": "gezan-dna",
         "title": "DNA",
         "artist": "Gezan",
         "video": "https://youtube.com/watch?v=LeAXfBYbJz8",
         "palette": [
             [96, 54, 47],
             [228, 72, 47],
-            [176, 83, 90],
-            [133, 46, 20]
+            [176, 85, 95],
+            [181, 110, 100]
         ]
     },
     {
-        "id": "Fugazi-Bed-for-the-Scraping",
-        "title": "Bed for the Scraping",
-        "artist": "Fugazi",
-        "video": "https://youtube.com/watch?v=OnOWW422Jyc",
+        "id": "drive-like-jehu-luau",
+        "title": "Luau",
+        "artist": "Drive Like Jehu",
+        "video": "https://youtube.com/watch?v=Gcxxh1yewhM",
         "palette": [
-            [75, 71, 39],
-            [204, 49, 42],
-            [147, 149, 111],
-            [167, 184, 159]
+            [59, 60, 60],
+            [64, 191, 191],
+            [119, 120, 119],
+            [187, 188, 188]
         ]
     },
     {
-        "id": "Ezra-Furman-Unbelievers",
-        "title": "Unbelievers",
-        "artist": "Ezra Furman",
-        "video": "https://youtube.com/watch?v=S_4mpgivTyk",
-        "palette": [
-            [48, 48, 74],
-            [196, 124, 140],
-            [145, 116, 97],
-            [175, 171, 205]
-        ]
-    },
-    {
-        "id": "Cold-Wrecks-Garbage-Universe",
-        "title": "Garbage Universe",
-        "artist": "Cold Wrecks",
-        "video": "https://youtube.com/watch?v=b7h1NuCQGkE",
-        "palette": [
-            [58, 76, 84],
-            [132, 186, 199],
-            [101, 140, 156],
-            [175, 209, 217]
-        ]
-    },
-    {
-        "id": "Bill-Callahan-My-Friend",
-        "title": "My Friend",
-        "artist": "Bill Callahan",
-        "video": "https://youtube.com/watch?v=1HYDZo8xOCg",
-        "palette": [
-            [43, 46, 68],
-            [205, 140, 50],
-            [142, 132, 119],
-            [204, 181, 156]
-        ]
-    },
-    {
-        "id": "Windmill-Boarding-Lounges",
-        "title": "Boarding Lounges",
-        "artist": "Windmill",
-        "video": "https://youtube.com/watch?v=XJ8fPG58L6w",
-        "palette": [
-            [59, 68, 68],
-            [68, 156, 100],
-            [84, 172, 124],
-            [180, 188, 195]
-        ]
-    },
-    {
-        "id": "that-dog-Minneapolis",
-        "title": "Minneapolis",
-        "artist": "that dog.",
-        "video": "https://youtube.com/watch?v=x9XR5CynN-k",
-        "palette": [
-            [47, 28, 21],
-            [181, 116, 67],
-            [153, 111, 84],
-            [204, 174, 153]
-        ]
-    },
-    {
-        "id": "Prince-Daddy-and-The-Hyena-Lauren-Track-2",
-        "title": "Lauren (Track 2)",
-        "artist": "Prince Daddy & The Hyena",
-        "video": "https://youtube.com/watch?v=b5ikdSN0V3s",
-        "palette": [
-            [44, 70, 57],
-            [215, 112, 30],
-            [163, 81, 136],
-            [206, 202, 174]
-        ]
-    },
-    {
-        "id": "Hot-Snakes-Checkmate",
-        "title": "Checkmate",
-        "artist": "Hot Snakes",
-        "video": "https://youtube.com/watch?v=XLusfdv5_iU",
-        "palette": [
-            [4, 4, 4],
-            [4, 108, 246],
-            [84, 68, 148],
-            [204, 156, 164]
-        ]
-    },
-    {
-        "id": "AJJ-Heartilation",
-        "title": "Heartilation",
-        "artist": "AJJ",
-        "video": "https://youtube.com/watch?v=wxroKXQKHJM",
-        "palette": [
-            [68, 60, 68],
-            [130, 125, 128],
-            [132, 124, 124],
-            [193, 191, 192]
-        ]
-    },
-    {
-        "id": "Petrol-Girls-Big-Mouth",
-        "title": "Big Mouth",
-        "artist": "Petrol Girls",
-        "video": "https://youtube.com/watch?v=PE91PlS-OHQ",
-        "palette": [
-            [47, 52, 69],
-            [171, 140, 53],
-            [150, 118, 88],
-            [211, 206, 181]
-        ]
-    },
-    {
-        "id": "Superchunk-Hyper-Enough",
-        "title": "Hyper Enough",
-        "artist": "Superchunk",
-        "video": "https://youtube.com/watch?v=ba44JRAjpV4",
-        "palette": [
-            [108, 75, 59],
-            [193, 99, 49],
-            [95, 147, 130],
-            [199, 148, 184]
-        ]
-    },
-    {
-        "id": "The-Dismemberment-Plan-Sentimental-Man",
-        "title": "Sentimental Man",
-        "artist": "The Dismemberment Plan",
-        "video": "https://youtube.com/watch?v=ph99zVjs1Cs",
-        "palette": [
-            [104, 54, 53],
-            [63, 129, 172],
-            [76, 138, 176],
-            [172, 193, 202]
-        ]
-    },
-    {
-        "id": "Conor-Oberst-Barbary-Coast-Later",
-        "title": "Barbary Coast (Later)",
-        "artist": "Conor Oberst",
-        "video": "https://youtube.com/watch?v=qVJjNJ1-vOU",
-        "palette": [
-            [88, 84, 44],
-            [76, 132, 158],
-            [89, 137, 161],
-            [186, 204, 176]
-        ]
-    },
-    {
-        "id": "One-Hidden-Frame-Exploding-Head-Syndrome",
-        "title": "Exploding Head Syndrome",
-        "artist": "One Hidden Frame",
-        "video": "https://youtube.com/watch?v=UnuslE1UBZw",
-        "palette": [
-            [68, 52, 48],
-            [124, 126, 131],
-            [138, 130, 124],
-            [180, 181, 184]
-        ]
-    },
-    {
-        "id": "Star-Fucking-Hipsters-Ana-Ng",
-        "title": "Ana Ng",
-        "artist": "Star Fucking Hipsters",
-        "video": "https://youtube.com/watch?v=KXMmk9Pb7rc",
-        "palette": [
-            [70, 69, 68],
-            [130, 128, 125],
-            [114, 112, 111],
-            [197, 196, 195]
-        ]
-    },
-    {
-        "id": "The-Newports-Off-With-My-Head",
+        "id": "the-newports-off-with-my-head",
         "title": "Off With My Head",
         "artist": "The Newports",
         "video": "https://youtube.com/watch?v=n2NW5qL10H8",
         "palette": [
-            [51, 64, 92],
-            [164, 47, 95],
-            [141, 109, 112],
-            [216, 189, 165]
+            [50, 61, 91],
+            [171, 47, 98],
+            [146, 113, 118],
+            [215, 185, 163]
         ]
     },
     {
-        "id": "Achille-Lauro-Me-ne-frego",
+        "id": "prince-daddy-and-the-hyena-lauren-track-2",
+        "title": "Lauren (Track 2)",
+        "artist": "Prince Daddy & The Hyena",
+        "video": "https://youtube.com/watch?v=b5ikdSN0V3s",
+        "palette": [
+            [92, 58, 102],
+            [202, 121, 28],
+            [130, 85, 164],
+            [201, 168, 201]
+        ]
+    },
+    {
+        "id": "the-dismemberment-plan-sentimental-man",
+        "title": "Sentimental Man",
+        "artist": "The Dismemberment Plan",
+        "video": "https://youtube.com/watch?v=_stfy_PKBcE",
+        "palette": [
+            [73, 66, 79],
+            [71, 135, 176],
+            [84, 139, 178],
+            [201, 193, 161]
+        ]
+    },
+    {
+        "id": "windmill-boarding-lounges",
+        "title": "Boarding Lounges",
+        "artist": "Windmill",
+        "video": "https://youtube.com/watch?v=XJ8fPG58L6w",
+        "palette": [
+            [52, 68, 65],
+            [108, 188, 140],
+            [84, 168, 124],
+            [188, 195, 204]
+        ]
+    },
+    {
+        "id": "star-fucking-hipsters-ana-ng",
+        "title": "Ana Ng",
+        "artist": "Star Fucking Hipsters",
+        "video": "https://youtube.com/watch?v=fUAcYGcwPzE",
+        "palette": [
+            [65, 64, 62],
+            [131, 129, 124],
+            [132, 131, 132],
+            [205, 204, 202]
+        ]
+    },
+    {
+        "id": "conor-oberst-barbary-coast-later",
+        "title": "Barbary Coast (Later)",
+        "artist": "Conor Oberst",
+        "video": "https://youtube.com/watch?v=qVJjNJ1-vOU",
+        "palette": [
+            [46, 79, 97],
+            [67, 125, 154],
+            [86, 131, 152],
+            [179, 196, 176]
+        ]
+    },
+    {
+        "id": "achille-lauro-me-ne-frego",
         "title": "Me ne frego",
         "artist": "Achille Lauro",
         "video": "https://youtube.com/watch?v=KN47Lv6xNRo",
         "palette": [
-            [87, 57, 49],
-            [167, 117, 72],
-            [171, 130, 107],
-            [196, 189, 178]
+            [88, 59, 49],
+            [159, 114, 75],
+            [162, 125, 104],
+            [207, 197, 182]
         ]
     }
 ]

@@ -9,7 +9,7 @@ export default ({ item, select, isActive, day }) => (
   >
     <LazyLoadImage
       alt={item.artist + " " + item.title}
-      src={`/images/${item.id}.jpg`}
+      src={`/images/${item.id}.webp`}
       threshold={800}
       placeholderSrc="/preload.gif"
       wrapperClassName="lazyload"

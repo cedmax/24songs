@@ -1,290 +1,290 @@
 [
     {
-        "id": "The-Killers-Mr-Brightside",
+        "id": "the-killers-mr-brightside",
         "title": "Mr. Brightside",
         "artist": "The Killers",
         "video": "https://youtube.com/watch?v=gGdGFtwCNBE",
         "palette": [
-            [25, 73, 128],
-            [68, 120, 188],
-            [114, 125, 189],
-            [188, 188, 220]
+            [25, 74, 128],
+            [66, 119, 187],
+            [118, 125, 187],
+            [184, 192, 212]
         ]
     },
     {
-        "id": "Death-Cab-for-Cutie-Soul-Meets-Body",
+        "id": "death-cab-for-cutie-soul-meets-body",
         "title": "Soul Meets Body",
         "artist": "Death Cab for Cutie",
         "video": "https://youtube.com/watch?v=uizQVriWp8M",
         "palette": [
-            [59, 73, 40],
-            [140, 40, 20],
-            [169, 137, 87],
-            [213, 196, 159]
+            [66, 100, 44],
+            [196, 44, 24],
+            [159, 134, 96],
+            [204, 196, 168]
         ]
     },
     {
-        "id": "Caesars-Good-And-Gone",
+        "id": "caesars-good-and-gone",
         "title": "Good And Gone",
         "artist": "Caesars",
         "video": "https://youtube.com/watch?v=X-IhAQzCXB8",
         "palette": [
-            [80, 59, 42],
-            [192, 204, 146],
-            [149, 143, 106],
-            [196, 188, 148]
+            [81, 63, 44],
+            [188, 180, 92],
+            [135, 123, 99],
+            [193, 191, 171]
         ]
     },
     {
-        "id": "Tim-Fite-Mascara-Lies",
+        "id": "tim-fite-mascara-lies",
         "title": "Mascara Lies",
         "artist": "Tim Fite",
-        "video": "https://youtube.com/watch?v=I0ptwnZ2uEw",
+        "video": "https://youtube.com/watch?v=YgzyA6Y4Fqc",
         "palette": [
-            [106, 47, 49],
-            [204, 140, 142],
-            [144, 95, 89],
-            [213, 195, 180]
+            [129, 90, 24],
+            [215, 150, 40],
+            [142, 93, 86],
+            [217, 199, 182]
         ]
     },
     {
-        "id": "Shout-Out-Louds-Go-Sadness",
+        "id": "shout-out-louds-go-sadness",
         "title": "Go Sadness",
         "artist": "Shout Out Louds",
         "video": "https://youtube.com/watch?v=hAkAKOCGrOM",
         "palette": [
-            [50, 85, 60],
-            [54, 151, 83],
+            [52, 82, 60],
+            [53, 151, 82],
             [124, 124, 124],
-            [188, 180, 188]
+            [188, 188, 188]
         ]
     },
     {
-        "id": "Yeah-Yeah-Yeahs-Way-Out",
+        "id": "yeah-yeah-yeahs-way-out",
         "title": "Way Out",
         "artist": "Yeah Yeah Yeahs",
         "video": "https://youtube.com/watch?v=pGzFWT4hJCw",
         "palette": [
-            [84, 50, 53],
-            [212, 81, 40],
-            [161, 93, 95],
-            [125, 113, 28]
+            [84, 51, 52],
+            [212, 81, 39],
+            [164, 106, 117],
+            [124, 115, 29]
         ]
     },
     {
-        "id": "Thunderbirds-Are-Now-198090-Aquatic-Cupids",
+        "id": "thunderbirds-are-now-198090-aquatic-cupids",
         "title": "198090 (Aquatic Cupid's)",
         "artist": "Thunderbirds Are Now!",
-        "video": "https://youtube.com/watch?v=8bY9H9kf2-s",
+        "video": "https://youtube.com/watch?v=gU187OFBbn8",
         "palette": [
-            [57, 51, 44],
-            [230, 164, 35],
-            [175, 134, 97],
+            [92, 82, 59],
+            [231, 165, 35],
+            [175, 137, 97],
             [210, 203, 176]
         ]
     },
     {
-        "id": "The-Radio-Dept-Why-Wont-You-Talk-About-It",
+        "id": "the-radio-dept-why-wont-you-talk-about-it",
         "title": "Why Won't You Talk About It",
         "artist": "The Radio Dept.",
-        "video": "https://youtube.com/watch?v=hDL2jj31ccM",
+        "video": "https://youtube.com/watch?v=YjzENlvtw2s",
         "palette": [
-            [70, 93, 74],
-            [176, 96, 80],
-            [136, 172, 100],
-            [182, 215, 192]
+            [69, 93, 74],
+            [175, 96, 79],
+            [100, 172, 118],
+            [182, 214, 192]
         ]
     },
     {
-        "id": "Neutral-Milk-Hotel-Fool",
+        "id": "neutral-milk-hotel-fool",
         "title": "Fool",
         "artist": "Neutral Milk Hotel",
         "video": "https://youtube.com/watch?v=TUdiq0ZHsjw",
         "palette": [
-            [85, 76, 48],
-            [181, 70, 38],
-            [174, 147, 94],
-            [204, 199, 154]
+            [86, 76, 47],
+            [181, 73, 41],
+            [173, 146, 94],
+            [196, 196, 156]
         ]
     },
     {
-        "id": "Love-Is-All-Turn-the-Radio-Off",
+        "id": "love-is-all-turn-the-radio-off",
         "title": "Turn the Radio Off",
         "artist": "Love Is All",
-        "video": "https://youtube.com/watch?v=56BkwP1li-A",
+        "video": "https://youtube.com/watch?v=h_2rRd1aEr4",
         "palette": [
-            [59, 57, 58],
-            [64, 191, 128],
-            [171, 131, 152],
-            [191, 191, 191]
+            [67, 67, 68],
+            [196, 59, 108],
+            [173, 130, 153],
+            [228, 197, 216]
         ]
     },
     {
-        "id": "Ben-Kweller-How-It-Should-Be-Sha-Sha",
+        "id": "ben-kweller-how-it-should-be-sha-sha",
         "title": "How It Should Be (Sha Sha)",
         "artist": "Ben Kweller",
-        "video": "https://youtube.com/watch?v=TwHkgZVCzNY",
+        "video": "https://youtube.com/watch?v=g2hsa4JsUF8",
         "palette": [
-            [80, 44, 39],
-            [210, 53, 57],
-            [174, 150, 95],
-            [215, 208, 181]
+            [80, 43, 38],
+            [210, 53, 56],
+            [172, 140, 84],
+            [216, 210, 184]
         ]
     },
     {
-        "id": "Placebo-Follow-the-Cops-Back-Home",
+        "id": "placebo-follow-the-cops-back-home",
         "title": "Follow the Cops Back Home",
         "artist": "Placebo",
         "video": "https://youtube.com/watch?v=TWyFQSFLakg",
         "palette": [
-            [86, 44, 52],
+            [84, 52, 52],
             [74, 127, 181],
-            [108, 148, 156],
-            [157, 193, 206]
+            [108, 132, 164],
+            [157, 192, 205]
         ]
     },
     {
-        "id": "Architecture-in-Helsinki-One-Heavy-February",
+        "id": "architecture-in-helsinki-one-heavy-february",
         "title": "One Heavy February",
         "artist": "Architecture in Helsinki",
         "video": "https://youtube.com/watch?v=Y2NZ1Vq1QZU",
         "palette": [
-            [76, 83, 70],
-            [211, 54, 27],
-            [188, 124, 99],
-            [172, 212, 204]
+            [76, 84, 75],
+            [236, 42, 6],
+            [137, 110, 92],
+            [172, 208, 208]
         ]
     },
     {
-        "id": "Amari-Bolognina-Revolution",
+        "id": "amari-bolognina-revolution",
         "title": "Bolognina Revolution",
         "artist": "Amari",
         "video": "https://youtube.com/watch?v=8GmwaBYg2RI",
         "palette": [
-            [118, 92, 52],
-            [5, 171, 237],
-            [108, 169, 94],
-            [184, 145, 188]
+            [97, 79, 57],
+            [4, 171, 237],
+            [156, 92, 156],
+            [181, 144, 186]
         ]
     },
     {
-        "id": "Stars-Of-Track-And-Field-Centuries",
+        "id": "stars-of-track-and-field-centuries",
         "title": "Centuries",
         "artist": "Stars Of Track And Field",
         "video": "https://youtube.com/watch?v=fg9Mgu6ImfU",
         "palette": [
-            [93, 51, 44],
-            [212, 108, 60],
-            [159, 113, 88],
-            [215, 189, 175]
+            [127, 94, 78],
+            [216, 132, 60],
+            [160, 106, 80],
+            [212, 187, 175]
         ]
     },
     {
-        "id": "Carpark-North-Human",
+        "id": "carpark-north-human",
         "title": "Human",
         "artist": "Carpark North",
         "video": "https://youtube.com/watch?v=X7Kw6s8CTrk",
         "palette": [
             [63, 108, 95],
-            [33, 152, 222],
-            [115, 161, 151],
-            [162, 191, 177]
+            [71, 184, 164],
+            [116, 162, 151],
+            [156, 191, 175]
         ]
     },
     {
-        "id": "Snow-Patrol-Grazed-Knees",
+        "id": "snow-patrol-grazed-knees",
         "title": "Grazed Knees",
         "artist": "Snow Patrol",
-        "video": "https://youtube.com/watch?v=WIFTpAlQFR0",
+        "video": "https://youtube.com/watch?v=VV1lztQXEQE",
         "palette": [
-            [79, 51, 46],
-            [228, 182, 5],
-            [150, 135, 120],
-            [204, 196, 204]
+            [102, 80, 48],
+            [228, 185, 7],
+            [140, 130, 120],
+            [204, 198, 196]
         ]
     },
     {
         "id": "carpacho-carpacho",
         "title": "carpacho",
         "artist": "carpacho!",
-        "video": "https://youtube.com/watch?v=Pv3Xx9lr3ig",
+        "video": "https://youtube.com/watch?v=Eedyd-iIQAk",
         "palette": [
-            [23, 47, 28],
-            [236, 24, 36],
-            [122, 132, 140],
+            [54, 42, 41],
+            [36, 100, 232],
+            [125, 132, 140],
             [180, 188, 196]
         ]
     },
     {
-        "id": "And-You-Will-Know-Us-by-the-Trail-of-Dead-Stand-In-Silence",
+        "id": "and-you-will-know-us-by-the-trail-of-dead-stand-in-silence",
         "title": "Stand In Silence",
         "artist": "...And You Will Know Us by the Trail of Dead",
         "video": "https://youtube.com/watch?v=PFnbP7NvYFQ",
         "palette": [
             [86, 71, 47],
-            [218, 180, 74],
-            [179, 162, 84],
-            [154, 148, 132]
+            [217, 180, 74],
+            [179, 162, 85],
+            [155, 148, 132]
         ]
     },
     {
-        "id": "The-Kooks-Eddies-Gun",
+        "id": "the-kooks-eddies-gun",
         "title": "Eddie's Gun",
         "artist": "The Kooks",
         "video": "https://youtube.com/watch?v=-1pfBw53amc",
         "palette": [
             [68, 68, 66],
-            [158, 42, 48],
-            [179, 116, 124],
-            [200, 172, 180]
+            [156, 40, 47],
+            [138, 104, 105],
+            [193, 172, 180]
         ]
     },
     {
-        "id": "Bloc-Party-Song-for-Clay-Disappear-Here",
+        "id": "bloc-party-song-for-clay-disappear-here",
         "title": "Song for Clay (Disappear Here)",
         "artist": "Bloc Party",
         "video": "https://youtube.com/watch?v=EkplhXJgC5I",
         "palette": [
-            [93, 105, 52],
-            [202, 149, 45],
-            [147, 160, 89],
-            [201, 199, 139]
+            [93, 105, 53],
+            [203, 149, 45],
+            [148, 160, 90],
+            [200, 199, 139]
         ]
     },
     {
-        "id": "Clap-Your-Hands-Say-Yeah-Over-and-Over-Again-Lost-and-Found",
+        "id": "clap-your-hands-say-yeah-over-and-over-again-lost-and-found",
         "title": "Over and Over Again (Lost and Found)",
         "artist": "Clap Your Hands Say Yeah",
         "video": "https://youtube.com/watch?v=jvw2cf0DJYA",
         "palette": [
-            [138, 95, 15],
-            [236, 180, 76],
-            [204, 150, 145],
-            [220, 189, 188]
+            [139, 97, 14],
+            [236, 180, 68],
+            [139, 97, 14],
+            [212, 188, 190]
         ]
     },
     {
-        "id": "The-Format-Matches",
+        "id": "the-format-matches",
         "title": "Matches",
         "artist": "The Format",
-        "video": "https://youtube.com/watch?v=ozW8KMoVuDs",
+        "video": "https://youtube.com/watch?v=s8Ebe2BH8pU",
         "palette": [
-            [108, 99, 68],
-            [179, 212, 68],
-            [160, 108, 92],
-            [205, 218, 177]
+            [132, 124, 92],
+            [220, 219, 106],
+            [149, 172, 103],
+            [156, 196, 204]
         ]
     },
     {
-        "id": "Oxford-Collapse-Hell-Paint-While-We-Play",
+        "id": "oxford-collapse-hell-paint-while-we-play",
         "title": "He'll Paint While We Play",
         "artist": "Oxford Collapse",
-        "video": "https://youtube.com/watch?v=5IVUNZkN_vc",
+        "video": "https://youtube.com/watch?v=H5ILit5YtGM",
         "palette": [
-            [46, 80, 69],
+            [94, 70, 48],
             [203, 23, 14],
-            [94, 142, 164],
-            [204, 179, 178]
+            [98, 141, 165],
+            [205, 180, 178]
         ]
     }
 ]

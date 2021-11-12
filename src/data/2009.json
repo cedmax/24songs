@@ -1,290 +1,290 @@
 [
     {
-        "id": "We-Were-Promised-Jetpacks-A-Half-Built-House",
-        "title": "A Half Built House",
-        "artist": "We Were Promised Jetpacks",
-        "video": "https://youtube.com/watch?v=PbYpI8_H5R8",
+        "id": "lagwagon-island-of-shame",
+        "title": "Island Of Shame",
+        "artist": "Lagwagon",
+        "video": "https://youtube.com/watch?v=QdFSPwfKI9E",
         "palette": [
-            [67, 68, 66],
-            [108, 131, 147],
-            [142, 137, 136],
-            [173, 186, 195]
+            [84, 66, 47],
+            [208, 152, 36],
+            [161, 124, 95],
+            [201, 201, 184]
         ]
     },
     {
-        "id": "Uochi-Toki-Losservatore,-Losservatore-1",
-        "title": "L'osservatore, L'osservatore 1",
-        "artist": "Uochi Toki",
-        "video": "https://youtube.com/watch?v=DID6ReHUyT4",
-        "palette": [
-            [84, 64, 49],
-            [173, 130, 82],
-            [131, 119, 112],
-            [200, 193, 183]
-        ]
-    },
-    {
-        "id": "Handsome-Furs-Im-Confused",
+        "id": "handsome-furs-im-confused",
         "title": "I'm Confused",
         "artist": "Handsome Furs",
         "video": "https://youtube.com/watch?v=MS5mbeXHOmo",
         "palette": [
-            [41, 35, 65],
+            [36, 36, 76],
             [212, 4, 44],
-            [176, 108, 129],
-            [209, 174, 185]
+            [176, 109, 130],
+            [213, 170, 197]
         ]
     },
     {
-        "id": "MIA-Paper-Planes",
-        "title": "Paper Planes",
-        "artist": "M.I.A.",
-        "video": "https://youtube.com/watch?v=ewRjZoRtu0Y",
-        "palette": [
-            [49, 96, 68],
-            [224, 28, 34],
-            [103, 88, 147],
-            [204, 191, 167]
-        ]
-    },
-    {
-        "id": "Franz-Ferdinand-Twilight-Omens",
-        "title": "Twilight Omens",
-        "artist": "Franz Ferdinand",
-        "video": "https://youtube.com/watch?v=1hi-ENlLALU",
-        "palette": [
-            [36, 44, 60],
-            [232, 140, 14],
-            [127, 128, 136],
-            [197, 199, 202]
-        ]
-    },
-    {
-        "id": "The-Dandy-Warhols-Little-Drummer-Boy",
-        "title": "Little Drummer Boy",
-        "artist": "The Dandy Warhols",
-        "video": "https://youtube.com/watch?v=ZuaiLIUQz5M",
-        "palette": [
-            [40, 59, 48],
-            [115, 187, 84],
-            [111, 164, 87],
-            [208, 173, 151]
-        ]
-    },
-    {
-        "id": "Dispatch-Here-We-Go",
-        "title": "Here We Go",
-        "artist": "Dispatch",
-        "video": "https://youtube.com/watch?v=ZRHpoKvZa20",
-        "palette": [
-            [91, 91, 53],
-            [108, 116, 44],
-            [168, 135, 106],
-            [208, 216, 186]
-        ]
-    },
-    {
-        "id": "Cut-Copy-Visions",
-        "title": "Visions / Nobody Lost Nobody Found",
+        "id": "cut-copy-feel-the-love",
+        "title": "Feel the Love",
         "artist": "Cut Copy",
-        "video": "https://youtube.com/watch?v=EdobGD1SmkI",
+        "video": "https://youtube.com/watch?v=LWaFL4RYaoQ",
         "palette": [
-            [100, 56, 59],
-            [229, 231, 24],
-            [125, 69, 156],
-            [182, 152, 201]
+            [98, 58, 59],
+            [229, 232, 24],
+            [109, 142, 181],
+            [184, 152, 199]
         ]
     },
     {
-        "id": "Musica-per-Bambini-Le-Monete-Libere",
-        "title": "Le Monete Libere",
-        "artist": "Musica per Bambini",
-        "video": "https://youtube.com/watch?v=_P6PlcZEBcc",
+        "id": "alec-ounsworth-modern-girl-with-scissors",
+        "title": "Modern Girl (... With Scissors)",
+        "artist": "Alec Ounsworth",
+        "video": "https://youtube.com/watch?v=55DpyfS9yWI",
         "palette": [
-            [65, 56, 57],
-            [150, 32, 33],
-            [132, 124, 124],
-            [192, 190, 191]
+            [66, 72, 85],
+            [57, 141, 193],
+            [151, 127, 82],
+            [168, 197, 207]
         ]
     },
     {
-        "id": "Eels-That-Look-You-Give-That-Guy",
-        "title": "That Look You Give That Guy",
+        "id": "il-teatro-degli-orrori-due",
+        "title": "Due",
+        "artist": "Il Teatro Degli Orrori",
+        "video": "https://youtube.com/watch?v=87RJ-a9wmUY",
+        "palette": [
+            [44, 68, 72],
+            [230, 25, 51],
+            [100, 132, 140],
+            [164, 188, 196]
+        ]
+    },
+    {
+        "id": "american-football-for-sure",
+        "title": "For Sure",
+        "artist": "American Football",
+        "video": "https://youtube.com/watch?v=iWhcWkZy3Xg",
+        "palette": [
+            [88, 76, 44],
+            [179, 162, 77],
+            [173, 161, 111],
+            [219, 215, 215]
+        ]
+    },
+    {
+        "id": "we-were-promised-jetpacks-a-half-built-house",
+        "title": "A Half Built House",
+        "artist": "We Were Promised Jetpacks",
+        "video": "https://youtube.com/watch?v=jubzFhDAK68",
+        "palette": [
+            [67, 68, 65],
+            [109, 132, 146],
+            [142, 137, 136],
+            [173, 186, 194]
+        ]
+    },
+    {
+        "id": "uochi-toki-losservatore,-losservatore-1",
+        "title": "L'osservatore, L'osservatore 1",
+        "artist": "Uochi Toki",
+        "video": "https://youtube.com/watch?v=DID6ReHUyT4",
+        "palette": [
+            [84, 63, 50],
+            [173, 132, 82],
+            [132, 121, 114],
+            [200, 193, 183]
+        ]
+    },
+    {
+        "id": "eels-beginners-luck",
+        "title": "Beginner's Luck",
         "artist": "Eels",
-        "video": "https://youtube.com/watch?v=NQwsiIlIfH8",
+        "video": "https://youtube.com/watch?v=1Kk4vkKP48Y",
         "palette": [
-            [100, 76, 52],
+            [100, 76, 60],
             [252, 164, 52],
-            [163, 144, 104],
-            [201, 199, 183]
+            [146, 141, 121],
+            [202, 201, 183]
         ]
     },
     {
-        "id": "Brunori-Sas-Guardia-82",
-        "title": "Guardia '82",
-        "artist": "Brunori Sas",
-        "video": "https://youtube.com/watch?v=ETqkKMDazMU",
+        "id": "julie-doiron-blue",
+        "title": "Blue",
+        "artist": "Julie Doiron",
+        "video": "https://youtube.com/watch?v=-By-H2y4Glo",
         "palette": [
-            [89, 55, 41],
-            [170, 104, 62],
-            [170, 130, 79],
-            [205, 185, 160]
+            [48, 91, 51],
+            [8, 121, 188],
+            [160, 94, 92],
+            [213, 182, 179]
         ]
     },
     {
-        "id": "Conor-Oberst-and-the-Mystic-Valley-Band-Air-Mattress",
+        "id": "conor-oberst-and-the-mystic-valley-band-air-mattress",
         "title": "Air Mattress",
         "artist": "Conor Oberst and the Mystic Valley Band",
-        "video": "https://youtube.com/watch?v=MN8RZB-BxmI",
+        "video": "https://youtube.com/watch?v=-0TM0BTIyZs",
         "palette": [
             [93, 66, 50],
-            [164, 85, 58],
+            [164, 84, 56],
             [162, 132, 107],
             [213, 196, 173]
         ]
     },
     {
-        "id": "Julie-Doiron-Heavy-Snow",
-        "title": "Heavy Snow",
-        "artist": "Julie Doiron",
-        "video": "https://youtube.com/watch?v=IyL_SkyKQmM",
+        "id": "the-dandy-warhols-little-drummer-boy",
+        "title": "Little Drummer Boy",
+        "artist": "The Dandy Warhols",
+        "video": "https://youtube.com/watch?v=ZuaiLIUQz5M",
         "palette": [
-            [48, 91, 50],
-            [8, 121, 188],
-            [164, 94, 93],
-            [214, 182, 179]
+            [41, 47, 42],
+            [116, 188, 84],
+            [115, 164, 90],
+            [204, 179, 151]
         ]
     },
     {
-        "id": "Why-Gemini-Birthday-Song",
-        "title": "Gemini (Birthday Song)",
-        "artist": "Why?",
-        "video": "https://youtube.com/watch?v=9kxkFxWzZoQ",
+        "id": "musica-per-bambini-le-monete-libere",
+        "title": "Le Monete Libere",
+        "artist": "Musica per Bambini",
+        "video": "https://youtube.com/watch?v=oW4Vs0sIZlo",
         "palette": [
-            [88, 51, 62],
-            [200, 94, 72],
-            [79, 85, 148],
-            [203, 161, 176]
+            [62, 48, 49],
+            [164, 28, 24],
+            [132, 124, 128],
+            [193, 192, 193]
         ]
     },
     {
-        "id": "Sunset-Rubdown-Silver-Moons",
-        "title": "Silver Moons",
-        "artist": "Sunset Rubdown",
-        "video": "https://youtube.com/watch?v=6OPbEYljPLs",
+        "id": "brunori-sas-guardia-82",
+        "title": "Guardia '82",
+        "artist": "Brunori Sas",
+        "video": "https://youtube.com/watch?v=ETqkKMDazMU",
         "palette": [
-            [89, 61, 47],
-            [158, 108, 42],
-            [77, 101, 146],
-            [173, 179, 204]
+            [87, 49, 50],
+            [170, 105, 62],
+            [171, 130, 79],
+            [205, 185, 161]
         ]
     },
     {
-        "id": "Anti-Flag-The-Economy-Is-Suffering-Let-It-Die",
+        "id": "anti-flag-the-economy-is-suffering-let-it-die",
         "title": "The Economy Is Suffering... Let It Die",
         "artist": "Anti-Flag",
         "video": "https://youtube.com/watch?v=Bv-N5xj65BA",
         "palette": [
             [68, 68, 68],
             [128, 128, 128],
-            [119, 119, 119],
+            [124, 124, 124],
             [188, 188, 188]
         ]
     },
     {
-        "id": "Ida-Maria-Oh-My-God",
+        "id": "ida-maria-oh-my-god",
         "title": "Oh My God",
         "artist": "Ida Maria",
         "video": "https://youtube.com/watch?v=eED30qLA0KY",
         "palette": [
-            [64, 36, 31],
-            [153, 53, 41],
-            [74, 116, 148],
-            [208, 175, 167]
+            [74, 61, 54],
+            [153, 53, 40],
+            [79, 116, 142],
+            [201, 174, 168]
         ]
     },
     {
-        "id": "Paul-Baribeau-Boys-Like-Me",
-        "title": "Boys Like Me",
-        "artist": "Paul Baribeau",
-        "video": "https://youtube.com/watch?v=6SoY4nobipI",
+        "id": "why-this-blackest-purse",
+        "title": "This Blackest Purse",
+        "artist": "Why?",
+        "video": "https://youtube.com/watch?v=go2o__8h4ig",
         "palette": [
-            [56, 52, 55],
-            [200, 55, 200],
-            [121, 119, 121],
-            [190, 186, 189]
+            [60, 52, 83],
+            [177, 114, 67],
+            [155, 112, 81],
+            [205, 196, 159]
         ]
     },
     {
-        "id": "Bomb-the-Music-Industry-Stuff-That-I-Like",
-        "title": "Stuff That I Like",
+        "id": "sunset-rubdown-silver-moons",
+        "title": "Silver Moons",
+        "artist": "Sunset Rubdown",
+        "video": "https://youtube.com/watch?v=6OPbEYljPLs",
+        "palette": [
+            [89, 62, 47],
+            [156, 108, 45],
+            [75, 100, 143],
+            [174, 179, 204]
+        ]
+    },
+    {
+        "id": "bomb-the-music-industry-25",
+        "title": "25!",
         "artist": "Bomb the Music Industry!",
-        "video": "https://youtube.com/watch?v=gohhpZxQRyk",
+        "video": "https://youtube.com/watch?v=-cFObXDDVqI",
         "palette": [
-            [60, 76, 92],
-            [124, 180, 204],
-            [154, 111, 131],
-            [202, 165, 176]
+            [68, 68, 67],
+            [191, 64, 64],
+            [161, 127, 139],
+            [204, 179, 190]
         ]
     },
     {
-        "id": "Astronautalis-Skeleton-Everybodys-Favorite",
-        "title": "Skeleton (Everybody's Favorite)",
-        "artist": "Astronautalis",
-        "video": "https://youtube.com/watch?v=0bth6jyD0ZI",
-        "palette": [
-            [63, 58, 60],
-            [175, 151, 80],
-            [140, 116, 100],
-            [212, 204, 180]
-        ]
-    },
-    {
-        "id": "Afterhours-Orchi-e-streghe-sono-soli",
-        "title": "Orchi e streghe sono soli",
+        "id": "afterhours-1996",
+        "title": "1.9.9.6.",
         "artist": "Afterhours",
-        "video": "https://youtube.com/watch?v=Q6p3BxynT0A",
+        "video": "https://youtube.com/watch?v=IydzLLWv98k",
         "palette": [
-            [65, 43, 44],
-            [212, 60, 52],
-            [164, 172, 156],
-            [206, 180, 165]
+            [87, 49, 42],
+            [189, 124, 79],
+            [165, 124, 94],
+            [227, 220, 198]
         ]
     },
     {
-        "id": "Cursive-A-Gentleman-Caller",
-        "title": "A Gentleman Caller",
+        "id": "paul-baribeau-brown-brown-brown",
+        "title": "Brown Brown Brown",
+        "artist": "Paul Baribeau",
+        "video": "https://youtube.com/watch?v=MvdceVRXaww",
+        "palette": [
+            [68, 65, 66],
+            [200, 55, 146],
+            [129, 126, 128],
+            [186, 186, 188]
+        ]
+    },
+    {
+        "id": "cursive-some-red-handed-sleight-of-hand",
+        "title": "Some Red Handed Sleight of Hand",
         "artist": "Cursive",
-        "video": "https://youtube.com/watch?v=wtyXvJHYXXs",
+        "video": "https://youtube.com/watch?v=F8klp9ro19Q",
         "palette": [
-            [58, 93, 52],
-            [187, 152, 69],
-            [110, 162, 99],
-            [210, 198, 158]
+            [96, 46, 50],
+            [74, 156, 103],
+            [95, 163, 111],
+            [204, 195, 172]
         ]
     },
     {
-        "id": "Bike-For-Three-Lazarus-Phenomenon",
+        "id": "bike-for-three-lazarus-phenomenon",
         "title": "Lazarus Phenomenon",
         "artist": "Bike For Three!",
         "video": "https://youtube.com/watch?v=dytKmI-gLdM",
         "palette": [
-            [76, 52, 52],
-            [204, 36, 44],
-            [124, 100, 116],
-            [188, 184, 184]
+            [109, 52, 58],
+            [204, 52, 52],
+            [124, 118, 118],
+            [212, 172, 180]
         ]
     },
     {
-        "id": "Meganoidi-Altrove",
+        "id": "meganoidi-altrove",
         "title": "Altrove",
         "artist": "Meganoidi",
-        "video": "https://youtube.com/watch?v=9NVPV6d_Brw",
+        "video": "https://youtube.com/watch?v=jR3iR5kxTog",
         "palette": [
-            [64, 66, 78],
-            [193, 46, 43],
-            [124, 128, 147],
-            [177, 185, 202]
+            [57, 42, 49],
+            [193, 47, 42],
+            [125, 129, 147],
+            [181, 188, 204]
         ]
     }
 ]
