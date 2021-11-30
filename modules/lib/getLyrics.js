@@ -10,7 +10,7 @@ module.exports = async (item, logger) => {
   const filePath = `./public/lyrics/${slugify(
     item.artist,
     slugConfig
-  )}-${slugify(item.title, slugConfig)}.json`;
+  )}-${slugify(item.title, slugConfig).toLowerCase()}.json`;
 
   if (!fs.existsSync(filePath)) {
     logger(`searching for lyrics`);

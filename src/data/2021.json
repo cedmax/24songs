@@ -1,0 +1,290 @@
+[
+    {
+        "id": "black-country,-new-road-track-x",
+        "title": "Track X",
+        "artist": "Black Country, New Road",
+        "video": "https://youtube.com/watch?v=u3H8O8RJp3M",
+        "palette": [
+            [28, 52, 52],
+            [21, 213, 234],
+            [126, 121, 120],
+            [187, 189, 184]
+        ]
+    },
+    {
+        "id": "tracy-chapman-fast-car",
+        "title": "Fast Car",
+        "artist": "Tracy Chapman",
+        "video": "https://youtube.com/watch?v=AIOAlaACuv4",
+        "palette": [
+            [50, 35, 28],
+            [189, 129, 72],
+            [177, 122, 76],
+            [120, 88, 33]
+        ]
+    },
+    {
+        "id": "pixies-hey",
+        "title": "Hey",
+        "artist": "Pixies",
+        "video": "https://youtube.com/watch?v=PIkWJZf33UY",
+        "palette": [
+            [89, 68, 48],
+            [180, 120, 92],
+            [110, 135, 129],
+            [197, 195, 185]
+        ]
+    },
+    {
+        "id": "kate-bush-hounds-of-love",
+        "title": "Hounds of Love",
+        "artist": "Kate Bush",
+        "video": "https://youtube.com/watch?v=VerK4zwMRQw",
+        "palette": [
+            [88, 47, 52],
+            [108, 52, 54],
+            [143, 105, 170],
+            [216, 176, 213]
+        ]
+    },
+    {
+        "id": "the-suicide-machines-i-never-promised-you-a-rose-garden",
+        "title": "I Never Promised You A Rose Garden",
+        "artist": "The Suicide Machines",
+        "video": "https://youtube.com/watch?v=iuDB4v3n99g",
+        "palette": [
+            [74, 81, 65],
+            [43, 212, 181],
+            [140, 147, 104],
+            [199, 204, 172]
+        ]
+    },
+    {
+        "id": "the-interrupters-shes-kerosene",
+        "title": "She's Kerosene",
+        "artist": "The Interrupters",
+        "video": "https://youtube.com/watch?v=Yq2jJLswL8I",
+        "palette": [
+            [92, 52, 60],
+            [225, 59, 92],
+            [138, 109, 111],
+            [228, 228, 212]
+        ]
+    },
+    {
+        "id": "franco-battiato-bandiera-bianca-remastered",
+        "title": "Bandiera Bianca - Remastered",
+        "artist": "Franco Battiato",
+        "video": "https://youtube.com/watch?v=i483knGRppA",
+        "palette": [
+            [67, 64, 65],
+            [84, 140, 188],
+            [82, 120, 176],
+            [188, 193, 200]
+        ]
+    },
+    {
+        "id": "alkaline-trio-metro",
+        "title": "Metro",
+        "artist": "Alkaline Trio",
+        "video": "https://youtube.com/watch?v=LzmQysnqeL8",
+        "palette": [
+            [90, 72, 39],
+            [225, 181, 73],
+            [159, 150, 104],
+            [208, 196, 147]
+        ]
+    },
+    {
+        "id": "the-dirty-nil-doom-boy",
+        "title": "Doom Boy",
+        "artist": "The Dirty Nil",
+        "video": "https://youtube.com/watch?v=LGnyf52WZds",
+        "palette": [
+            [123, 107, 54],
+            [205, 115, 84],
+            [91, 116, 162],
+            [159, 163, 204]
+        ]
+    },
+    {
+        "id": "le-tigre-deceptacon",
+        "title": "Deceptacon",
+        "artist": "Le Tigre",
+        "video": "https://youtube.com/watch?v=EU1CDSP7FRk",
+        "palette": [
+            [70, 52, 60],
+            [224, 219, 6],
+            [173, 104, 160],
+            [191, 173, 205]
+        ]
+    },
+    {
+        "id": "john-k-samson-fantasy-baseball-at-the-end-of-the-world",
+        "title": "Fantasy Baseball at the End of the World",
+        "artist": "John K. Samson",
+        "video": "https://youtube.com/watch?v=E-z9djgthqE",
+        "palette": [
+            [54, 65, 80],
+            [204, 68, 60],
+            [86, 129, 165],
+            [171, 189, 213]
+        ]
+    },
+    {
+        "id": "the-menzingers-gates",
+        "title": "Gates",
+        "artist": "The Menzingers",
+        "video": "https://youtube.com/watch?v=P1aWag0Nl9E",
+        "palette": [
+            [60, 70, 67],
+            [149, 129, 106],
+            [123, 131, 129],
+            [219, 212, 204]
+        ]
+    },
+    {
+        "id": "mother-mother-hayloft",
+        "title": "Hayloft",
+        "artist": "Mother Mother",
+        "video": "https://youtube.com/watch?v=wiXvDsHfpdk",
+        "palette": [
+            [64, 62, 61],
+            [211, 31, 32],
+            [141, 133, 131],
+            [201, 184, 183]
+        ]
+    },
+    {
+        "id": "mischief-brew-coffee,-god,-and-cigarettes",
+        "title": "Coffee, God, And Cigarettes",
+        "artist": "Mischief Brew",
+        "video": "https://youtube.com/watch?v=Qhu2L9MHoj0",
+        "palette": [
+            [85, 69, 50],
+            [120, 48, 33],
+            [160, 129, 103],
+            [211, 192, 172]
+        ]
+    },
+    {
+        "id": "pavement-in-the-mouth-a-desert",
+        "title": "In the Mouth a Desert",
+        "artist": "Pavement",
+        "video": "https://youtube.com/watch?v=kUz2EBk26KA",
+        "palette": [
+            [69, 87, 63],
+            [238, 97, 38],
+            [151, 150, 86],
+            [226, 210, 193]
+        ]
+    },
+    {
+        "id": "the-bouncing-souls-lean-on-sheena",
+        "title": "Lean On Sheena",
+        "artist": "The Bouncing Souls",
+        "video": "https://youtube.com/watch?v=bDoqw51G3Do",
+        "palette": [
+            [132, 47, 21],
+            [251, 196, 9],
+            [151, 117, 2],
+            [150, 121, 3]
+        ]
+    },
+    {
+        "id": "meet-me-the-altar-hit-like-a-girl",
+        "title": "Hit Like a Girl",
+        "artist": "Meet Me @ The Altar",
+        "video": "https://youtube.com/watch?v=fhadDGg9HIU",
+        "palette": [
+            [56, 51, 101],
+            [237, 41, 146],
+            [113, 165, 85],
+            [172, 172, 206]
+        ]
+    },
+    {
+        "id": "cccp---fedeli-alla-linea-curami",
+        "title": "Curami",
+        "artist": "CCCP – Fedeli Alla Linea",
+        "video": "https://youtube.com/watch?v=RbI5CQ6X5rQ",
+        "palette": [
+            [36, 82, 84],
+            [222, 66, 82],
+            [112, 148, 143],
+            [196, 173, 175]
+        ]
+    },
+    {
+        "id": "the-clash-straight-to-hell-remastered",
+        "title": "Straight to Hell - Remastered",
+        "artist": "The Clash",
+        "video": "https://youtube.com/watch?v=t7SvtikTkrM",
+        "palette": [
+            [57, 61, 34],
+            [240, 207, 49],
+            [162, 128, 76],
+            [201, 191, 177]
+        ]
+    },
+    {
+        "id": "fast-animals-and-slow-kids-stupida-canzone",
+        "title": "Stupida canzone",
+        "artist": "Fast Animals and slow kids",
+        "video": "https://youtube.com/watch?v=ZhwGJr9w60E",
+        "palette": [
+            [76, 57, 36],
+            [183, 128, 52],
+            [86, 139, 164],
+            [215, 201, 182]
+        ]
+    },
+    {
+        "id": "murubutu-temporale",
+        "title": "Temporale",
+        "artist": "Murubutu",
+        "video": "https://youtube.com/watch?v=XZQDSFf90ag",
+        "palette": [
+            [42, 52, 88],
+            [252, 188, 60],
+            [104, 113, 156],
+            [204, 156, 140]
+        ]
+    },
+    {
+        "id": "joy-division-love-will-tear-us-apart",
+        "title": "Love Will Tear Us Apart",
+        "artist": "Joy Division",
+        "video": "https://youtube.com/watch?v=zuuObGsB0No",
+        "palette": [
+            [60, 60, 60],
+            [128, 128, 128],
+            [124, 124, 124],
+            [179, 179, 179]
+        ]
+    },
+    {
+        "id": "motta-a-te",
+        "title": "A te",
+        "artist": "Motta",
+        "video": "https://youtube.com/watch?v=x9pfljXsHEQ",
+        "palette": [
+            [60, 68, 70],
+            [119, 123, 136],
+            [124, 124, 132],
+            [188, 190, 196]
+        ]
+    },
+    {
+        "id": "frank-turner-i-am-disappeared",
+        "title": "I Am Disappeared",
+        "artist": "Frank Turner",
+        "video": "https://youtube.com/watch?v=5Je6YnLNpL0",
+        "palette": [
+            [47, 84, 69],
+            [158, 145, 67],
+            [139, 140, 71],
+            [107, 99, 46]
+        ]
+    }
+]
