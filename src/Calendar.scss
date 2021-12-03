@@ -104,6 +104,24 @@
       cursor: default;
       background: rgba(255, 255, 255, 0.3);
       border: 2px dashed rgba(255, 255, 255, 1);
+
+      &::after {
+        color: rgba(255, 255, 255, 0.9);
+        content: attr(data-date);
+        opacity: 0.9;
+        font-size: 85%;
+        position: absolute;
+        bottom: -20px;
+        right: -20px;
+        transform: translate(-50%, -50%);
+        background: rgba(0, 0, 0, 0.4);
+        border-radius: 50px;
+        width: 50px;
+        line-height: 46px;
+        height: 50px;
+        text-align: center;
+        box-shadow: inset 1px 1px 4px rgba(0, 0, 0, 0.2);
+      }
     }
 
     &::before {
@@ -145,16 +163,26 @@
         transform: translateY(100%);
         text-align: left;
         &::before {
+          border-radius: 0 10px 0 0;
+          font-family: "Raleway", sans-serif;
+          font-size: 120%;
           position: absolute;
-          top: 0;
-          transform: translateY(-100%);
-          left: 0;
-          padding: 10px;
-          content: attr(data-date);
-          display: block;
           transition: all 0.3s ease-in;
-          opacity: 1;
-          background: rgba(0, 0, 0, 0.6);
+          transform: translateY(-100%);
+          color: rgba(255, 255, 255, 0.9);
+          content: attr(data-date);
+          opacity: 0.9;
+          font-size: 150%;
+          position: absolute;
+          top: -5px;
+          right: 5px;
+          background: rgba(0, 0, 0, 0.4);
+          border-radius: 50px;
+          width: 50px;
+          line-height: 46px;
+          height: 50px;
+          text-align: center;
+          box-shadow: inset 1px 1px 4px rgba(0, 0, 0, 0.2);
         }
       }
     }

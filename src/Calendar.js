@@ -51,7 +51,7 @@ export default memo(({ year, data, selected, setSelected }) => {
         </a>
       )}
       {filler.map((n, i) => (
-        <div key={i} className="filler" />
+        <div key={i} data-date={`${24 - (i + data.length)}`} />
       ))}
     </div>
   );
