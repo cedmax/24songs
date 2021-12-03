@@ -14,7 +14,10 @@ export default ({ item, select, isActive, day }) => (
       placeholderSrc="/preload.gif"
       wrapperClassName="lazyload"
     />
-    <span className="song-info" data-date={25 - day}>
+    <span
+      className="song-info"
+      data-date={`${day ? 25 - day : `'` + `${item.year}`.slice(-2)}`}
+    >
       {item.title} <br />
       <small>by</small> {item.artist}
     </span>
