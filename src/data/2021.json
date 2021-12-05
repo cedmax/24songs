@@ -192,18 +192,6 @@
         ]
     },
     {
-        "id": "meet-me-the-altar-hit-like-a-girl",
-        "title": "Hit Like a Girl",
-        "artist": "Meet Me @ The Altar",
-        "video": "https://youtube.com/watch?v=fhadDGg9HIU",
-        "palette": [
-            [56, 51, 101],
-            [237, 41, 146],
-            [113, 165, 85],
-            [172, 172, 206]
-        ]
-    },
-    {
         "id": "cccp---fedeli-alla-linea-curami",
         "title": "Curami",
         "artist": "CCCP – Fedeli Alla Linea",
@@ -213,6 +201,18 @@
             [222, 66, 82],
             [112, 148, 143],
             [196, 173, 175]
+        ]
+    },
+    {
+        "id": "meet-me-the-altar-hit-like-a-girl",
+        "title": "Hit Like a Girl",
+        "artist": "Meet Me @ The Altar",
+        "video": "https://youtube.com/watch?v=fhadDGg9HIU",
+        "palette": [
+            [56, 51, 101],
+            [237, 41, 146],
+            [113, 165, 85],
+            [172, 172, 206]
         ]
     },
     {
