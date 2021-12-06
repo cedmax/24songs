@@ -11,7 +11,7 @@ const style = {
   },
   content: {
     pointerEvents: "all",
-    width: 450,
+    width: 560,
     maxWidth: "90%",
     background: "none",
     border: 0,
