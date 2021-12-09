@@ -1,5 +1,22 @@
-import React from "react";
+import React, { memo } from "react";
 import { LazyLoadImage } from "react-lazy-load-image-component";
+
+const ParsedTitle = memo(({ title, artist }) => {
+  const [song, featuring] = title.split("(feat.");
+  return (
+    <>
+      {song}
+      <br />
+      <small>by</small> {artist}
+      {featuring && (
+        <small>
+          <br />
+          feat. {featuring.slice(0, -1)}
+        </small>
+      )}
+    </>
+  );
+});
 
 export default ({ item, select, isActive, day }) => (
   <button
@@ -18,8 +35,7 @@ export default ({ item, select, isActive, day }) => (
       className="song-info"
       data-date={`${day ? 25 - day : `'` + `${item.year}`.slice(-2)}`}
     >
-      {item.title} <br />
-      <small>by</small> {item.artist}
+      <ParsedTitle title={item.title} artist={item.artist} />
     </span>
   </button>
 );
