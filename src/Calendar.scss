@@ -141,6 +141,32 @@
 
     &.active {
       outline: 0;
+      &::after {
+        color: white;
+        content: attr(data-date);
+        opacity: 0.9;
+        font-size: 150%;
+        position: absolute;
+        transform: translate(-50%, -50%);
+        background: rgba(0, 0, 0, 0.7);
+        border-radius: 50px;
+        width: 40px;
+        line-height: 36px;
+        height: 40px;
+        text-align: center;
+        box-shadow: inset 1px 1px 4px rgba(0, 0, 0, 0.2);
+        animation: play 7s 0s infinite;
+        transform: rotate(0deg);
+        animation-timing-function: linear;
+        top: calc(50% - 20px);
+        left: calc(50% - 20px);
+        font-family: "Raleway", sans-serif;
+      }
+
+      &:hover::after {
+        background: rgba(0, 0, 0, 0.4);
+        color: rgba(255, 255, 255, 0.7);
+      }
     }
 
     &.active img {
@@ -308,7 +334,7 @@ a .lazyload {
   background-size: 25px 25px !important;
   background-repeat: no-repeat;
   background-position: center center;
-  background-color: rgba(255, 255, 255, .7);
+  background-color: rgba(255, 255, 255, 0.7);
 }
 
 .lazyload:not(.lazy-load-image-loaded) {

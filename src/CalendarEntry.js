@@ -22,6 +22,7 @@ export default ({ item, select, isActive, day }) => (
   <button
     className={isActive ? "active" : ""}
     data-id={item.id}
+    data-date={`${day ? 25 - day : `'` + `${item.year}`.slice(-2)}`}
     onClick={select}
   >
     <LazyLoadImage
