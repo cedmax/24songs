@@ -2,10 +2,18 @@ const getYoutubeData = require("./getYoutubeData");
 const getLyrics = require("./getLyrics");
 const handleImages = require("./handleImages");
 const { LiveArea } = require("clui-live");
+const slugify = require("slugify");
+const slugConfig = { remove: /[*+~./?()'"!:@]/g };
 
 module.exports = async filtered => {
   for (let i = 0; i < filtered.length; i++) {
     const item = filtered[i];
+    item.id =
+      item.id ||
+      `${slugify(item.artist, slugConfig)}-${slugify(
+        item.title,
+        slugConfig
+      )}`.toLowerCase();
 
     console.log(`    ${item.title} by ${item.artist}`);
     const videoArea = new LiveArea().hook();

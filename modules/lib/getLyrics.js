@@ -1,16 +1,11 @@
 require("dotenv").config();
 const genius = require("genius-lyrics");
-const slugify = require("slugify");
 const fs = require("fs");
 const Genius = new genius.Client(process.env.GENIUS);
-const slugConfig = { remove: /[*+~./?()'"!:@]/g };
 const chalk = require("chalk");
 
 module.exports = async (item, logger) => {
-  const filePath = `./public/lyrics/${slugify(
-    item.artist,
-    slugConfig
-  )}-${slugify(item.title, slugConfig).toLowerCase()}.json`;
+  const filePath = `./public/lyrics/${item.id}.json`.toLowerCase();
 
   if (!fs.existsSync(filePath)) {
     logger(`searching for lyrics`);
