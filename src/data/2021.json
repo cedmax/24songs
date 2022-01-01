@@ -1,41 +1,5 @@
 [
     {
-        "id": "black-country,-new-road-track-x",
-        "title": "Track X",
-        "artist": "Black Country, New Road",
-        "video": "https://youtube.com/watch?v=u3H8O8RJp3M",
-        "palette": [
-            [28, 52, 52],
-            [21, 213, 234],
-            [126, 121, 120],
-            [187, 189, 184]
-        ]
-    },
-    {
-        "id": "tracy-chapman-fast-car",
-        "title": "Fast Car",
-        "artist": "Tracy Chapman",
-        "video": "https://youtube.com/watch?v=AIOAlaACuv4",
-        "palette": [
-            [50, 35, 28],
-            [189, 129, 72],
-            [177, 122, 76],
-            [120, 88, 33]
-        ]
-    },
-    {
-        "id": "pixies-hey",
-        "title": "Hey",
-        "artist": "Pixies",
-        "video": "https://youtube.com/watch?v=PIkWJZf33UY",
-        "palette": [
-            [89, 68, 48],
-            [180, 120, 92],
-            [110, 135, 129],
-            [197, 195, 185]
-        ]
-    },
-    {
         "id": "kate-bush-hounds-of-love",
         "title": "Hounds of Love",
         "artist": "Kate Bush",
@@ -48,39 +12,27 @@
         ]
     },
     {
-        "id": "the-suicide-machines-i-never-promised-you-a-rose-garden",
-        "title": "I Never Promised You A Rose Garden",
-        "artist": "The Suicide Machines",
-        "video": "https://youtube.com/watch?v=iuDB4v3n99g",
+        "id": "cccp---fedeli-alla-linea-curami",
+        "title": "Curami",
+        "artist": "CCCP – Fedeli Alla Linea",
+        "video": "https://youtube.com/watch?v=RbI5CQ6X5rQ",
         "palette": [
-            [74, 81, 65],
-            [43, 212, 181],
-            [140, 147, 104],
-            [199, 204, 172]
+            [36, 82, 84],
+            [222, 66, 82],
+            [112, 148, 143],
+            [196, 173, 175]
         ]
     },
     {
-        "id": "the-interrupters-shes-kerosene",
-        "title": "She's Kerosene",
-        "artist": "The Interrupters",
-        "video": "https://youtube.com/watch?v=Yq2jJLswL8I",
+        "id": "black-country,-new-road-track-x",
+        "title": "Track X",
+        "artist": "Black Country, New Road",
+        "video": "https://youtube.com/watch?v=u3H8O8RJp3M",
         "palette": [
-            [92, 52, 60],
-            [225, 59, 92],
-            [138, 109, 111],
-            [228, 228, 212]
-        ]
-    },
-    {
-        "id": "franco-battiato-bandiera-bianca-remastered",
-        "title": "Bandiera Bianca",
-        "artist": "Franco Battiato",
-        "video": "https://youtube.com/watch?v=i483knGRppA",
-        "palette": [
-            [67, 64, 65],
-            [84, 140, 188],
-            [82, 120, 176],
-            [188, 193, 200]
+            [28, 52, 52],
+            [21, 213, 234],
+            [126, 121, 120],
+            [187, 189, 184]
         ]
     },
     {
@@ -96,6 +48,42 @@
         ]
     },
     {
+        "id": "tracy-chapman-fast-car",
+        "title": "Fast Car",
+        "artist": "Tracy Chapman",
+        "video": "https://youtube.com/watch?v=AIOAlaACuv4",
+        "palette": [
+            [50, 35, 28],
+            [189, 129, 72],
+            [177, 122, 76],
+            [120, 88, 33]
+        ]
+    },
+    {
+        "id": "the-muslims-fuck-these-fuckin-fascists",
+        "title": "Fuck These Fuckin' Fascists",
+        "artist": "The Muslims",
+        "video": "https://youtube.com/watch?v=Q-7-DDgUh_E",
+        "palette": [
+            [79, 78, 72],
+            [250, 235, 65],
+            [164, 117, 91],
+            [181, 171, 201]
+        ]
+    },
+    {
+        "id": "the-interrupters-shes-kerosene",
+        "title": "She's Kerosene",
+        "artist": "The Interrupters",
+        "video": "https://youtube.com/watch?v=Yq2jJLswL8I",
+        "palette": [
+            [92, 52, 60],
+            [225, 59, 92],
+            [138, 109, 111],
+            [228, 228, 212]
+        ]
+    },
+    {
         "id": "the-dirty-nil-doom-boy",
         "title": "Doom Boy",
         "artist": "The Dirty Nil",
@@ -108,27 +96,15 @@
         ]
     },
     {
-        "id": "le-tigre-deceptacon",
-        "title": "Deceptacon",
-        "artist": "Le Tigre",
-        "video": "https://youtube.com/watch?v=EU1CDSP7FRk",
+        "id": "pixies-hey",
+        "title": "Hey",
+        "artist": "Pixies",
+        "video": "https://youtube.com/watch?v=PIkWJZf33UY",
         "palette": [
-            [70, 52, 60],
-            [224, 219, 6],
-            [173, 104, 160],
-            [191, 173, 205]
-        ]
-    },
-    {
-        "id": "john-k-samson-fantasy-baseball-at-the-end-of-the-world",
-        "title": "Fantasy Baseball at the End of the World",
-        "artist": "John K. Samson",
-        "video": "https://youtube.com/watch?v=E-z9djgthqE",
-        "palette": [
-            [54, 65, 80],
-            [204, 68, 60],
-            [86, 129, 165],
-            [171, 189, 213]
+            [89, 68, 48],
+            [180, 120, 92],
+            [110, 135, 129],
+            [197, 195, 185]
         ]
     },
     {
@@ -168,15 +144,27 @@
         ]
     },
     {
-        "id": "pavement-in-the-mouth-a-desert",
-        "title": "In the Mouth a Desert",
-        "artist": "Pavement",
-        "video": "https://youtube.com/watch?v=kUz2EBk26KA",
+        "id": "john-k-samson-fantasy-baseball-at-the-end-of-the-world",
+        "title": "Fantasy Baseball at the End of the World",
+        "artist": "John K. Samson",
+        "video": "https://youtube.com/watch?v=E-z9djgthqE",
         "palette": [
-            [69, 87, 63],
-            [238, 97, 38],
-            [151, 150, 86],
-            [226, 210, 193]
+            [54, 65, 80],
+            [204, 68, 60],
+            [86, 129, 165],
+            [171, 189, 213]
+        ]
+    },
+    {
+        "id": "le-tigre-deceptacon",
+        "title": "Deceptacon",
+        "artist": "Le Tigre",
+        "video": "https://youtube.com/watch?v=-SyBR-M2YvU",
+        "palette": [
+            [70, 52, 60],
+            [224, 219, 6],
+            [173, 104, 160],
+            [191, 173, 205]
         ]
     },
     {
@@ -192,15 +180,15 @@
         ]
     },
     {
-        "id": "cccp---fedeli-alla-linea-curami",
-        "title": "Curami",
-        "artist": "CCCP – Fedeli Alla Linea",
-        "video": "https://youtube.com/watch?v=RbI5CQ6X5rQ",
+        "id": "pavement-in-the-mouth-a-desert",
+        "title": "In the Mouth a Desert",
+        "artist": "Pavement",
+        "video": "https://youtube.com/watch?v=kUz2EBk26KA",
         "palette": [
-            [36, 82, 84],
-            [222, 66, 82],
-            [112, 148, 143],
-            [196, 173, 175]
+            [69, 87, 63],
+            [238, 97, 38],
+            [151, 150, 86],
+            [226, 210, 193]
         ]
     },
     {
@@ -225,6 +213,18 @@
             [240, 207, 49],
             [162, 128, 76],
             [201, 191, 177]
+        ]
+    },
+    {
+        "id": "apes-of-the-state-bill-collectors-theme-song",
+        "title": "Bill collectors theme song",
+        "artist": "Apes of the State",
+        "video": "https://youtube.com/watch?v=ftE4D4xRqso",
+        "palette": [
+            [68, 76, 84],
+            [191, 191, 64],
+            [132, 130, 123],
+            [188, 187, 187]
         ]
     },
     {
