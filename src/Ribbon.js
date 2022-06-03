@@ -1,6 +1,6 @@
 import React from "react";
 
-export default ({ view, toggleView }) => (
+const Ribbon = ({ view, toggleView }) => (
   <button onClick={toggleView} className="ribbon">
     <span>
       show <br />
@@ -8,3 +8,5 @@ export default ({ view, toggleView }) => (
     </span>
   </button>
 );
+
+export default Ribbon;

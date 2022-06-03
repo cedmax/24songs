@@ -7,7 +7,7 @@ const fs = require("fs");
 
 module.exports = async (item, logger) => {
   let id, palette;
-  const imgPath = `./public/images/${item.id}.jpg`;
+  const imgPath = `${__dirname}/../../public/images/${item.id}.jpg`;
 
   if (item.img || !item.palette) {
     logger(`downloading image`);

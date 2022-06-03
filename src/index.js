@@ -1,5 +1,5 @@
 import React from "react";
-import ReactDOM from "react-dom";
+import { createRoot } from "react-dom/client";
 import App from "./App";
 import getYears from "./getYears";
 import * as serviceWorker from "./serviceWorker";
@@ -10,10 +10,9 @@ setup();
 
 const [years, data] = getYears();
 
-ReactDOM.render(
-  <App year={years} data={data} />,
-  document.getElementById("root")
-);
+const container = document.getElementById("root");
+const root = createRoot(container);
+root.render(<App year={years} data={data} />);
 
 // If you want your app to work offline and load faster, you can change
 // unregister() to register() below. Note this comes with some pitfalls.

@@ -9,7 +9,7 @@ export default memo(
     ) : (
       <Tuber
         onEnd={playNext}
-        className="yt"
+        iframeClassName="yt"
         opts={{
           playerVars: {
             autoplay: 1,
@@ -18,7 +18,7 @@ export default memo(
             modestbranding: 1,
           },
         }}
-        containerClassName="ytWrapper"
+        className="ytWrapper"
         videoId={video.replace("https://youtube.com/watch?v=", "")}
       />
     ))

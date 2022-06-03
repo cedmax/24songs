@@ -10,15 +10,12 @@ module.exports = async (item, logger) => {
   if (!fs.existsSync(filePath)) {
     logger(`searching for lyrics`);
     try {
-      const searchResult = await Genius.tracks.search(
+      const searchResult = await Genius.songs.search(
         `${item.title} ${item.artist}`
       );
 
-      const song = await Genius.tracks.get(searchResult[0].id);
-      const {
-        titles: { full: full_title },
-        url,
-      } = song;
+      const song = await Genius.songs.get(searchResult[0].id);
+      const { fullTitle, url } = song;
       const lyrics = await song.lyrics();
 
       logger(chalk.bold(url));
@@ -26,7 +23,7 @@ module.exports = async (item, logger) => {
       fs.writeFileSync(
         filePath,
         JSON.stringify({
-          title: full_title,
+          title: fullTitle,
           lyrics: lyrics.replace(/"/g, '\\"'),
           url,
         })

@@ -7,13 +7,13 @@ body {
 }
 
 body {
-  background: url("/1b.png");
+  background: url("./1b.png");
   background-attachment: fixed;
 }
 
 @supports (background: paint(background)) {
   body {
-    background: url("/knit.png"), paint(background);
+    background: url("./knit.png"), paint(background);
     background-blend-mode: hard-light;
     background-attachment: fixed;
   }

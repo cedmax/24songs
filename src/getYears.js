@@ -3,7 +3,7 @@ const now = new Date();
 let finalYear =
   now.getMonth() === 11 ? now.getFullYear() : now.getFullYear() - 1;
 
-export default () => {
+const getYears = () => {
   const years = new Array(finalYear + 1 - initialYear)
     .fill(null)
     .map(() => finalYear--);
@@ -23,3 +23,5 @@ export default () => {
 
   return [years, data];
 };
+
+export default getYears;

@@ -3,16 +3,15 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "css-paint-polyfill": "^2.0.0",
-    "genius-lyrics": "^3.0.0",
-    "node-sass": "^4.14.1",
-    "react": "^16.14.0",
-    "react-dom": "^16.13.1",
-    "react-lazy-load-image-component": "^1.5.0",
-    "react-modal": "^3.11.2",
-    "react-scripts": "3.4.3",
-    "react-snap": "^1.23.0",
-    "react-youtube": "^7.12.0"
+    "css-paint-polyfill": "3.4.0",
+    "node-sass": "7.0.1",
+    "react": "18.1.0",
+    "react-dom": "18.1.0",
+    "react-lazy-load-image-component": "1.5.4",
+    "react-modal": "3.15.1",
+    "react-scripts": "5.0.1",
+    "react-snap": "1.23.0",
+    "react-youtube": "9.0.2"
   },
   "scripts": {
     "fetch": "node modules/getHistory",
@@ -38,19 +37,20 @@
     ]
   },
   "devDependencies": {
-    "axios": "^0.20.0",
-    "chalk": "^4.1.1",
-    "cheerio": "^1.0.0-rc.3",
-    "clui-live": "^0.3.4",
-    "colors": "^1.4.0",
-    "dotenv": "^8.2.0",
-    "image-downloader": "^3.5.0",
-    "image-size": "^0.8.3",
-    "log-update": "^4.0.0",
-    "node-vibrant": "^3.1.5",
-    "prettier": "^2.3.0",
-    "sharp": "^0.29.2",
-    "slugify": "^1.4.5",
-    "webp-converter": "^2.3.3"
+    "axios": "0.27.2",
+    "chalk": "4.1.2",
+    "cheerio": "1.0.0-rc.11",
+    "clui-live": "0.3.4",
+    "colors": "1.4.0",
+    "dotenv": "16.0.1",
+    "genius-lyrics": "4.3.8",
+    "image-downloader": "4.3.0",
+    "image-size": "1.0.1",
+    "log-update": "4.0.0",
+    "node-vibrant": "3.2.1-alpha.1",
+    "prettier": "2.6.2",
+    "sharp": "0.30.6",
+    "slugify": "1.6.5",
+    "webp-converter": "2.3.3"
   }
 }

@@ -1,7 +1,7 @@
 import React, { useState, useCallback } from "react";
 import Entry from "./CalendarEntry";
 
-export default ({ data, year, selected, setSelected }) => {
+const Chart = ({ data, year, selected, setSelected }) => {
   const [chartData] = useState(() => {
     return Object.entries(
       data
@@ -61,3 +61,5 @@ export default ({ data, year, selected, setSelected }) => {
     );
   });
 };
+
+export default Chart;

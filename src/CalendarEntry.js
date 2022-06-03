@@ -18,7 +18,7 @@ const ParsedTitle = memo(({ title, artist }) => {
   );
 });
 
-export default ({ item, select, isActive, day }) => (
+const CalendarEntry = ({ item, select, isActive, day }) => (
   <button
     className={isActive ? "active" : ""}
     data-id={item.id}
@@ -40,3 +40,5 @@ export default ({ item, select, isActive, day }) => (
     </span>
   </button>
 );
+
+export default CalendarEntry;
