@@ -13,22 +13,30 @@ module.exports = async (item, logger) => {
     logger(`downloading image`);
     if (!fs.existsSync(imgPath)) {
       if (item.img) {
-        await download.image({
-          url: item.img.replace("/64s/", "/128s/"),
-          dest: imgPath,
-        });
+        try {
+          await download.image({
+            url: item.img.replace("/64s/", "/128s/"),
+            dest: imgPath,
+          });
+        } catch (e) {
+          logger(
+            chalk.red(`missing image: ${item.img.replace("/64s/", "/128s/")}`)
+          );
+        }
       }
     }
 
-    if (!fs.existsSync(imgPath.replace(".jpg", ".webp"))) {
-      await sharp(imgPath).resize({ width: 500 }).toFile(`${imgPath}-temp`);
-      fs.unlinkSync(imgPath);
-      fs.renameSync(`${imgPath}-temp`, imgPath);
-      await webp.cwebp(imgPath, imgPath.replace(".jpg", ".webp"), "-q 75");
-    }
-    await new Promise(resolve => setTimeout(resolve, 1500));
+    if (fs.existsSync(imgPath)) {
+      if (!fs.existsSync(imgPath.replace(".jpg", ".webp"))) {
+        await sharp(imgPath).resize({ width: 500 }).toFile(`${imgPath}-temp`);
+        fs.unlinkSync(imgPath);
+        fs.renameSync(`${imgPath}-temp`, imgPath);
+        await webp.cwebp(imgPath, imgPath.replace(".jpg", ".webp"), "-q 75");
+      }
+      await new Promise(resolve => setTimeout(resolve, 1500));
 
-    palette = await getColors(imgPath, logger);
+      palette = await getColors(imgPath, logger);
+    }
   } else {
     id = item.id;
     palette = item.palette;
