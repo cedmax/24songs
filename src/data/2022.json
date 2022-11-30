@@ -1,0 +1,290 @@
+[
+    {
+        "id": "giancane-strappati-lungo-i-bordi",
+        "title": "Strappati Lungo i Bordi",
+        "artist": "Giancane",
+        "video": "https://youtube.com/watch?v=6Jpoz_vo3Is",
+        "palette": [
+            [60, 60, 60],
+            [128, 128, 128],
+            [124, 124, 124],
+            [180, 180, 180]
+        ]
+    },
+    {
+        "id": "bartolini-schiena",
+        "title": "Schiena",
+        "artist": "Bartolini",
+        "video": "https://youtube.com/watch?v=w5LZ5zRSgnU",
+        "palette": [
+            [73, 72, 40],
+            [206, 206, 80],
+            [172, 172, 76],
+            [193, 193, 193]
+        ]
+    },
+    {
+        "id": "jacopo-et-gli-racconteremo-feat-lo-stato-sociale",
+        "title": "Gli racconteremo (feat. Lo Stato Sociale)",
+        "artist": "Jacopo Et",
+        "video": "https://youtube.com/watch?v=9awnndGBwBY",
+        "palette": [
+            [44, 61, 84],
+            [199, 33, 39],
+            [83, 141, 171],
+            [197, 183, 180]
+        ]
+    },
+    {
+        "id": "gomma-aprile",
+        "title": "aprile",
+        "artist": "Gomma",
+        "video": "https://youtube.com/watch?v=Sv2S5dTjT98",
+        "palette": [
+            [87, 47, 53],
+            [204, 72, 100],
+            [156, 96, 102],
+            [195, 176, 187]
+        ]
+    },
+    {
+        "id": "fontaines-dc-in-ar-gcroithe-go-deo",
+        "title": "In ár gCroíthe go deo",
+        "artist": "Fontaines D.C.",
+        "video": "https://youtube.com/watch?v=hjdqNC9foUw",
+        "palette": [
+            [147, 28, 6],
+            [232, 166, 36],
+            [138, 97, 15],
+            [138, 97, 15]
+        ]
+    },
+    {
+        "id": "embrace-money",
+        "title": "Money",
+        "artist": "Embrace",
+        "video": "https://youtube.com/watch?v=_CIzqzFDGis",
+        "palette": [
+            [67, 70, 73],
+            [195, 195, 60],
+            [148, 124, 108],
+            [205, 199, 187]
+        ]
+    },
+    {
+        "id": "nap-eyes-when-i-come-around",
+        "title": "When I Come Around",
+        "artist": "Nap Eyes",
+        "video": "https://youtube.com/watch?v=_iYDRnjiZAQ",
+        "palette": [
+            [52, 94, 43],
+            [36, 171, 5],
+            [115, 120, 116],
+            [175, 177, 176]
+        ]
+    },
+    {
+        "id": "meganoidi-zeta-reticoli",
+        "title": "Zeta reticoli",
+        "artist": "Meganoidi",
+        "video": "https://youtube.com/watch?v=ZCk5IEY-Dcs",
+        "palette": [
+            [100, 54, 80],
+            [177, 90, 150],
+            [132, 132, 145],
+            [174, 189, 201]
+        ]
+    },
+    {
+        "id": "fast-animals-and-slow-kids-e-gia-domani",
+        "title": "È già domani",
+        "artist": "Fast Animals and slow kids",
+        "video": "https://youtube.com/watch?v=6phQR5uv42U",
+        "palette": [
+            [76, 57, 36],
+            [183, 128, 52],
+            [86, 139, 164],
+            [215, 201, 182]
+        ]
+    },
+    {
+        "id": "thru-collected-a-voc-ro-padron",
+        "title": "A voc ro padron",
+        "artist": "thru collected",
+        "video": "https://youtube.com/watch?v=iaqHof28Phk",
+        "palette": [
+            [68, 68, 68],
+            [128, 128, 128],
+            [124, 124, 124],
+            [174, 174, 174]
+        ]
+    },
+    {
+        "id": "rares-mille-macchine",
+        "title": "Mille Macchine",
+        "artist": "Rareș",
+        "video": "https://youtube.com/watch?v=GpZ4DnKM_sw",
+        "palette": [
+            [80, 91, 50],
+            [212, 96, 54],
+            [164, 116, 92],
+            [196, 212, 164]
+        ]
+    },
+    {
+        "id": "giuse-the-lizia-parole-peggiori",
+        "title": "Parole Peggiori",
+        "artist": "Giuse The Lizia",
+        "video": "https://youtube.com/watch?v=t3EcMwMZe6Y",
+        "palette": [
+            [29, 32, 52],
+            [59, 133, 163],
+            [79, 147, 166],
+            [176, 202, 211]
+        ]
+    },
+    {
+        "id": "gazebo-penguins-nubifragio",
+        "title": "Nubifragio",
+        "artist": "Gazebo Penguins",
+        "video": "https://youtube.com/watch?v=jkW4eX-bTXQ",
+        "palette": [
+            [58, 45, 61],
+            [175, 80, 143],
+            [118, 111, 124],
+            [179, 175, 186]
+        ]
+    },
+    {
+        "id": "ministri-peggio-di-niente",
+        "title": "Peggio Di Niente",
+        "artist": "Ministri",
+        "video": "https://youtube.com/watch?v=zXJcUcN-SWM",
+        "palette": [
+            [48, 47, 46],
+            [228, 4, 20],
+            [124, 124, 116],
+            [196, 196, 188]
+        ]
+    },
+    {
+        "id": "sincere-engineer-corn-dog-sonnet-no-7",
+        "title": "Corn Dog Sonnet No. 7",
+        "artist": "Sincere Engineer",
+        "video": "https://youtube.com/watch?v=NpOmE9U3_JI",
+        "palette": [
+            [39, 73, 78],
+            [204, 172, 140],
+            [92, 165, 147],
+            [184, 162, 134]
+        ]
+    },
+    {
+        "id": "quercia-mida",
+        "title": "Mida",
+        "artist": "Quercia",
+        "video": "https://youtube.com/watch?v=bNlVlHRxVNI",
+        "palette": [
+            [48, 61, 83],
+            [183, 110, 68],
+            [157, 101, 92],
+            [195, 163, 150]
+        ]
+    },
+    {
+        "id": "le-endrigo-cose-piu-grandi-di-te",
+        "title": "Cose più grandi di te",
+        "artist": "Le Endrigo",
+        "video": "https://youtube.com/watch?v=iZKJVC7WO5c",
+        "palette": [
+            [126, 60, 118],
+            [213, 32, 126],
+            [172, 81, 137],
+            [212, 195, 158]
+        ]
+    },
+    {
+        "id": "giallorenzo-megapugno",
+        "title": "MEGAPUGNO",
+        "artist": "GIALLORENZO",
+        "video": "https://youtube.com/watch?v=eP3IQ8X68eQ",
+        "palette": [
+            [48, 86, 76],
+            [244, 107, 67],
+            [88, 166, 109],
+            [197, 172, 187]
+        ]
+    },
+    {
+        "id": "elephant-brain-scappare-sempre",
+        "title": "Scappare sempre",
+        "artist": "Elephant Brain",
+        "video": "https://youtube.com/watch?v=IS3qWy4bwHY",
+        "palette": [
+            [47, 73, 86],
+            [171, 72, 13],
+            [159, 118, 93],
+            [188, 212, 220]
+        ]
+    },
+    {
+        "id": "marco-fracasia-black-midi",
+        "title": "black midi",
+        "artist": "Marco Fracasia",
+        "video": "https://youtube.com/watch?v=-W_6KzwJtAY",
+        "palette": [
+            [106, 86, 47],
+            [177, 144, 78],
+            [137, 130, 124],
+            [204, 196, 188]
+        ]
+    },
+    {
+        "id": "murubutu-ode-alla-pioggia-intro",
+        "title": "Ode alla pioggia - Intro",
+        "artist": "Murubutu",
+        "video": "https://youtube.com/watch?v=QHCmrH5vKfA",
+        "palette": [
+            [47, 86, 80],
+            [46, 202, 209],
+            [103, 134, 152],
+            [203, 201, 184]
+        ]
+    },
+    {
+        "id": "dargen-damico-dove-si-balla",
+        "title": "Dove si balla",
+        "artist": "Dargen D'Amico",
+        "video": "https://youtube.com/watch?v=rCdHk1eTe34",
+        "palette": [
+            [98, 68, 56],
+            [216, 152, 44],
+            [160, 100, 108],
+            [212, 180, 172]
+        ]
+    },
+    {
+        "id": "emma-nolde-berlino",
+        "title": "Berlino",
+        "artist": "Emma Nolde",
+        "video": "https://youtube.com/watch?v=gkU-NPAnhVA",
+        "palette": [
+            [49, 53, 70],
+            [191, 64, 191],
+            [154, 108, 98],
+            [214, 184, 202]
+        ]
+    },
+    {
+        "id": "jesse-the-faccio-che-resta",
+        "title": "Che resta",
+        "artist": "Jesse the Faccio",
+        "video": "https://youtube.com/watch?v=kmBgMg-EhH4",
+        "palette": [
+            [84, 58, 43],
+            [192, 100, 67],
+            [160, 94, 84],
+            [115, 59, 38]
+        ]
+    }
+]
