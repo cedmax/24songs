@@ -1,4 +1,3 @@
-require("dotenv").config();
 const genius = require("genius-lyrics");
 const fs = require("fs");
 const Genius = new genius.Client(process.env.GENIUS);

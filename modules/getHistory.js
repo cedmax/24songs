@@ -1,4 +1,6 @@
-const axios = require("axios");
+require("dotenv").config();
+
+const nFetch = require("node-fetch");
 const cheerio = require("cheerio");
 const logUpdate = require("log-update");
 const fs = require("fs");
@@ -19,11 +21,20 @@ const uniq = (all, arr) =>
         arr.map(mapObj => mapObj.artist).indexOf(obj.artist) === pos
     );
 
+const fetchOpt = {
+  headers: {
+    cookie: process.env.COOKIE,
+  },
+};
+
 async function fetch(fileName, all, arr, year, page = 1) {
   if (!fs.existsSync(fileName)) {
-    const { data } = await axios.get(
-      `https://www.last.fm/user/cedmax/library/tracks?from=${year}-01-01&rangetype=year&page=${page}`
+    const response = await nFetch(
+      `https://www.last.fm/user/cedmax/library/tracks?from=${year}-01-01&rangetype=year&page=${page}`,
+      fetchOpt
     );
+
+    const data = await response.text();
 
     const $ = cheerio.load(data);
     const songs = $(".chartlist-row--with-artist")
