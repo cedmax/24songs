@@ -15,6 +15,7 @@
   },
   "scripts": {
     "fetch": "node modules/getHistory",
+    "json": "node modules/inlineJson",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "node modules/testVideos",
