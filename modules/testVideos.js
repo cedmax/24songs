@@ -15,19 +15,26 @@ for (let year = initialYear; year <= new Date().getFullYear(); year++) {
 
 const validateVideos = async (song, songs) => {
   if (!song.video.includes("bandcamp")) {
-    console.log("VALIDATING: ".bold + song.title);
+    const songText = `${song.artist} – ${song.title}`;
+    console.log("VALIDATING: ".bold + songText);
     try {
       const { data } = await axios.get(
-        `http://noembed.com/embed?url=${song.video}`
+        `https://api.unblockvideos.com/youtube_restrictions?id=${song.video.replace(
+          "https://youtube.com/watch?v=",
+          ""
+        )}`
       );
 
-      if (!data.error) {
+      if (
+        data[0] &&
+        !data[0].blocked.filter(locale => ["IT", "GB"].includes(locale)).length
+      ) {
         console.log(` GREAT: ${song.video}`.green);
       } else {
         throw new Error();
       }
     } catch (e) {
-      failures.push(song.title);
+      failures.push(songText);
       console.error(` FAILED: ${song.video}`.red);
     }
   }
