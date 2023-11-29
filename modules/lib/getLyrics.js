@@ -23,7 +23,7 @@ module.exports = async (item, logger) => {
         filePath,
         JSON.stringify({
           title: fullTitle,
-          lyrics: lyrics.replace(/"/g, '\\"'),
+          lyrics: lyrics.replace(/"/g, '\\"').replace(/\[.+\]\n/g, ""),
           url,
         })
       );
