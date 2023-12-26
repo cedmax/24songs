@@ -1,29 +1,5 @@
 [
     {
-        "id": "be-your-own-pet-adventure",
-        "title": "Adventure",
-        "artist": "Be Your Own Pet",
-        "video": "https://youtube.com/watch?v=act6kTLEJcQ",
-        "palette": [
-            [59, 35, 36],
-            [197, 28, 39],
-            [124, 124, 116],
-            [198, 188, 180]
-        ]
-    },
-    {
-        "id": "the-waeve-kill-me-again",
-        "title": "Kill Me Again",
-        "artist": "The WAEVE",
-        "video": "https://youtube.com/watch?v=Ba-w1CGSkNw",
-        "palette": [
-            [60, 76, 62],
-            [231, 11, 137],
-            [131, 132, 131],
-            [187, 187, 188]
-        ]
-    },
-    {
         "id": "the-teeth-ball-of-the-dead-rat",
         "title": "Ball of the Dead Rat",
         "artist": "The Teeth",
@@ -33,18 +9,6 @@
             [205, 165, 148],
             [144, 125, 119],
             [212, 170, 160]
-        ]
-    },
-    {
-        "id": "the-scratch-cheeky-bastard",
-        "title": "Cheeky Bastard",
-        "artist": "The Scratch",
-        "video": "https://youtube.com/watch?v=bSrBmKZaxCo",
-        "palette": [
-            [44, 80, 44],
-            [51, 172, 78],
-            [60, 124, 68],
-            [35, 118, 54]
         ]
     },
     {
@@ -156,6 +120,18 @@
         ]
     },
     {
+        "id": "the-scratch-cheeky-bastard",
+        "title": "Cheeky Bastard",
+        "artist": "The Scratch",
+        "video": "https://youtube.com/watch?v=bSrBmKZaxCo",
+        "palette": [
+            [44, 80, 44],
+            [51, 172, 78],
+            [60, 124, 68],
+            [35, 118, 54]
+        ]
+    },
+    {
         "id": "the-long-blondes-once-and-never-again",
         "title": "Once & Never Again",
         "artist": "The Long Blondes",
@@ -204,6 +180,18 @@
         ]
     },
     {
+        "id": "dead-pioneers-bad-indian",
+        "title": "Bad Indian",
+        "artist": "dead pioneers",
+        "video": "https://youtube.com/watch?v=Q6tdSH4yoM8",
+        "palette": [
+            [78, 67, 57],
+            [232, 27, 35],
+            [144, 127, 105],
+            [202, 181, 148]
+        ]
+    },
+    {
         "id": "black-lips-modern-art",
         "title": "Modern Art",
         "artist": "Black Lips",
@@ -213,6 +201,18 @@
             [230, 186, 31],
             [143, 125, 89],
             [187, 167, 116]
+        ]
+    },
+    {
+        "id": "be-your-own-pet-adventure",
+        "title": "Adventure",
+        "artist": "Be Your Own Pet",
+        "video": "https://youtube.com/watch?v=act6kTLEJcQ",
+        "palette": [
+            [59, 35, 36],
+            [197, 28, 39],
+            [124, 124, 116],
+            [198, 188, 180]
         ]
     },
     {
