@@ -1,17 +1,5 @@
 [
     {
-        "id": "the-teeth-ball-of-the-dead-rat",
-        "title": "Ball of the Dead Rat",
-        "artist": "The Teeth",
-        "video": "https://youtube.com/watch?v=S3pl3oe9TDY",
-        "palette": [
-            [68, 60, 44],
-            [205, 165, 148],
-            [144, 125, 119],
-            [212, 170, 160]
-        ]
-    },
-    {
         "id": "the-rural-alberta-advantage-four-night-rider",
         "title": "Four Night Rider",
         "artist": "The Rural Alberta Advantage",
@@ -39,24 +27,12 @@
         "id": "the-good-life-heartbroke",
         "title": "Heartbroke",
         "artist": "The Good Life",
-        "video": "https://youtube.com/watch?v=MkscXnpg8vA",
+        "video": "https://youtube.com/watch?v=EeaRM4_LcUs",
         "palette": [
             [57, 73, 94],
             [74, 122, 181],
             [89, 113, 156],
             [206, 188, 209]
-        ]
-    },
-    {
-        "id": "the-death-set-negative-thinking",
-        "title": "Negative Thinking",
-        "artist": "The Death Set",
-        "video": "https://youtube.com/watch?v=sLobgQ_oAho",
-        "palette": [
-            [84, 88, 54],
-            [199, 37, 64],
-            [159, 171, 81],
-            [216, 186, 182]
         ]
     },
     {
@@ -75,7 +51,7 @@
         "id": "starlight-mints-submarine-3",
         "title": "Submarine #3",
         "artist": "Starlight Mints",
-        "video": "https://youtube.com/watch?v=WNJiKq5qN8c",
+        "video": "https://youtube.com/watch?v=ETI8p1-TUyk",
         "palette": [
             [44, 68, 68],
             [230, 230, 25],
@@ -84,10 +60,22 @@
         ]
     },
     {
+        "id": "harry-nilsson-gotta-get-up",
+        "title": "Gotta Get Up",
+        "artist": "Harry Nilsson",
+        "video": "https://youtube.com/watch?v=igLytl2bMJM",
+        "palette": [
+            [68, 52, 51],
+            [204, 163, 49],
+            [140, 124, 115],
+            [208, 197, 185]
+        ]
+    },
+    {
         "id": "fresh-revenge",
         "title": "Revenge",
         "artist": "Fresh",
-        "video": "https://youtube.com/watch?v=wGlpFpkxLcc",
+        "video": "https://youtube.com/watch?v=xHPqmMkUc2A",
         "palette": [
             [81, 70, 41],
             [200, 161, 100],
@@ -111,7 +99,7 @@
         "id": "999-inside-out",
         "title": "Inside Out",
         "artist": "999",
-        "video": "https://youtube.com/watch?v=BaE0HtlOJVg",
+        "video": "https://youtube.com/watch?v=KESzLMzKrfw",
         "palette": [
             [67, 75, 43],
             [219, 159, 30],
@@ -135,12 +123,24 @@
         "id": "the-long-blondes-once-and-never-again",
         "title": "Once & Never Again",
         "artist": "The Long Blondes",
-        "video": "https://youtube.com/watch?v=PCzsVo3gnLo",
+        "video": "https://youtube.com/watch?v=LGfhStYcCZk",
         "palette": [
             [67, 68, 59],
             [244, 132, 76],
             [84, 142, 164],
             [208, 211, 160]
+        ]
+    },
+    {
+        "id": "the-death-set-negative-thinking",
+        "title": "Negative Thinking",
+        "artist": "The Death Set",
+        "video": "https://youtube.com/watch?v=sLobgQ_oAho",
+        "palette": [
+            [84, 88, 54],
+            [199, 37, 64],
+            [159, 171, 81],
+            [216, 186, 182]
         ]
     },
     {
@@ -159,7 +159,7 @@
         "id": "petrol-girls-preachers",
         "title": "Preachers",
         "artist": "Petrol Girls",
-        "video": "https://youtube.com/watch?v=UUZwPTRPvso",
+        "video": "https://youtube.com/watch?v=naukmNiTodI",
         "palette": [
             [150, 3, 3],
             [232, 79, 11],
@@ -189,18 +189,6 @@
             [232, 27, 35],
             [144, 127, 105],
             [202, 181, 148]
-        ]
-    },
-    {
-        "id": "black-lips-modern-art",
-        "title": "Modern Art",
-        "artist": "Black Lips",
-        "video": "https://youtube.com/watch?v=Gj5NoVOEDNg",
-        "palette": [
-            [79, 58, 49],
-            [230, 186, 31],
-            [143, 125, 89],
-            [187, 167, 116]
         ]
     },
     {
@@ -237,6 +225,18 @@
             [168, 188, 99],
             [156, 144, 115],
             [181, 194, 150]
+        ]
+    },
+    {
+        "id": "black-lips-modern-art",
+        "title": "Modern Art",
+        "artist": "Black Lips",
+        "video": "https://youtube.com/watch?v=Gj5NoVOEDNg",
+        "palette": [
+            [79, 58, 49],
+            [230, 186, 31],
+            [143, 125, 89],
+            [187, 167, 116]
         ]
     },
     {
