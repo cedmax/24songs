@@ -3,7 +3,7 @@ const getLyrics = require("./getLyrics");
 const handleImages = require("./handleImages");
 const { LiveArea } = require("clui-live");
 const slugify = require("slugify");
-const slugConfig = { remove: /[*+~./?()'"!:@]/g };
+const slugConfig = { remove: /[*+~./?()'"!:@#]/g };
 
 module.exports = async filtered => {
   for (let i = 0; i < filtered.length; i++) {
