@@ -1,0 +1,290 @@
+[
+    {
+        "id": "motta-sei-bella-davvero",
+        "title": "Sei bella davvero",
+        "artist": "Motta",
+        "video": "https://youtube.com/watch?v=LMvya1Mk4eA",
+        "palette": [
+            [76, 73, 67],
+            [140, 125, 115],
+            [117, 113, 106],
+            [196, 188, 183]
+        ]
+    },
+    {
+        "id": "choking-victim-crack-rock-steady",
+        "title": "Crack Rock Steady",
+        "artist": "Choking Victim",
+        "video": "https://youtube.com/watch?v=QQDZm0uW9wA",
+        "palette": [
+            [60, 68, 68],
+            [64, 64, 191],
+            [132, 124, 132],
+            [188, 187, 187]
+        ]
+    },
+    {
+        "id": "the-fad-ska-boom",
+        "title": "Ska-Boom!",
+        "artist": "The Fad",
+        "video": "https://youtube.com/watch?v=KyBX5jUNsn0",
+        "palette": [
+            [98, 81, 48],
+            [252, 244, 4],
+            [100, 172, 132],
+            [189, 189, 187]
+        ]
+    },
+    {
+        "id": "not-half-bad-and-his-clever-bible-reference",
+        "title": "And His Clever Bible Reference",
+        "artist": "Not Half Bad",
+        "video": "https://youtube.com/watch?v=8p09IP-fPoA",
+        "palette": [
+            [60, 92, 56],
+            [181, 58, 48],
+            [149, 116, 87],
+            [212, 196, 167]
+        ]
+    },
+    {
+        "id": "against-me-i-was-a-teenage-anarchist",
+        "title": "I Was A Teenage Anarchist",
+        "artist": "Against Me!",
+        "video": "https://youtube.com/watch?v=c7RUeMCZL3Q",
+        "palette": [
+            [68, 60, 68],
+            [238, 71, 80],
+            [138, 110, 111],
+            [220, 180, 178]
+        ]
+    },
+    {
+        "id": "teen-idols-20-below",
+        "title": "20 Below",
+        "artist": "Teen Idols",
+        "video": "https://youtube.com/watch?v=GIoQIEVc_7s",
+        "palette": [
+            [88, 41, 44],
+            [152, 31, 65],
+            [165, 124, 97],
+            [186, 164, 146]
+        ]
+    },
+    {
+        "id": "pom-pom-squad-lux",
+        "title": "Lux",
+        "artist": "Pom Pom Squad",
+        "video": "https://youtube.com/watch?v=t_HNAnoRrIg",
+        "palette": [
+            [88, 97, 56],
+            [205, 20, 27],
+            [131, 128, 167],
+            [161, 192, 200]
+        ]
+    },
+    {
+        "id": "nomeansno-its-catching-up",
+        "title": "It's Catching Up",
+        "artist": "NoMeansNo",
+        "video": "https://youtube.com/watch?v=zPyAii6f-hc",
+        "palette": [
+            [92, 52, 52],
+            [210, 5, 5],
+            [148, 108, 100],
+            [188, 178, 178]
+        ]
+    },
+    {
+        "id": "direct-hit-snickers-or-reeses",
+        "title": "Snickers Or Reese's",
+        "artist": "Direct Hit!",
+        "video": "https://youtube.com/watch?v=2I2Z6K_6IMY",
+        "palette": [
+            [91, 45, 43],
+            [203, 91, 99],
+            [163, 82, 88],
+            [194, 185, 185]
+        ]
+    },
+    {
+        "id": "beans-on-toast-the-great-american-novel",
+        "title": "The Great American Novel",
+        "artist": "Beans On Toast",
+        "video": "https://youtube.com/watch?v=P1zf_2zfnRU",
+        "palette": [
+            [82, 76, 42],
+            [204, 172, 68],
+            [164, 143, 81],
+            [132, 105, 21]
+        ]
+    },
+    {
+        "id": "walter-mitty-and-his-makeshift-orchestra-101-n",
+        "title": "101 N",
+        "artist": "Walter Mitty And His Makeshift Orchestra",
+        "video": "https://youtube.com/watch?v=dCF3fLjXjyU",
+        "palette": [
+            [91, 91, 85],
+            [188, 140, 100],
+            [151, 124, 100],
+            [190, 176, 218]
+        ]
+    },
+    {
+        "id": "rosie-tucker-all-my-exes-live-in-vortexes",
+        "title": "All My Exes Live In Vortexes",
+        "artist": "Rosie Tucker",
+        "video": "https://youtube.com/watch?v=cIgm1CeD2mQ",
+        "palette": [
+            [48, 72, 86],
+            [221, 121, 33],
+            [135, 142, 81],
+            [216, 192, 220]
+        ]
+    },
+    {
+        "id": "off-with-their-heads-die-today",
+        "title": "Die Today",
+        "artist": "Off With Their Heads",
+        "video": "https://youtube.com/watch?v=Osxk_JacvTU",
+        "palette": [
+            [69, 55, 52],
+            [244, 179, 83],
+            [169, 114, 77],
+            [219, 175, 188]
+        ]
+    },
+    {
+        "id": "la-municipal-lettera-dalla-provincia-leccese",
+        "title": "Lettera dalla provincia leccese",
+        "artist": "La Municipàl",
+        "video": "https://youtube.com/watch?v=LTNOyMwzze8",
+        "palette": [
+            [122, 100, 72],
+            [188, 156, 108],
+            [179, 156, 114],
+            [188, 164, 124]
+        ]
+    },
+    {
+        "id": "elephant-brain-quando-finira",
+        "title": "Quando finirà",
+        "artist": "Elephant Brain",
+        "video": "https://youtube.com/watch?v=6E5QjrztmKk",
+        "palette": [
+            [47, 73, 86],
+            [171, 72, 13],
+            [159, 118, 93],
+            [188, 212, 220]
+        ]
+    },
+    {
+        "id": "alysson-nebbia",
+        "title": "Nebbia",
+        "artist": "Alysson",
+        "video": "https://youtube.com/watch?v=05l9rR8JqmU",
+        "palette": [
+            [92, 59, 60],
+            [214, 172, 132],
+            [95, 134, 163],
+            [207, 169, 192]
+        ]
+    },
+    {
+        "id": "cosmetic-la-fine-del-giorno",
+        "title": "La fine del giorno",
+        "artist": "Cosmetic",
+        "video": "https://youtube.com/watch?v=o-AhyazrT3s",
+        "palette": [
+            [86, 92, 52],
+            [64, 191, 143],
+            [156, 164, 100],
+            [187, 196, 184]
+        ]
+    },
+    {
+        "id": "sloppy-seconds-i-dont-wanna-be-a-homosexual",
+        "title": "I Don't Wanna Be a Homosexual",
+        "artist": "Sloppy Seconds",
+        "video": "https://youtube.com/watch?v=S7pbLArOCFE",
+        "palette": [
+            [37, 49, 79],
+            [180, 134, 71],
+            [104, 100, 171],
+            [222, 192, 206]
+        ]
+    },
+    {
+        "id": "sheherhers-kill-the-boy-band",
+        "title": "Kill The Boy Band",
+        "artist": "She/Her/Hers",
+        "video": "https://youtube.com/watch?v=agcWNPu4avM",
+        "palette": [
+            [60, 62, 76],
+            [64, 64, 191],
+            [116, 124, 148],
+            [180, 185, 209]
+        ]
+    },
+    {
+        "id": "laura-jane-grace-swimming-pool-song",
+        "title": "Swimming Pool Song",
+        "artist": "Laura Jane Grace",
+        "video": "https://youtube.com/watch?v=QP8yrH8APP0",
+        "palette": [
+            [47, 55, 84],
+            [92, 108, 180],
+            [88, 105, 166],
+            [204, 207, 194]
+        ]
+    },
+    {
+        "id": "rasputina-holocaust-of-giants",
+        "title": "Holocaust of Giants",
+        "artist": "Rasputina",
+        "video": "https://youtube.com/watch?v=7gKqPkHDZOI",
+        "palette": [
+            [72, 65, 56],
+            [180, 135, 80],
+            [149, 123, 96],
+            [207, 184, 159]
+        ]
+    },
+    {
+        "id": "management-un-incubo-stupendo",
+        "title": "Un incubo stupendo",
+        "artist": "Management",
+        "video": "https://youtube.com/watch?v=gzssgDC4Lqk",
+        "palette": [
+            [54, 77, 98],
+            [46, 155, 209],
+            [133, 132, 135],
+            [223, 199, 192]
+        ]
+    },
+    {
+        "id": "kid-sistr-x-tape-want-to-want-me",
+        "title": "X-Tape (Want to Want Me)",
+        "artist": "Kid Sistr",
+        "video": "https://youtube.com/watch?v=GW0uLIMXjFM",
+        "palette": [
+            [83, 72, 49],
+            [225, 127, 21],
+            [159, 71, 83],
+            [188, 156, 104]
+        ]
+    },
+    {
+        "id": "mille-giovane-distratta",
+        "title": "Giovane Distratta",
+        "artist": "Mille",
+        "video": "https://youtube.com/watch?v=gJ3v5P2ue2g",
+        "palette": [
+            [4, 65, 149],
+            [4, 76, 164],
+            [97, 130, 168],
+            [213, 171, 170]
+        ]
+    }
+]
