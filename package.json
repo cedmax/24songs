@@ -4,14 +4,14 @@
   "private": true,
   "dependencies": {
     "css-paint-polyfill": "3.4.0",
-    "node-sass": "7.0.1",
-    "react": "18.1.0",
-    "react-dom": "18.1.0",
-    "react-lazy-load-image-component": "1.5.4",
-    "react-modal": "3.15.1",
+    "sass": "1.81.0",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "react-lazy-load-image-component": "1.6.2",
+    "react-modal": "3.16.1",
     "react-scripts": "5.0.1",
     "react-snap": "1.23.0",
-    "react-youtube": "9.0.2"
+    "react-youtube": "10.1.0"
   },
   "scripts": {
     "fetch": "node modules/getHistory",
@@ -48,7 +48,6 @@
     "image-downloader": "4.3.0",
     "image-size": "1.0.1",
     "log-update": "4.0.0",
-    "node-fetch": "^2.6.7",
     "node-vibrant": "3.2.1-alpha.1",
     "prettier": "2.6.2",
     "sharp": "0.30.6",

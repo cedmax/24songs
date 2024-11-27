@@ -1,6 +1,6 @@
 require("dotenv").config();
 
-const nFetch = require("node-fetch");
+const axios = require("axios");
 const cheerio = require("cheerio");
 const logUpdate = require("log-update");
 const fs = require("fs");
@@ -21,20 +21,37 @@ const uniq = (all, arr) =>
         arr.map(mapObj => mapObj.artist).indexOf(obj.artist) === pos
     );
 
-const fetchOpt = {
+let config = {
+  method: "get",
+  maxBodyLength: Infinity,
   headers: {
-    cookie: process.env.COOKIE,
+    "User-Agent":
+      "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:128.0) Gecko/20100101 Firefox/128.0",
+    Accept:
+      "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/jxl,image/webp,image/png,image/svg+xml,*/*;q=0.8",
+    "Accept-Language": "en-GB,en;q=0.5",
+    "Accept-Encoding": "gzip, deflate, br, zstd",
+    Connection: "keep-alive",
+    Cookie: process.env.COOKIE,
+    "Upgrade-Insecure-Requests": "1",
+    "Sec-Fetch-Dest": "document",
+    "Sec-Fetch-Mode": "navigate",
+    "Sec-Fetch-Site": "cross-site",
+    "Sec-GPC": "1",
+    Priority: "u=0, i",
+    Pragma: "no-cache",
+    "Cache-Control": "no-cache",
   },
 };
 
+console.log(process.env.COOKIE);
+
 async function fetch(fileName, all, arr, year, page = 1) {
   if (!fs.existsSync(fileName)) {
-    const response = await nFetch(
-      `https://www.last.fm/user/cedmax/library/tracks?from=${year}-01-01&rangetype=year&page=${page}`,
-      fetchOpt
-    );
-
-    const data = await response.text();
+    const { data } = await axios({
+      ...config,
+      url: `https://www.last.fm/user/cedmax/library/tracks?from=${year}-01-01&rangetype=year&page=${page}`,
+    });
 
     const $ = cheerio.load(data);
     const songs = $(".chartlist-row--with-artist")

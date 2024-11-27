@@ -1,3 +1,5 @@
+@use "sass:color";
+
 @keyframes play {
   0% {
     transform: rotate(0deg);
@@ -11,6 +13,8 @@
   /**Size**/
   width: 55%;
   height: 55%;
+  aspect-ratio: 1;
+  object-fit: cover;
 
   /**Animation**/
   animation: play 7s 0s infinite;
@@ -18,17 +22,17 @@
   animation-timing-function: linear;
 
   /**Vinyl**/
-  box-shadow: 0 0 0 5px $color, 0 0 0 6px darken($color, 10), 0 0 0 7px $color,
-    0 0 0 8px darken($color, 10), 0 0 0 9px $color,
-    0 0 0 10px darken($color, 10), 0 0 0 11px $color,
-    0 0 0 12px darken($color, 10), 0 0 0 13px $color,
-    0 0 0 14px darken($color, 10), 0 0 0 15px $color,
-    0 0 0 16px darken($color, 10), 0 0 0 17px $color,
-    0 0 0 18px darken($color, 10), 0 0 0 19px $color,
-    0 0 0 20px darken($color, 10), 0 0 0 21px $color,
-    0 0 0 22px darken($color, 10), 0 0 0 23px $color,
-    0 0 0 24px darken($color, 5), 0 0 0 25px $color,
-    0 0 0 30px darken($color, 10);
+  box-shadow: 0 0 0 5px $color, 0 0 0 6px color.adjust($color, $lightness: -10%),
+    0 0 0 7px $color, 0 0 0 8px color.adjust($color, $lightness: -10%),
+    0 0 0 9px $color, 0 0 0 10px color.adjust($color, $lightness: -10%),
+    0 0 0 11px $color, 0 0 0 12px color.adjust($color, $lightness: -10%),
+    0 0 0 13px $color, 0 0 0 14px color.adjust($color, $lightness: -10%),
+    0 0 0 15px $color, 0 0 0 16px color.adjust($color, $lightness: -10%),
+    0 0 0 17px $color, 0 0 0 18px color.adjust($color, $lightness: -10%),
+    0 0 0 19px $color, 0 0 0 20px color.adjust($color, $lightness: -10%),
+    0 0 0 21px $color, 0 0 0 22px color.adjust($color, $lightness: -10%),
+    0 0 0 23px $color, 0 0 0 24px color.adjust($color, $lightness: -5%),
+    0 0 0 25px $color, 0 0 0 30px color.adjust($color, $lightness: -10%);
   border-radius: 50%;
 }
 
@@ -136,6 +140,8 @@
 
     img {
       width: 100%;
+      height: 100%;
+      object-fit: cover;
       // transform: translateZ(0);
     }
 
