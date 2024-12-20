@@ -1,26 +1,14 @@
 [
     {
-        "id": "motta-sei-bella-davvero",
-        "title": "Sei bella davvero",
-        "artist": "Motta",
-        "video": "https://youtube.com/watch?v=LMvya1Mk4eA",
+        "id": "worriers-yes-all-cops",
+        "title": "Yes All Cops",
+        "artist": "Worriers",
+        "video": "https://youtube.com/watch?v=5idB5RFyLy0",
         "palette": [
-            [76, 73, 67],
-            [140, 125, 115],
-            [117, 113, 106],
-            [196, 188, 183]
-        ]
-    },
-    {
-        "id": "choking-victim-crack-rock-steady",
-        "title": "Crack Rock Steady",
-        "artist": "Choking Victim",
-        "video": "https://youtube.com/watch?v=QQDZm0uW9wA",
-        "palette": [
-            [60, 68, 68],
-            [64, 64, 191],
-            [132, 124, 132],
-            [188, 187, 187]
+            [74, 74, 74],
+            [64, 191, 191],
+            [121, 121, 121],
+            [180, 180, 180]
         ]
     },
     {
@@ -156,18 +144,6 @@
         ]
     },
     {
-        "id": "la-municipal-lettera-dalla-provincia-leccese",
-        "title": "Lettera dalla provincia leccese",
-        "artist": "La Municipàl",
-        "video": "https://youtube.com/watch?v=LTNOyMwzze8",
-        "palette": [
-            [122, 100, 72],
-            [188, 156, 108],
-            [179, 156, 114],
-            [188, 164, 124]
-        ]
-    },
-    {
         "id": "elephant-brain-quando-finira",
         "title": "Quando finirà",
         "artist": "Elephant Brain",
@@ -180,27 +156,27 @@
         ]
     },
     {
-        "id": "alysson-nebbia",
-        "title": "Nebbia",
-        "artist": "Alysson",
-        "video": "https://youtube.com/watch?v=05l9rR8JqmU",
+        "id": "la-municipal-lettera-dalla-provincia-leccese",
+        "title": "Lettera dalla provincia leccese",
+        "artist": "La Municipàl",
+        "video": "https://youtube.com/watch?v=LTNOyMwzze8",
         "palette": [
-            [92, 59, 60],
-            [214, 172, 132],
-            [95, 134, 163],
-            [207, 169, 192]
+            [122, 100, 72],
+            [188, 156, 108],
+            [179, 156, 114],
+            [188, 164, 124]
         ]
     },
     {
-        "id": "cosmetic-la-fine-del-giorno",
-        "title": "La fine del giorno",
-        "artist": "Cosmetic",
-        "video": "https://youtube.com/watch?v=o-AhyazrT3s",
+        "id": "emma-nolde-pianopiano",
+        "title": "Pianopiano!",
+        "artist": "Emma Nolde",
+        "video": "https://youtube.com/watch?v=DKEuIFIxUxY",
         "palette": [
-            [86, 92, 52],
-            [64, 191, 143],
-            [156, 164, 100],
-            [187, 196, 184]
+            [52, 72, 89],
+            [38, 102, 144],
+            [92, 140, 172],
+            [210, 205, 206]
         ]
     },
     {
@@ -237,6 +213,30 @@
             [92, 108, 180],
             [88, 105, 166],
             [204, 207, 194]
+        ]
+    },
+    {
+        "id": "cosmetic-la-fine-del-giorno",
+        "title": "La fine del giorno",
+        "artist": "Cosmetic",
+        "video": "https://youtube.com/watch?v=o-AhyazrT3s",
+        "palette": [
+            [86, 92, 52],
+            [64, 191, 143],
+            [156, 164, 100],
+            [187, 196, 184]
+        ]
+    },
+    {
+        "id": "alysson-nebbia",
+        "title": "Nebbia",
+        "artist": "Alysson",
+        "video": "https://youtube.com/watch?v=05l9rR8JqmU",
+        "palette": [
+            [92, 59, 60],
+            [214, 172, 132],
+            [95, 134, 163],
+            [207, 169, 192]
         ]
     },
     {
