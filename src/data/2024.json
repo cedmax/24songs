@@ -168,18 +168,6 @@
         ]
     },
     {
-        "id": "emma-nolde-pianopiano",
-        "title": "Pianopiano!",
-        "artist": "Emma Nolde",
-        "video": "https://youtube.com/watch?v=DKEuIFIxUxY",
-        "palette": [
-            [52, 72, 89],
-            [38, 102, 144],
-            [92, 140, 172],
-            [210, 205, 206]
-        ]
-    },
-    {
         "id": "sloppy-seconds-i-dont-wanna-be-a-homosexual",
         "title": "I Don't Wanna Be a Homosexual",
         "artist": "Sloppy Seconds",
@@ -189,6 +177,18 @@
             [180, 134, 71],
             [104, 100, 171],
             [222, 192, 206]
+        ]
+    },
+    {
+        "id": "emma-nolde-pianopiano",
+        "title": "Pianopiano!",
+        "artist": "Emma Nolde",
+        "video": "https://youtube.com/watch?v=DKEuIFIxUxY",
+        "palette": [
+            [52, 72, 89],
+            [38, 102, 144],
+            [92, 140, 172],
+            [210, 205, 206]
         ]
     },
     {
