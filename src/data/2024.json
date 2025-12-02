@@ -3,7 +3,7 @@
         "id": "worriers-yes-all-cops",
         "title": "Yes All Cops",
         "artist": "Worriers",
-        "video": "https://youtube.com/watch?v=5idB5RFyLy0",
+        "video": "https://youtube.com/watch?v=fj_TjcJENxc",
         "palette": [
             [74, 74, 74],
             [64, 191, 191],
@@ -51,7 +51,7 @@
         "id": "teen-idols-20-below",
         "title": "20 Below",
         "artist": "Teen Idols",
-        "video": "https://youtube.com/watch?v=GIoQIEVc_7s",
+        "video": "https://youtube.com/watch?v=vVJHCtcK3vs",
         "palette": [
             [88, 41, 44],
             [152, 31, 65],
@@ -75,7 +75,7 @@
         "id": "nomeansno-its-catching-up",
         "title": "It's Catching Up",
         "artist": "NoMeansNo",
-        "video": "https://youtube.com/watch?v=zPyAii6f-hc",
+        "video": "https://youtube.com/watch?v=NMme06iJuog",
         "palette": [
             [92, 52, 52],
             [210, 5, 5],
@@ -111,7 +111,7 @@
         "id": "walter-mitty-and-his-makeshift-orchestra-101-n",
         "title": "101 N",
         "artist": "Walter Mitty And His Makeshift Orchestra",
-        "video": "https://youtube.com/watch?v=dCF3fLjXjyU",
+        "video": "https://youtube.com/watch?v=w803D54WWeg",
         "palette": [
             [91, 91, 85],
             [188, 140, 100],
@@ -135,7 +135,7 @@
         "id": "off-with-their-heads-die-today",
         "title": "Die Today",
         "artist": "Off With Their Heads",
-        "video": "https://youtube.com/watch?v=Osxk_JacvTU",
+        "video": "https://youtube.com/watch?v=0Ofv8y9YrDg",
         "palette": [
             [69, 55, 52],
             [244, 179, 83],
@@ -180,18 +180,6 @@
         ]
     },
     {
-        "id": "emma-nolde-pianopiano",
-        "title": "Pianopiano!",
-        "artist": "Emma Nolde",
-        "video": "https://youtube.com/watch?v=DKEuIFIxUxY",
-        "palette": [
-            [52, 72, 89],
-            [38, 102, 144],
-            [92, 140, 172],
-            [210, 205, 206]
-        ]
-    },
-    {
         "id": "sheherhers-kill-the-boy-band",
         "title": "Kill The Boy Band",
         "artist": "She/Her/Hers",
@@ -213,6 +201,18 @@
             [92, 108, 180],
             [88, 105, 166],
             [204, 207, 194]
+        ]
+    },
+    {
+        "id": "emma-nolde-pianopiano",
+        "title": "Pianopiano!",
+        "artist": "Emma Nolde",
+        "video": "https://youtube.com/watch?v=DKEuIFIxUxY",
+        "palette": [
+            [52, 72, 89],
+            [38, 102, 144],
+            [92, 140, 172],
+            [210, 205, 206]
         ]
     },
     {
@@ -243,7 +243,7 @@
         "id": "alysson-nebbia",
         "title": "Nebbia",
         "artist": "Alysson",
-        "video": "https://youtube.com/watch?v=05l9rR8JqmU",
+        "video": "https://youtube.com/watch?v=05B1O8Dl7F4",
         "palette": [
             [92, 59, 60],
             [214, 172, 132],

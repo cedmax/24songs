@@ -4,14 +4,16 @@
   "private": true,
   "dependencies": {
     "css-paint-polyfill": "3.4.0",
-    "sass": "1.81.0",
+    "graphql": "^16.11.0",
+    "graphql-request": "^7.3.1",
     "react": "18.3.1",
     "react-dom": "18.3.1",
     "react-lazy-load-image-component": "1.6.2",
     "react-modal": "3.16.1",
     "react-scripts": "5.0.1",
     "react-snap": "1.23.0",
-    "react-youtube": "10.1.0"
+    "react-youtube": "10.1.0",
+    "sass": "1.81.0"
   },
   "scripts": {
     "fetch": "node modules/getHistory",

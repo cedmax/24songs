@@ -15,7 +15,7 @@
         "id": "crystal-fighters-you-and-i",
         "title": "You & I",
         "artist": "Crystal Fighters",
-        "video": "https://youtube.com/watch?v=mxk24nL7xQY",
+        "video": "https://youtube.com/watch?v=Ra1yHDcJygY",
         "palette": [
             [64, 62, 62],
             [184, 68, 84],
@@ -75,7 +75,7 @@
         "id": "sufjan-stevens-should-have-known-better",
         "title": "Should Have Known Better",
         "artist": "Sufjan Stevens",
-        "video": "https://youtube.com/watch?v=lJJT00wqlOo",
+        "video": "https://youtube.com/watch?v=f5NAwgf-Wt0",
         "palette": [
             [52, 73, 86],
             [159, 150, 96],
@@ -99,7 +99,7 @@
         "id": "the-bohicas-swarm",
         "title": "Swarm",
         "artist": "The Bohicas",
-        "video": "https://youtube.com/watch?v=_TLW6LGALRM",
+        "video": "https://youtube.com/watch?v=ftBF9t3vsWw",
         "palette": [
             [76, 72, 60],
             [240, 203, 35],
@@ -135,7 +135,7 @@
         "id": "johnny-cash-i-see-a-darkness",
         "title": "I See a Darkness",
         "artist": "Johnny Cash",
-        "video": "https://youtube.com/watch?v=JWnUItw1ElU",
+        "video": "https://youtube.com/watch?v=vM3HKEHdN-k",
         "palette": [
             [68, 60, 52],
             [146, 123, 109],
@@ -171,7 +171,7 @@
         "id": "the-slow-show-dresden",
         "title": "Dresden",
         "artist": "The Slow Show",
-        "video": "https://youtube.com/watch?v=RXRu64GFu2Y",
+        "video": "https://youtube.com/watch?v=ZTQwhKK4mRI",
         "palette": [
             [60, 63, 65],
             [64, 64, 191],
@@ -183,7 +183,7 @@
         "id": "mother-mother-ghosting",
         "title": "Ghosting",
         "artist": "Mother Mother",
-        "video": "https://youtube.com/watch?v=up-2o-yAADc",
+        "video": "https://youtube.com/watch?v=lAhUScrPC7Y",
         "palette": [
             [64, 62, 61],
             [211, 31, 32],
@@ -207,7 +207,7 @@
         "id": "cut-copy-so-haunted",
         "title": "So Haunted",
         "artist": "Cut Copy",
-        "video": "https://youtube.com/watch?v=HJzE34OqiCc",
+        "video": "https://youtube.com/watch?v=VWuQ7SdgVVg",
         "palette": [
             [100, 59, 60],
             [229, 231, 23],
@@ -252,6 +252,18 @@
         ]
     },
     {
+        "id": "murubutu-marco-gioca-sottacqua",
+        "title": "Marco gioca sott'acqua",
+        "artist": "Murubutu",
+        "video": "https://youtube.com/watch?v=7SylSoyM1ao",
+        "palette": [
+            [59, 70, 73],
+            [142, 79, 63],
+            [150, 90, 79],
+            [186, 197, 196]
+        ]
+    },
+    {
         "id": "virginiana-miller-lettera-di-san-paolo-agli-operai",
         "title": "Lettera di San Paolo agli operai",
         "artist": "Virginiana Miller",
@@ -264,27 +276,15 @@
         ]
     },
     {
-        "id": "astronautalis-the-unfortunate-affairs-of-mary-and-earl",
-        "title": "The Unfortunate Affairs Of Mary And Earl",
+        "id": "astronautalis-these-are-the-best-days-of-your-life",
+        "title": "These Are The Best Days Of Your Life",
         "artist": "Astronautalis",
-        "video": "https://youtube.com/watch?v=bmK-NNi8XbE",
+        "video": "https://youtube.com/watch?v=ltNGm2AfNyc",
         "palette": [
-            [68, 57, 56],
-            [180, 162, 60],
-            [148, 172, 76],
-            [197, 195, 179]
-        ]
-    },
-    {
-        "id": "murubutu-i-marinai-tornano-tardi",
-        "title": "I marinai tornano tardi",
-        "artist": "Murubutu",
-        "video": "https://youtube.com/watch?v=0SVj2NNWjn4",
-        "palette": [
-            [60, 70, 73],
-            [158, 91, 76],
-            [116, 135, 140],
-            [186, 196, 195]
+            [69, 58, 56],
+            [222, 215, 92],
+            [124, 124, 106],
+            [198, 196, 181]
         ]
     }
 ]

@@ -15,7 +15,7 @@
         "id": "motel-motel-harlem",
         "title": "Harlem",
         "artist": "Motel Motel",
-        "video": "https://youtube.com/watch?v=VLEra4UUL_A",
+        "video": "https://youtube.com/watch?v=yCh-9ktlDQM",
         "palette": [
             [112, 59, 52],
             [188, 124, 108],
@@ -27,7 +27,7 @@
         "id": "michael-stipe-everythings-coming-undone",
         "title": "Everything's Coming Undone",
         "artist": "Michael Stipe",
-        "video": "https://youtube.com/watch?v=Badw6kyDj8w",
+        "video": "https://youtube.com/watch?v=S4IimfGTMrw",
         "palette": [
             [44, 51, 39],
             [173, 192, 118],
@@ -51,7 +51,7 @@
         "id": "giardini-di-miro-la-cenere-1",
         "title": "LA CENERE 1",
         "artist": "Giardini di Mirò",
-        "video": "https://youtube.com/watch?v=zrjR108hT04",
+        "video": "https://youtube.com/watch?v=4DJcabMMC7c",
         "palette": [
             [95, 73, 46],
             [228, 180, 92],
@@ -99,7 +99,7 @@
         "id": "unbelievable-truth-ciao-my-shining-star",
         "title": "Ciao My Shining Star",
         "artist": "Unbelievable Truth",
-        "video": "https://youtube.com/watch?v=j7ZzehpZEJo",
+        "video": "https://youtube.com/watch?v=4bs-e3QYLwk",
         "palette": [
             [44, 51, 39],
             [173, 192, 118],
@@ -123,7 +123,7 @@
         "id": "jonsi-boy-lilikoi",
         "title": "Boy Lilikoi",
         "artist": "Jónsi",
-        "video": "https://youtube.com/watch?v=ewnKlbZGrrM",
+        "video": "https://youtube.com/watch?v=vAq-WDfqpXk",
         "palette": [
             [52, 40, 37],
             [204, 107, 76],
@@ -168,18 +168,6 @@
         ]
     },
     {
-        "id": "danger-mouse-and-sparklehorse-insane-lullaby-featuring-james-mercer",
-        "title": "Insane Lullaby (feat. James Mercer)",
-        "artist": "Danger Mouse and Sparklehorse",
-        "video": "https://youtube.com/watch?v=droHzYw93EE",
-        "palette": [
-            [81, 76, 44],
-            [183, 104, 75],
-            [168, 131, 101],
-            [220, 212, 188]
-        ]
-    },
-    {
         "id": "bomb-the-music-industry-everybody-that-you-love",
         "title": "Everybody That You Love",
         "artist": "Bomb the Music Industry!",
@@ -207,12 +195,24 @@
         "id": "local-natives-cubism-dream",
         "title": "Cubism Dream",
         "artist": "Local Natives",
-        "video": "https://youtube.com/watch?v=26DrYvoviPo",
+        "video": "https://youtube.com/watch?v=VkC8neFduRA",
         "palette": [
             [88, 69, 65],
             [188, 159, 109],
             [143, 125, 112],
             [212, 200, 168]
+        ]
+    },
+    {
+        "id": "danger-mouse-and-sparklehorse-insane-lullaby-featuring-james-mercer",
+        "title": "Insane Lullaby (featuring James Mercer)",
+        "artist": "Danger Mouse and Sparklehorse",
+        "video": "https://youtube.com/watch?v=droHzYw93EE",
+        "palette": [
+            [81, 76, 44],
+            [183, 104, 75],
+            [168, 131, 101],
+            [220, 212, 188]
         ]
     },
     {
@@ -231,7 +231,7 @@
         "id": "enrico-brizzi-and-yuguerra-rialzati-bologna",
         "title": "Rialzati Bologna",
         "artist": "Enrico Brizzi & Yuguerra!",
-        "video": "https://youtube.com/watch?v=XO5RAv6uu80",
+        "video": "https://youtube.com/watch?v=C7L1qwBwQqM",
         "palette": [
             [88, 67, 46],
             [23, 158, 212],
@@ -279,7 +279,7 @@
         "id": "thom-yorke-all-for-the-best",
         "title": "All For The Best",
         "artist": "Thom Yorke",
-        "video": "https://youtube.com/watch?v=Q-b2hEgZFCQ",
+        "video": "https://youtube.com/watch?v=Yassj4iJK1k",
         "palette": [
             [44, 51, 39],
             [173, 192, 118],

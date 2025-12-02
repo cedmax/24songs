@@ -3,7 +3,7 @@
         "id": "the-beatles-i-am-the-walrus",
         "title": "I Am the Walrus",
         "artist": "The Beatles",
-        "video": "https://youtube.com/watch?v=TKuvJLTeJYY",
+        "video": "https://youtube.com/watch?v=Og-yjQGzIS8",
         "palette": [
             [28, 51, 49],
             [227, 184, 29],
@@ -15,7 +15,7 @@
         "id": "radiohead-bloom",
         "title": "Bloom",
         "artist": "Radiohead",
-        "video": "https://youtube.com/watch?v=nVECqjnJkNw",
+        "video": "https://youtube.com/watch?v=D2084nQbmvk",
         "palette": [
             [93, 71, 45],
             [198, 142, 52],
@@ -36,22 +36,22 @@
         ]
     },
     {
-        "id": "lofficina-della-camomilla-e-londra-e-londra",
-        "title": "E Londra e Londra",
+        "id": "lofficina-della-camomilla-ee-londra-e-londra",
+        "title": "EE Londra e Londra",
         "artist": "l'officina della camomilla",
         "video": "https://youtube.com/watch?v=SqBx6aD9Tdo",
         "palette": [
             [77, 77, 77],
             [128, 128, 128],
-            [144, 144, 144],
-            [188, 188, 188]
+            [77, 77, 77],
+            [236, 236, 236]
         ]
     },
     {
         "id": "fabrizio-de-andre-la-canzone-dellamore-perduto",
         "title": "La Canzone Dell'Amore Perduto",
         "artist": "Fabrizio De André",
-        "video": "https://youtube.com/watch?v=8LNuk0OgWhQ",
+        "video": "https://youtube.com/watch?v=1NXzQmgIqZ4",
         "palette": [
             [78, 50, 44],
             [234, 138, 88],
@@ -72,22 +72,22 @@
         ]
     },
     {
-        "id": "easy-star-all-stars-brain-damage",
-        "title": "Brain Damage",
+        "id": "easy-star-all-stars-airbag-feat-horace-andy",
+        "title": "Airbag (feat. Horace Andy)",
         "artist": "Easy Star All-Stars",
-        "video": "https://youtube.com/watch?v=pYZ3lpKIG5s",
+        "video": "https://youtube.com/watch?v=w7F-K3mWS24",
         "palette": [
-            [101, 93, 53],
-            [244, 214, 16],
-            [145, 117, 72],
-            [175, 186, 194]
+            [120, 98, 59],
+            [202, 39, 32],
+            [145, 125, 93],
+            [198, 182, 165]
         ]
     },
     {
         "id": "dessa-childrens-work",
         "title": "Children's Work",
         "artist": "Dessa",
-        "video": "https://youtube.com/watch?v=gSxSCv7Cegc",
+        "video": "https://youtube.com/watch?v=zr7OCZpKERM",
         "palette": [
             [64, 52, 42],
             [172, 100, 28],
@@ -111,7 +111,7 @@
         "id": "buck-65-superstars-dont-love",
         "title": "Superstars Don't Love",
         "artist": "Buck 65",
-        "video": "https://youtube.com/watch?v=tIacMiYzr-I",
+        "video": "https://youtube.com/watch?v=JbIa4FHT3Zw",
         "palette": [
             [44, 86, 91],
             [54, 118, 141],
@@ -123,7 +123,7 @@
         "id": "bomb-the-music-industry-you-still-believe-in-me",
         "title": "You Still Believe in Me?",
         "artist": "Bomb the Music Industry!",
-        "video": "https://youtube.com/watch?v=3qVMwRel9eg",
+        "video": "https://youtube.com/watch?v=n9xqTE_GU7o",
         "palette": [
             [69, 59, 58],
             [191, 119, 75],
@@ -133,9 +133,9 @@
     },
     {
         "id": "j-mascis-listen-to-me",
-        "title": "Listen To Me",
+        "title": "Listen to Me",
         "artist": "J Mascis",
-        "video": "https://youtube.com/watch?v=4VDMxEYIZJ4",
+        "video": "https://youtube.com/watch?v=uLM3pjWKNyE",
         "palette": [
             [90, 68, 47],
             [166, 70, 84],
@@ -147,7 +147,7 @@
         "id": "daniele-silvestri-le-navi",
         "title": "Le Navi",
         "artist": "Daniele Silvestri",
-        "video": "https://youtube.com/watch?v=_4Qb9shTH40",
+        "video": "https://youtube.com/watch?v=fBZhp2vhjw4",
         "palette": [
             [104, 67, 63],
             [179, 86, 82],
@@ -159,7 +159,7 @@
         "id": "brunori-sas-bruno-mio-dove-sei",
         "title": "Bruno mio dove sei",
         "artist": "Brunori Sas",
-        "video": "https://youtube.com/watch?v=xHYJ51p6uW4",
+        "video": "https://youtube.com/watch?v=8Tv0CAH_bVE",
         "palette": [
             [71, 54, 44],
             [156, 68, 60],
@@ -207,7 +207,7 @@
         "id": "crash-of-rhinos-big-sea",
         "title": "Big Sea",
         "artist": "Crash of Rhinos",
-        "video": "https://youtube.com/watch?v=9lKVGhkkp98",
+        "video": "https://youtube.com/watch?v=g7nMEHjUY7U",
         "palette": [
             [60, 76, 44],
             [128, 162, 94],
@@ -219,7 +219,7 @@
         "id": "serengeti-flutes",
         "title": "Flutes",
         "artist": "Serengeti",
-        "video": "https://youtube.com/watch?v=JQ_0VQH9Jxs",
+        "video": "https://youtube.com/watch?v=Jfq1__HkX_M",
         "palette": [
             [42, 80, 60],
             [113, 230, 183],
@@ -231,7 +231,7 @@
         "id": "the-drums-book-of-revelation",
         "title": "Book Of Revelation",
         "artist": "The Drums",
-        "video": "https://youtube.com/watch?v=XTWXX6_NHUA",
+        "video": "https://youtube.com/watch?v=FHHzLWCesEo",
         "palette": [
             [62, 46, 30],
             [201, 71, 54],
@@ -267,7 +267,7 @@
         "id": "i-cani-le-coppie",
         "title": "Le coppie",
         "artist": "I Cani",
-        "video": "https://youtube.com/watch?v=SqgiYxagMy4",
+        "video": "https://youtube.com/watch?v=pGGletsWJoQ",
         "palette": [
             [56, 76, 61],
             [194, 90, 88],
@@ -279,7 +279,7 @@
         "id": "astronautalis-the-river,-the-woods",
         "title": "The River, The Woods",
         "artist": "Astronautalis",
-        "video": "https://youtube.com/watch?v=KE8S3493u9g",
+        "video": "https://youtube.com/watch?v=DDMjw11CX9c",
         "palette": [
             [79, 58, 46],
             [156, 61, 44],

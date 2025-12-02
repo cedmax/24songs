@@ -9,18 +9,19 @@ module.exports = async (item, logger) => {
   let id, palette;
   const imgPath = `${__dirname}/../../public/images/${item.id}.jpg`;
 
-  if (item.img || !item.palette) {
+  if (item.image || !item.palette) {
     logger(`downloading image`);
     if (!fs.existsSync(imgPath)) {
-      if (item.img) {
+      if (item.image) {
         try {
           await download.image({
-            url: item.img.replace("/64s/", "/128s/"),
+            url: item.image.replace("/64s/", "/128s/"),
             dest: imgPath,
           });
+          logger(`image downloaded`);
         } catch (e) {
           logger(
-            chalk.red(`missing image: ${item.img.replace("/64s/", "/128s/")}`)
+            chalk.red(`missing image: ${item.image.replace("/64s/", "/128s/")}`)
           );
         }
       }

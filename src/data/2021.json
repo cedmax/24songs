@@ -12,15 +12,15 @@
         ]
     },
     {
-        "id": "cccp---fedeli-alla-linea-curami",
+        "id": "cccp-fedeli-alla-linea-curami",
         "title": "Curami",
         "artist": "CCCP – Fedeli Alla Linea",
-        "video": "https://youtube.com/watch?v=RbI5CQ6X5rQ",
+        "video": "https://youtube.com/watch?v=z-CPpN3VYR0",
         "palette": [
-            [36, 82, 84],
-            [222, 66, 82],
-            [112, 148, 143],
-            [196, 173, 175]
+            [52, 105, 94],
+            [210, 69, 84],
+            [109, 143, 138],
+            [210, 188, 178]
         ]
     },
     {
@@ -39,7 +39,7 @@
         "id": "alkaline-trio-metro",
         "title": "Metro",
         "artist": "Alkaline Trio",
-        "video": "https://youtube.com/watch?v=LzmQysnqeL8",
+        "video": "https://youtube.com/watch?v=YvEWjOjiHzU",
         "palette": [
             [90, 72, 39],
             [225, 181, 73],
@@ -61,7 +61,7 @@
     },
     {
         "id": "the-muslims-fuck-these-fuckin-fascists",
-        "title": "Fuck These Fuckin' Fascists",
+        "title": "Fuck These Fuckin Fascists",
         "artist": "The Muslims",
         "video": "https://youtube.com/watch?v=Q-7-DDgUh_E",
         "palette": [
@@ -99,7 +99,7 @@
         "id": "pixies-hey",
         "title": "Hey",
         "artist": "Pixies",
-        "video": "https://youtube.com/watch?v=PIkWJZf33UY",
+        "video": "https://youtube.com/watch?v=tVCUAXOBF7w",
         "palette": [
             [89, 68, 48],
             [180, 120, 92],
@@ -123,7 +123,7 @@
         "id": "mother-mother-hayloft",
         "title": "Hayloft",
         "artist": "Mother Mother",
-        "video": "https://youtube.com/watch?v=wiXvDsHfpdk",
+        "video": "https://youtube.com/watch?v=fFt0s7crDfo",
         "palette": [
             [64, 62, 61],
             [211, 31, 32],
@@ -135,7 +135,7 @@
         "id": "mischief-brew-coffee,-god,-and-cigarettes",
         "title": "Coffee, God, And Cigarettes",
         "artist": "Mischief Brew",
-        "video": "https://youtube.com/watch?v=Qhu2L9MHoj0",
+        "video": "https://youtube.com/watch?v=KKclBgisCMA",
         "palette": [
             [85, 69, 50],
             [120, 48, 33],
@@ -183,7 +183,7 @@
         "id": "pavement-in-the-mouth-a-desert",
         "title": "In the Mouth a Desert",
         "artist": "Pavement",
-        "video": "https://youtube.com/watch?v=kUz2EBk26KA",
+        "video": "https://youtube.com/watch?v=MC57OIl3XvU",
         "palette": [
             [69, 87, 63],
             [238, 97, 38],
@@ -205,9 +205,9 @@
     },
     {
         "id": "the-clash-straight-to-hell-remastered",
-        "title": "Straight to Hell",
+        "title": "Straight to Hell - Remastered",
         "artist": "The Clash",
-        "video": "https://youtube.com/watch?v=t7SvtikTkrM",
+        "video": "https://youtube.com/watch?v=lpE2J11aLxo",
         "palette": [
             [57, 61, 34],
             [240, 207, 49],
@@ -279,7 +279,7 @@
         "id": "frank-turner-i-am-disappeared",
         "title": "I Am Disappeared",
         "artist": "Frank Turner",
-        "video": "https://youtube.com/watch?v=29rCU1H1oo0",
+        "video": "https://youtube.com/watch?v=5Je6YnLNpL0",
         "palette": [
             [47, 84, 69],
             [158, 145, 67],

@@ -1,17 +1,5 @@
 [
     {
-        "id": "the-rural-alberta-advantage-four-night-rider",
-        "title": "Four Night Rider",
-        "artist": "The Rural Alberta Advantage",
-        "video": "https://youtube.com/watch?v=pcBa3NvXABc",
-        "palette": [
-            [92, 92, 52],
-            [52, 132, 188],
-            [156, 140, 76],
-            [194, 167, 155]
-        ]
-    },
-    {
         "id": "the-pains-of-being-pure-at-heart-laid",
         "title": "Laid",
         "artist": "The Pains of Being Pure at Heart",
@@ -39,7 +27,7 @@
         "id": "the-cowboys-now-with-feeling",
         "title": "Now With Feeling",
         "artist": "The Cowboys",
-        "video": "https://youtube.com/watch?v=yBjv6cQ66i0",
+        "video": "https://youtube.com/watch?v=GJi_HKTRYto",
         "palette": [
             [55, 65, 73],
             [220, 72, 56],
@@ -51,7 +39,7 @@
         "id": "starlight-mints-submarine-3",
         "title": "Submarine #3",
         "artist": "Starlight Mints",
-        "video": "https://youtube.com/watch?v=WNJiKq5qN8c",
+        "video": "https://youtube.com/watch?v=DkfentXKqU4",
         "palette": [
             [44, 68, 68],
             [230, 230, 25],
@@ -96,10 +84,22 @@
         ]
     },
     {
+        "id": "ben-kweller-how-it-should-be-sha-sha",
+        "title": "How It Should Be (Sha Sha)",
+        "artist": "Ben Kweller",
+        "video": "https://youtube.com/watch?v=TwHkgZVCzNY",
+        "palette": [
+            [80, 43, 38],
+            [210, 53, 56],
+            [172, 140, 84],
+            [216, 210, 184]
+        ]
+    },
+    {
         "id": "999-inside-out",
         "title": "Inside Out",
         "artist": "999",
-        "video": "https://youtube.com/watch?v=KESzLMzKrfw",
+        "video": "https://youtube.com/watch?v=BaE0HtlOJVg",
         "palette": [
             [67, 75, 43],
             [219, 159, 30],
@@ -123,7 +123,7 @@
         "id": "the-long-blondes-once-and-never-again",
         "title": "Once & Never Again",
         "artist": "The Long Blondes",
-        "video": "https://youtube.com/watch?v=LGfhStYcCZk",
+        "video": "https://youtube.com/watch?v=MDhiQfekdxo",
         "palette": [
             [67, 68, 59],
             [244, 132, 76],
@@ -159,7 +159,7 @@
         "id": "petrol-girls-preachers",
         "title": "Preachers",
         "artist": "Petrol Girls",
-        "video": "https://youtube.com/watch?v=naukmNiTodI",
+        "video": "https://youtube.com/watch?v=98sdOCQWT8o",
         "palette": [
             [150, 3, 3],
             [232, 79, 11],
@@ -183,7 +183,7 @@
         "id": "dead-pioneers-bad-indian",
         "title": "Bad Indian",
         "artist": "dead pioneers",
-        "video": "https://youtube.com/watch?v=Q6tdSH4yoM8",
+        "video": "https://youtube.com/watch?v=zjUUZxozCic",
         "palette": [
             [78, 67, 57],
             [232, 27, 35],

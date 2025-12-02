@@ -15,7 +15,7 @@
         "id": "frightened-rabbit-the-modern-leper",
         "title": "The Modern Leper",
         "artist": "Frightened Rabbit",
-        "video": "https://youtube.com/watch?v=ob3X77TwqEw",
+        "video": "https://youtube.com/watch?v=rAmw5zQWcyo",
         "palette": [
             [95, 71, 58],
             [196, 96, 88],
@@ -27,7 +27,7 @@
         "id": "easy-star-all-stars-airbag-feat-horace-andy",
         "title": "Airbag (feat. Horace Andy)",
         "artist": "Easy Star All-Stars",
-        "video": "https://youtube.com/watch?v=_m7-3fwbiRw",
+        "video": "https://youtube.com/watch?v=w7F-K3mWS24",
         "palette": [
             [120, 98, 59],
             [202, 39, 32],
@@ -39,12 +39,24 @@
         "id": "dukes-of-windsor-runaway",
         "title": "Runaway",
         "artist": "Dukes Of Windsor",
-        "video": "https://youtube.com/watch?v=U6oXsJIEuwI",
+        "video": "https://youtube.com/watch?v=6eppo10aG5E",
         "palette": [
             [49, 24, 39],
             [192, 36, 79],
             [142, 76, 165],
             [200, 170, 187]
+        ]
+    },
+    {
+        "id": "afterhours-male-di-miele",
+        "title": "Male Di Miele",
+        "artist": "Afterhours",
+        "video": "https://youtube.com/watch?v=0ECJoiGkBpk",
+        "palette": [
+            [87, 69, 59],
+            [234, 142, 12],
+            [125, 76, 68],
+            [228, 204, 204]
         ]
     },
     {
@@ -63,7 +75,7 @@
         "id": "vampire-weekend-the-kids-dont-stand-a-chance",
         "title": "The Kids Don't Stand a Chance",
         "artist": "Vampire Weekend",
-        "video": "https://youtube.com/watch?v=6uWT7CS6_W4",
+        "video": "https://youtube.com/watch?v=4Jv-75vJfxw",
         "palette": [
             [141, 66, 12],
             [247, 150, 36],
@@ -75,7 +87,7 @@
         "id": "we-are-scientists-ghouls",
         "title": "Ghouls",
         "artist": "We Are Scientists",
-        "video": "https://youtube.com/watch?v=x795nlpubR8",
+        "video": "https://youtube.com/watch?v=1-Ik29Iwc_s",
         "palette": [
             [84, 76, 44],
             [200, 158, 128],
@@ -87,7 +99,7 @@
         "id": "the-beatles-penny-lane",
         "title": "Penny Lane",
         "artist": "The Beatles",
-        "video": "https://youtube.com/watch?v=S-rB0pHI9fU",
+        "video": "https://youtube.com/watch?v=rrp8amzUmKo",
         "palette": [
             [145, 20, 8],
             [252, 219, 4],
@@ -96,22 +108,22 @@
         ]
     },
     {
-        "id": "santigold-les-artistes",
+        "id": "santogold-les-artistes",
         "title": "L.E.S. Artistes",
-        "artist": "Santigold",
+        "artist": "Santogold",
         "video": "https://youtube.com/watch?v=ciJDA0tcQfs",
         "palette": [
-            [74, 64, 42],
-            [175, 143, 80],
-            [148, 137, 112],
-            [172, 180, 193]
+            [81, 71, 47],
+            [106, 120, 149],
+            [100, 106, 124],
+            [172, 180, 196]
         ]
     },
     {
         "id": "death-cab-for-cutie-i-will-possess-your-heart",
         "title": "I Will Possess Your Heart",
         "artist": "Death Cab for Cutie",
-        "video": "https://youtube.com/watch?v=pq-yP7mb8UE",
+        "video": "https://youtube.com/watch?v=h6v6MyVh6Aw",
         "palette": [
             [86, 50, 60],
             [209, 42, 41],
@@ -123,7 +135,7 @@
         "id": "snowden-anti-anti",
         "title": "Anti-Anti",
         "artist": "Snowden",
-        "video": "https://youtube.com/watch?v=9mXBco65t4g",
+        "video": "https://youtube.com/watch?v=ag8Xr-fYfT8",
         "palette": [
             [76, 71, 65],
             [204, 191, 149],
@@ -147,7 +159,7 @@
         "id": "bloc-party-halo",
         "title": "Halo",
         "artist": "Bloc Party",
-        "video": "https://youtube.com/watch?v=ZWKYcDzjjoo",
+        "video": "https://youtube.com/watch?v=FSv3Pp_mhyk",
         "palette": [
             [97, 50, 56],
             [203, 81, 52],
@@ -171,7 +183,7 @@
         "id": "the-national-fake-empire",
         "title": "Fake Empire",
         "artist": "The National",
-        "video": "https://youtube.com/watch?v=KehwyWmXr3U",
+        "video": "https://youtube.com/watch?v=jsvgH2yZ5m0",
         "palette": [
             [68, 60, 36],
             [193, 188, 32],
@@ -219,24 +231,12 @@
         "id": "astronautalis-short-term-memory-loss",
         "title": "Short Term Memory Loss",
         "artist": "Astronautalis",
-        "video": "https://youtube.com/watch?v=NngTu-wX2t0",
+        "video": "https://youtube.com/watch?v=qqc2CpS62cA",
         "palette": [
             [63, 58, 60],
             [187, 163, 68],
             [132, 116, 100],
             [212, 204, 180]
-        ]
-    },
-    {
-        "id": "afterhours-hai-paura-del-buio",
-        "title": "Hai Paura Del Buio?",
-        "artist": "Afterhours",
-        "video": "https://youtube.com/watch?v=GC48Dz7tvg4",
-        "palette": [
-            [87, 49, 42],
-            [189, 124, 79],
-            [165, 124, 94],
-            [227, 220, 198]
         ]
     },
     {
@@ -255,7 +255,7 @@
         "id": "cloud-cult-no-one-said-it-would-be-easy",
         "title": "No One Said It Would Be Easy",
         "artist": "Cloud Cult",
-        "video": "https://youtube.com/watch?v=fQyhNfmjcOg",
+        "video": "https://youtube.com/watch?v=WQUXieXjBfQ",
         "palette": [
             [78, 91, 55],
             [196, 180, 76],
@@ -279,7 +279,7 @@
         "id": "bob-marley-and-the-wailers-is-this-love",
         "title": "Is This Love",
         "artist": "Bob Marley & The Wailers",
-        "video": "https://youtube.com/watch?v=CHekNnySAfM",
+        "video": "https://youtube.com/watch?v=69RdQFDuYPI",
         "palette": [
             [74, 54, 44],
             [199, 130, 63],

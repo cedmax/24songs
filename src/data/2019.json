@@ -2,7 +2,7 @@
     {
         "id": "jank-chunks-cool-enuff",
         "title": "Chunks (Cool Enuff)",
-        "artist": "jank",
+        "artist": "JANK",
         "video": "https://youtube.com/watch?v=s9ectXiIPzE",
         "palette": [
             [70, 42, 55],
@@ -27,7 +27,7 @@
         "id": "fucked-up-the-other-shoe",
         "title": "The Other Shoe",
         "artist": "Fucked Up",
-        "video": "https://youtube.com/watch?v=mW0-jrDeSgQ",
+        "video": "https://youtube.com/watch?v=g3f7IAbNxXI",
         "palette": [
             [124, 116, 84],
             [204, 188, 140],
@@ -75,7 +75,7 @@
         "id": "im-glad-its-you-curbside",
         "title": "Curbside",
         "artist": "I'm Glad It's You",
-        "video": "https://youtube.com/watch?v=2JQZ3fnbtSA",
+        "video": "https://youtube.com/watch?v=8seAR_eOpME",
         "palette": [
             [76, 67, 40],
             [148, 66, 67],
@@ -87,7 +87,7 @@
         "id": "free-throw-two-beers-in",
         "title": "Two Beers In",
         "artist": "Free Throw",
-        "video": "https://youtube.com/watch?v=VNcc4PTZDAg",
+        "video": "https://youtube.com/watch?v=5F3KZsRRTe0",
         "palette": [
             [74, 88, 127],
             [132, 172, 196],
@@ -135,7 +135,7 @@
         "id": "prince-daddy-and-the-hyena-really",
         "title": "Really?",
         "artist": "Prince Daddy & The Hyena",
-        "video": "https://youtube.com/watch?v=5wYbNaC8zUA",
+        "video": "https://youtube.com/watch?v=XTSD9YvfurM",
         "palette": [
             [72, 63, 66],
             [223, 208, 91],
@@ -159,7 +159,7 @@
         "id": "slaughter-beach,-dog-104-degrees",
         "title": "104 degrees",
         "artist": "Slaughter Beach, Dog",
-        "video": "https://youtube.com/watch?v=axN6eXdBDnQ",
+        "video": "https://youtube.com/watch?v=zgl2nde3MRE",
         "palette": [
             [48, 75, 56],
             [124, 188, 204],
@@ -171,7 +171,7 @@
         "id": "the-hotelier-an-introduction-to-the-album",
         "title": "An Introduction to the Album",
         "artist": "The Hotelier",
-        "video": "https://youtube.com/watch?v=u3gnoN_Pvm8",
+        "video": "https://youtube.com/watch?v=TzOsShM6yjk",
         "palette": [
             [53, 86, 58],
             [209, 139, 46],
@@ -231,7 +231,7 @@
         "id": "retirement-party-shoulder-it",
         "title": "Shoulder It",
         "artist": "Retirement Party",
-        "video": "https://youtube.com/watch?v=fEF4omA-RMM",
+        "video": "https://youtube.com/watch?v=oHfk03c_0MU",
         "palette": [
             [39, 53, 90],
             [202, 33, 29],
@@ -243,7 +243,7 @@
         "id": "michael-cera-palin-portrait-of-a-man-on-a-couch-with-cats",
         "title": "Portrait of a Man on a Couch With Cats",
         "artist": "Michael Cera Palin",
-        "video": "https://youtube.com/watch?v=9s9XM9OFUhg",
+        "video": "https://youtube.com/watch?v=zPvoYEtiwig",
         "palette": [
             [60, 76, 62],
             [178, 151, 87],
@@ -267,7 +267,7 @@
         "id": "awakebutstillinbed-life",
         "title": "life",
         "artist": "awakebutstillinbed",
-        "video": "https://youtube.com/watch?v=oHUGN1TfVAg",
+        "video": "https://youtube.com/watch?v=q5DgHrSnk-4",
         "palette": [
             [58, 62, 43],
             [209, 176, 106],
@@ -281,10 +281,10 @@
         "artist": "Wolf Parade",
         "video": "https://youtube.com/watch?v=7G1eLTV89dM",
         "palette": [
-            [110, 43, 61],
-            [194, 99, 124],
-            [119, 113, 137],
-            [197, 185, 201]
+            [43, 73, 110],
+            [72, 121, 183],
+            [128, 112, 136],
+            [185, 187, 202]
         ]
     }
 ]

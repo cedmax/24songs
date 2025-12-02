@@ -3,7 +3,7 @@
         "id": "giancane-strappati-lungo-i-bordi",
         "title": "Strappati Lungo i Bordi",
         "artist": "Giancane",
-        "video": "https://youtube.com/watch?v=6Jpoz_vo3Is",
+        "video": "https://youtube.com/watch?v=s-nGTvWD6PQ",
         "palette": [
             [60, 60, 60],
             [128, 128, 128],
@@ -27,7 +27,7 @@
         "id": "jacopo-et-gli-racconteremo-feat-lo-stato-sociale",
         "title": "Gli racconteremo (feat. Lo Stato Sociale)",
         "artist": "Jacopo Et",
-        "video": "https://youtube.com/watch?v=aFuJJYL5uqM",
+        "video": "https://youtube.com/watch?v=9awnndGBwBY",
         "palette": [
             [44, 61, 84],
             [199, 33, 39],
@@ -51,7 +51,7 @@
         "id": "embrace-money",
         "title": "Money",
         "artist": "Embrace",
-        "video": "https://youtube.com/watch?v=_CIzqzFDGis",
+        "video": "https://youtube.com/watch?v=Ym5uHulzaNs",
         "palette": [
             [67, 70, 73],
             [195, 195, 60],
@@ -192,18 +192,6 @@
         ]
     },
     {
-        "id": "gazebo-penguins-nubifragio",
-        "title": "Nubifragio",
-        "artist": "Gazebo Penguins",
-        "video": "https://youtube.com/watch?v=e7SjaEVe2Tk",
-        "palette": [
-            [58, 45, 61],
-            [175, 80, 143],
-            [118, 111, 124],
-            [179, 175, 186]
-        ]
-    },
-    {
         "id": "giallorenzo-megapugno",
         "title": "MEGAPUGNO",
         "artist": "GIALLORENZO",
@@ -213,6 +201,18 @@
             [244, 107, 67],
             [88, 166, 109],
             [197, 172, 187]
+        ]
+    },
+    {
+        "id": "gazebo-penguins-nubifragio",
+        "title": "Nubifragio",
+        "artist": "Gazebo Penguins",
+        "video": "https://youtube.com/watch?v=jkW4eX-bTXQ",
+        "palette": [
+            [58, 45, 61],
+            [175, 80, 143],
+            [118, 111, 124],
+            [179, 175, 186]
         ]
     },
     {
