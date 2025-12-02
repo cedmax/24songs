@@ -48,8 +48,13 @@ const getPreselected = (year, data, tokens) => {
   if (isNaN(yearIndex)) {
     return resetUrl();
   }
-  window.history.replaceState({}, "", "/");
-  return data[yearIndex][tokens[2] - 1];
+
+  window.location = `https://cedmax.net/music/24songs/${
+    tokens[0]
+  }/?day=${`${tokens[2]}`.padStart(2, 0)}`;
+
+  //window.history.replaceState({}, "", "/");
+  // return data[yearIndex][tokens[2] - 1];
 };
 
 const selectNext = (data, selected) => {

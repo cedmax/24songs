@@ -1,2 +1,3 @@
-/rss /.netlify/functions/rss    200
+/rss https://cedmax.net/feeds/24songs 301
+/ https://cedmax.net/music/24songs/ 301!
 /* /index.html 200
